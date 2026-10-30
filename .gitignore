@@ -1,0 +1,51 @@
+# Bodiyo .gitignore (from Laurent's security review, 2026-10-29).
+
+# --- Secrets and local config (never commit) ---
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.keystore
+.gemini_key
+supabase/.temp/
+.vercel/
+.netlify/
+
+# --- OS / editor noise ---
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+.idea/
+
+# --- Node / tooling output ---
+node_modules/
+npm-debug.log*
+yarn-error.log*
+*.log
+prototype-v2/tools/last-test-results.json
+prototype/tools/last-test-results.json
+
+# --- Archives and bulky generated files ---
+*.zip
+# evidence.js / evidence.json are build outputs of tools/import-evidence.js (~1 MB each).
+# Keep them committed while the app is served as static files; ignore once a build step exists:
+# prototype-v2/evidence.js
+# prototype-v2/evidence.json
+
+# --- Third-party material we must not publish ---
+# Competitor app screenshots (copyright belongs to the competitor).
+lyfta-screens/
+
+# --- Agent scratch and internal working files ---
+.emrys/
+evidence.backup-*.md
+contradictions-for-vinci.md
+# Decide before the first public push (internal QA notes, absolute /workspace paths inside):
+# qa-*.md
+# qa-screens/
+# prototype-v2/screenshots/

@@ -1,0 +1,37 @@
+{
+  "_doc": [
+    "QA approval gate for tools/import-evidence.js. Only Stirner-approved evidence ships in the app.",
+    "source: the frozen evidence.md snapshot the importer reads. The live /workspace/carlsen/evidence.md is NEVER read, so later edits cannot leak in.",
+    "Per topic: \"snapshot\" = that topic's text (incl. its One-line answer) from `source`; \"round1\" = frozen round-one text from evidence-approved/round1-v1-evidence.json; \"pending\" = a marked '[Pending QA approval]' placeholder. Topics missing from this list are pending.",
+    "T6 SWITCH: topics.6 can be set to \"round1\" (v1 round-one text) or \"snapshot\". 19:00 EET Hoang decided: T6 Why? text from the approved snapshot; the app's rest prescription stays 2-3 min with a 2:30 default timer on every exercise (data.js), presented as the app's default inside T6's approved 90 s-3 min range (settings.convention.rest-default).",
+    "fallbackToApprovedTopic: when a UI key's primary topic is pending, use the next topic in that key's list if it is approved (only listed where that topic already states the same rule). false = strict placeholders.",
+    "Flip a value and re-run: sh tools/build.sh",
+    "exerciseNotes: show exercises.json `evidenceNote` text in the app (Stirner approved exercises.json round 2: 119 exercises, 20 notes)."
+  ],
+  "approvedBy": "Stirner. 18:06 EET: exercises.json library + notes. 18:33 EET: exercises.json round 2 (119 exercises, 20 evidence notes). ~19:00 EET (relayed by Luxanna 18:58): ALL topics T1-T15 incl. 13a, 13b, 13c, T14 approved in Silas's ~19:00 evidence.md, frozen as evidence-approved/evidence-1900-approved.md. 19:00 EET: Hoang decided T6 (snapshot text; 2-3 min default kept as a convention). No exceptions.",
+  "fallbackToApprovedTopic": true,
+  "exerciseNotes": true,
+  "topics": {
+    "1": "snapshot",
+    "2": "snapshot",
+    "3": "snapshot",
+    "4": "snapshot",
+    "5": "snapshot",
+    "6": "snapshot",
+    "7": "snapshot",
+    "8": "snapshot",
+    "9": "snapshot",
+    "10": "snapshot",
+    "11": "snapshot",
+    "12": "snapshot",
+    "13": "snapshot",
+    "13a": "snapshot",
+    "13b": "snapshot",
+    "13c": "snapshot",
+    "14": "snapshot",
+    "15": "snapshot"
+  },
+  "source": "evidence-approved/evidence-1900-approved.md",
+  "sourceSha256": "c83f6094c783193583692c6623b72203f420e814005efd78eb78382d53726464",
+  "t6Note": "19:00 EET: Hoang chose the approved 19:00 T6 text for the Why?, keeping the 2-3 min / 2:30 default prescription as a product convention"
+}

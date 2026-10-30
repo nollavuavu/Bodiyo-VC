@@ -1,0 +1,1282 @@
+[
+[
+"1|heading",
+"Mechanical tension, fiber recruitment and \"effective reps\""
+],
+[
+"1|oneLiner",
+"Muscle grows mainly in response to high tension on its fibers, and sets that end close to failure deliver that tension with light or heavy weights."
+],
+[
+"1|summary",
+"Muscles grow mainly in response to high mechanical tension on their fibers. As a set gets hard, your body recruits its largest, most growth-prone motor units, and the bar slows down. According to a leading model, the slow, hard reps near failure are when those fibers work hardest. That's why light and heavy sets built similar muscle in trials where both were taken to failure. In several velocity-based trials, letting the bar slow down more within each set (stopping closer to failure) built more muscle, although those sets also included more reps; when total reps were roughly matched, results were mixed: two small trials found no difference and one found slightly more thigh growth with more slowing."
+],
+[
+"1|recommendation",
+"Make every working set end hard: the last few reps should slow down noticeably even though you're pushing as hard as you can."
+],
+[
+"1|evidenceStrength",
+"Moderate. Mechanical tension as the main stimulus is well supported by mechanistic reviews (Wackerhage 2019, Roberts 2023) and by trials where light and heavy loads taken to failure built similar muscle (Mitchell 2012, Morton 2016). The **\"effective reps\"** idea, that the last ~5 slow reps near failure do most of the stimulating, is a **theoretical model**, and the ~5 figure is an estimate from that model, not a count measured in any cited study. It's built from motor-unit recruitment and force-velocity physiology and has not been tested directly as a rep-counting rule. Morton 2019 supports type II fiber activation near failure at any load, but it used glycogen depletion as an indirect marker. Velocity-loss trials (Pareja-Blanco 2017, 2020, 2026; the Jukic 2023 review) generally found more growth with more velocity loss, but they mostly tested squats or bench press in young men, and higher velocity loss also meant more total reps. Among trials that roughly matched total volume, two small ones found no difference (Andersen 2024, Terada 2022) and one in strength-trained lifters found slightly more vastus lateralis growth with higher velocity loss (Myrholt 2023, n=16, 6 wk; whole-body lean mass (DXA) did not differ). EMG studies find heavier loads keep higher surface EMG even at failure (Jenkins 2015; Colosio 2026), so equal recruitment at light loads is inferred from growth trials, not shown directly."
+],
+[
+"1|cite|10.1152/japplphysiol.00685.2018|detail",
+"Narrative review of the stimuli and sensors that start hypertrophy; mechanical signals are the leading candidate trigger."
+],
+[
+"1|cite|10.1152/physrev.00039.2022|detail",
+"Physiological Reviews overview of mechanical-overload hypertrophy (mTORC1 signalling, ribosome biogenesis, satellite cells, muscle protein synthesis); it also lists where mechanisms are still disputed."
+],
+[
+"1|cite|10.1113/JP278056|detail",
+"Sets to task failure with heavier or lighter loads and normal or slow reps gave similar glycogen depletion in type I and type II fibres, an indirect marker of fibre activation."
+],
+[
+"1|cite|10.1152/japplphysiol.00154.2016|detail",
+"20–25 reps at ~30–50% 1RM vs 8–12 reps at ~75–90% 1RM, all sets to failure: similar hypertrophy; post-exercise hormone levels did not predict growth."
+],
+[
+"1|cite|10.1152/japplphysiol.00307.2012|detail",
+"Knee extension 3 sets at 30% 1RM vs 3 sets at 80% 1RM, to failure: similar MRI muscle volume gains (+6.8% vs +7.2%); 1 set at 80% gave +3.2% (not significantly different)."
+],
+[
+"1|cite|10.1111/sms.12678|detail",
+"Squat with 40% vs 20% velocity loss per set: 40% gave more vastus lateralis and intermedius hypertrophy; 20% gave similar strength with 40% fewer reps and larger jump gains."
+],
+[
+"1|cite|10.1249/MSS.0000000000002295|detail",
+"Squat with 0%, 10%, 20% or 40% velocity loss: only the 20% and 40% groups increased muscle size significantly (group × time p=0.06); 40% also had some negative neuromuscular changes."
+],
+[
+"1|cite|10.1249/MSS.0000000000003988|detail",
+"Bench press, 12 groups crossing load (40–85% 1RM) and velocity loss (0–50%): 50% velocity loss gave the largest pectoralis cross-sectional-area gains, and 70–85% 1RM gave the largest gains across outcomes."
+],
+[
+"1|cite|10.1007/s40279-022-01754-4|detail",
+"More velocity loss per set was associated with more hypertrophy (b=0.006, 95% CI 0.001–0.012) but not with strength."
+],
+[
+"1|cite|10.1123/ijspp.2022-0161|detail",
+"Squat and bench press with low vs high velocity-loss thresholds and similar volume: similar 1RM and DEXA lean mass; a small vastus lateralis thickness advantage for high velocity loss (6 ± 6%). Erratum: IJSPP 2023;18(4):455, https://doi.org/10.1123/ijspp.2023-0050 (PubMed 36805934) — corrects the unit for vastus lateralis and triceps brachii thickness in Table 2 from centimeters to millimeters; the 6 ± 6% figure used here is unaffected."
+],
+[
+"1|cite|10.1007/s00421-015-3214-9|detail",
+"Leg extension, 3 sets to failure at 80% vs 30% 1RM: surface EMG amplitude stayed higher at 80% across all reps and sets; muscle activation was greater at 80% 1RM."
+],
+[
+"1|cite|10.7717/peerj.20909|detail",
+"Exhaustive leg extension at 10–90% 1RM: muscle excitation at exhaustion rose with load and did not reach a common EMG level across loads; 10% 1RM did not lead to failure."
+],
+[
+"1|cite|10.1519/JSC.0000000000004067|detail",
+"Leg press and leg extension at 15% vs 30% velocity loss with matched volume: no differences in muscle thickness or strength."
+],
+[
+"1|cite|10.1519/JSC.0000000000003690|detail",
+"Bench press at 40% 1RM to failure vs to 20% velocity loss with equal work volume: similar hypertrophy and strength."
+],
+[
+"2|heading",
+"Proximity to failure and reps in reserve (RIR)"
+],
+[
+"2|oneLiner",
+"Take most sets close to failure (about 0–2 reps left); stopping a rep or two short has built about as much muscle as true failure in most trials."
+],
+[
+"2|summary",
+"Muscle growth tends to improve the closer each set gets to failure. A 2024 analysis of the research found hypertrophy kept rising as reps in reserve went down, while strength gains were about the same across a wide range of RIR. Going all the way to true failure on every set doesn't clearly beat stopping a rep or two short, and it costs more fatigue. In head-to-head trials in trained lifters, stopping 1–3 reps short of failure built about as much muscle as going to failure; when you do only one set of an exercise, taking it closer to failure may add a little."
+],
+[
+"2|recommendation",
+"End most sets at 0–2 RIR (0–1 on isolation and machine work, 1–3 on heavy compound lifts), and save true failure for the last set of safe exercises."
+],
+[
+"2|evidenceStrength",
+"Moderate. Refalo 2023 found only a trivial edge for failure over non-failure, which points to a non-linear relationship. Robinson 2024 found a clear dose-response, but its RIR values were *estimated* from study descriptions and the authors call the analysis exploratory. Newer within-person trials in trained lifters (Refalo 2024; Vasconcelos 2026 arms and legs) found 1–3 RIR about equal to failure, but each had about 18–19 people and 8 weeks. Lasevicius 2022 suggests failure matters more with light loads, since a light set stopped early leaves many reps (and much tension) on the table. Some results lean toward failure (Grgic 2022's trained subgroup; Hermann 2025 with one set per exercise; Martorelli 2017, where thickness rose significantly with failure and with volume-matched non-failure but not with lower-volume non-failure). Across 13 studies failure was favoured overall, but not when volume was equalized (Vieira 2021). This fits the idea that closeness to failure matters most when sets are few or loads light. People underestimate how many reps they have left by about 1 rep on average (Halperin 2022), so a \"2 RIR\" set may really be about 3 RIR. The exact RIR targets per exercise type in the recommendation are a Carlsen product rule built on this research, not a study finding."
+],
+[
+"2|cite|10.1007/s40279-024-02069-2|detail",
+"Exploratory meta-regressions with RIR estimated from study descriptions: hypertrophy increased as sets ended closer to failure; strength was similar across a wide RIR range."
+],
+[
+"2|cite|10.1007/s40279-022-01784-y|detail",
+"Set failure vs non-failure: trivial advantage for hypertrophy (ES 0.19, 95% CI 0.00–0.37); momentary failure vs non-failure alone: ES 0.12 (−0.13 to 0.37), not significant."
+],
+[
+"2|cite|10.1016/j.jshs.2021.01.007|detail",
+"No overall hypertrophy difference (ES 0.22, 95% CI −0.11 to 0.55); in the resistance-trained subgroup failure had a small significant edge (ES 0.15, 0.03–0.26)."
+],
+[
+"2|cite|10.1080/02640414.2024.2321021|detail",
+"Leg press and leg extension to momentary failure vs 1–2 RIR: quadriceps thickness +0.181 vs +0.182 cm."
+],
+[
+"2|cite|10.3390/muscles5030061|detail",
+"Preacher curl to failure vs 1–3 RIR: thickness difference 0.032 cm (95% HDI −0.044 to 0.113), similar strength."
+],
+[
+"2|cite|10.1519/JSC.0000000000005494|detail",
+"Leg extension to failure vs 1–3 RIR: negligible thickness difference (−0.019 cm, −0.094 to 0.054)."
+],
+[
+"2|cite|10.5114/biolsport.2020.96317|detail",
+"Failure vs non-failure: similar vastus lateralis CSA gains (+13.5% vs +18.1%) and strength."
+],
+[
+"2|cite|10.1519/JSC.0000000000001787|detail",
+"Failure vs voluntary stopping at high and low loads: similar CSA gains (6.1–7.5%)."
+],
+[
+"2|cite|10.1519/JSC.0000000000003438|detail",
+"Knee extension with equal total reps, failure vs non-failure: similar average gains; individual analysis favoured non-failure for vastus lateralis."
+],
+[
+"2|cite|10.1519/JSC.0000000000003454|detail",
+"Volume-equated knee extension: at 80% 1RM failure added nothing; at 30% 1RM, stopping at ~20 of ~34 possible reps grew little (+2.8%) vs failure (+7.8%)."
+],
+[
+"2|cite|10.1249/MSS.0000000000003728|detail",
+"One set per exercise, failure vs 2 RIR: several hypertrophy measures tended to favour failure, with modest absolute differences; strength similar."
+],
+[
+"2|cite|10.4081/ejtm.2017.6339|detail",
+"Biceps curl at 70% 1RM: thickness rose significantly with failure (+17.5%) and with volume-matched non-failure (+8.5%) but not with 3×7 non-failure (+2.1%; it was +3.9% at 5 wk); the title's \"no additional gains\" refers mainly to strength."
+],
+[
+"2|cite|10.1519/JSC.0000000000003936|detail",
+"Hypertrophy favoured training to failure overall, but not when training volume was equalized between conditions."
+],
+[
+"2|cite|10.1007/s40279-021-01559-x|detail",
+"People underpredicted reps to failure by ~0.95 reps on average, with very high heterogeneity."
+],
+[
+"2|cite|10.1002/ejsc.12266|detail",
+"Same cohort as Refalo 2024. Training to failure raised perceived discomfort and exertion; stopping at 1–2 RIR gave more positive feelings."
+],
+[
+"3|heading",
+"Load and rep range (≈5–30 reps)"
+],
+[
+"3|oneLiner",
+"Roughly 5 to 30 reps per set build similar muscle when sets end close to or at failure; heavier loads build more max strength."
+],
+[
+"3|summary",
+"Heavy and light weights build similar amounts of muscle, as long as sets are taken close to failure. That works across roughly 5 to 30 reps, in trials with both new and experienced lifters and in a meta-analysis that matched the total weight lifted. Heavier loads build more max strength. Very light, high-rep sets are more uncomfortable and fatiguing, and very heavy sets put more stress on joints. Most people do best in the middle of the range."
+],
+[
+"3|recommendation",
+"Default to 6–12 reps on compound lifts and 10–20 on isolation exercises. Go heavier (3–6) if max strength is a goal, and use up to ~30 reps when joints need a break."
+],
+[
+"3|evidenceStrength",
+"Strong for similar hypertrophy across loads when sets go to or near failure, and strong that heavy loads are better for 1RM strength (Lopez 2021, Carvalho 2022). The finding holds in trained lifters (Schoenfeld 2015, Morton 2016, Cumming 2025) and untrained people (Mitchell 2012, Jenkins 2017). The practical tradeoffs (discomfort, fatigue, and how hard it is to judge failure at high reps, and joint stress at very heavy loads) come mostly from practical experience and study observations rather than dedicated trials. Two results do not fit neatly: Hammert 2026 found more growth with 20–30 reps than 8–12 in a large 6-week trial of untrained elbow flexors, and Lasevicius 2018 found 20% 1RM less effective than heavier volume-matched loads, while a meta-analysis of volume-matched studies found no clear difference down to very light loads (Carvalho 2022). Neither changes the 5–30 rep guidance. Very low loads are less well studied: most trials used about 30% 1RM as their light condition (Mitchell 2012, Jenkins 2017, Bello 2025), so the evidence thins out below that."
+],
+[
+"3|cite|10.1519/JSC.0000000000002200|detail",
+"Low (≤60% 1RM) vs high (>60%) loads with sets to failure: similar hypertrophy; heavy loads better for 1RM strength."
+],
+[
+"3|cite|10.1249/MSS.0000000000002585|detail",
+"Sets to failure: no hypertrophy difference between low, moderate and high loads; strength better with moderate and high loads. A 2022 corrigendum corrected three strength effect sizes without changing the conclusions."
+],
+[
+"3|cite|10.1139/apnm-2021-0515|detail",
+"With volume load (sets × reps × weight) matched, hypertrophy was similar across very low to high loads; heavier loads gave more 1RM strength."
+],
+[
+"3|cite|10.1519/JSC.0000000000000958|detail",
+"25–35 reps vs 8–12 reps per set to failure: similar muscle thickness gains; heavier loads better for 1RM."
+],
+[
+"3|cite|10.1152/japplphysiol.00154.2016|detail",
+"20–25 reps vs 8–12 reps to failure: similar hypertrophy."
+],
+[
+"3|cite|10.1152/japplphysiol.00353.2025|detail",
+"3–5 RM vs 20–25 RM to failure: similar muscle thickness gains; heavy loads better for single-joint strength."
+],
+[
+"3|cite|10.3390/jfmk11010017|detail",
+"85% vs 30% 1RM to failure, whole body: similar muscle-thickness gains at most sites, but the triceps brachii grew more with the heavy load (group × time interaction, p=0.04 in the abstract); more 1RM strength with heavy loads."
+],
+[
+"3|cite|10.3389/fphys.2017.00331|detail",
+"80% vs 30% 1RM leg extension to failure: similar muscle thickness gains; larger strength and neural adaptations at 80%."
+],
+[
+"3|cite|10.1152/japplphysiol.00307.2012|detail",
+"30% vs 80% 1RM, 3 sets to failure: similar muscle volume gains."
+],
+[
+"3|cite|10.1136/bjsports-2023-106807|detail",
+"All prescriptions built muscle; load made little difference to hypertrophy, while heavier loads ranked best for strength."
+],
+[
+"3|cite|10.3390/sports9020032|detail",
+"Re-examination of the \"repetition continuum\": hypertrophy can be achieved across a wide spectrum of loads."
+],
+[
+"3|cite|10.1249/MSS.0000000000004052|detail",
+"Elbow flexion to failure, 20–30 RM vs 8–12 RM: low load gave larger muscle thickness gains (~0.30 vs ~0.20 cm). Online ahead of print."
+],
+[
+"3|cite|10.1080/17461391.2018.1450898|detail",
+"Volume load matched to a 20% 1RM condition trained to failure: all loads grew muscle, but 20% 1RM was suboptimal (vastus lateralis +8.9% vs +19.5% at 80%)."
+],
+[
+"4|heading",
+"Training frequency per muscle and split choice"
+],
+[
+"4|oneLiner",
+"When weekly hard sets are equal, training a muscle once, twice or three times a week builds similar muscle; about twice a week is a practical default, not a requirement."
+],
+[
+"4|summary",
+"If total weekly hard sets are the same, training a muscle once, twice, or three times a week builds similar muscle. Full-body and split routines produced similar growth in a 2024 analysis of 14 studies. Training a muscle about twice a week is a practical way to spread sets so sessions stay manageable. That's why full-body, upper/lower, and push/pull/legs splits are all good choices. A once-a-week \"bro split\" works too, but it crams a lot of sets into one session."
+],
+[
+"4|recommendation",
+"Hit each muscle about 2× per week. Pick full body for 2–3 days a week, upper/lower for 4, and PPL for 5–6. A 5-day upper/lower + PPL hybrid (Upper, Lower, Push, Pull, Legs) also trains each muscle about twice a week. Only choose a bro split if you prefer it and keep the sets per session reasonable."
+],
+[
+"4|evidenceStrength",
+"Strong that frequency matters little for growth once weekly volume is equal (Schoenfeld 2019, 25 studies; Ramos-Campo 2024, 14 studies; Pelland 2026, 67 studies). Pelland 2026 found more frequency did help strength. The 2016 analysis (10 studies) favored 2×/week over 1×; later analyses with many more studies (25 and 67) did not confirm a frequency effect once volume was equal. Individual trials sometimes favour higher frequency (Schoenfeld 2015; Zaroni 2019) or lower frequency (Lasevicius 2019, Yue 2018); these single small trials point both ways, as expected around a near-zero average effect. In 18 well-trained men over 8 weeks, training each muscle 5×/week instead of 1×/week, with the same weekly sets per muscle, grew elbow flexors and vastus lateralis more; strength gains were similar (Zaroni 2019). Total load lifted was 22.3% higher in the 5×/week group, so the volume-load match was not exact. So \"2× per week\" is a practical way to spread volume, not a growth requirement in itself. The day counts paired with each split in the recommendation are a Carlsen scheduling rule, not a study finding."
+],
+[
+"4|hybridLine",
+"A 5-day upper/lower + PPL hybrid (Upper, Lower, Push, Pull, Legs) also trains each muscle about twice a week."
+],
+[
+"4|cite|10.1080/02640414.2018.1555906|detail",
+"With volume equated, no significant effect of frequency on hypertrophy; with volume not equated, higher frequencies had a modest edge."
+],
+[
+"4|cite|10.1007/s40279-016-0543-8|detail",
+"2×/wk vs 1×/wk per muscle: ES 0.49 vs 0.30, favouring twice a week (volume-equated comparisons)."
+],
+[
+"4|cite|10.1007/s40279-025-02344-w|detail",
+"Once weekly volume was accounted for, frequency had a negligible effect on hypertrophy but some effect on strength."
+],
+[
+"4|cite|10.1519/JSC.0000000000004774|detail",
+"Split vs full-body routines at equal volume: similar hypertrophy (e.g. vastus lateralis MD −0.08, k=5) and strength."
+],
+[
+"4|cite|10.1519/JSC.0000000000002909|detail",
+"3 vs 6 sessions/wk with equal weekly volume: similar muscle thickness and strength gains."
+],
+[
+"4|cite|10.1519/JSC.0000000000002559|detail",
+"Each muscle 1×/wk (split) vs every session (full body), 5 sessions/wk with equal weekly sets: similar DEXA lean mass and 1RM gains."
+],
+[
+"4|cite|10.31744/einstein_journal/2021AO5781|detail",
+"Each muscle 2×/wk (A/B split) vs 4×/wk (full body) with equal weekly sets: similar strength and muscle thickness gains."
+],
+[
+"4|cite|10.1519/JSC.0000000000000970|detail",
+"1×/wk split vs 3×/wk total body with equal volume: forearm-flexor thickness favoured 3×/wk; other sites similar."
+],
+[
+"4|cite|10.2478/hukin-2019-0062|detail",
+"2 vs 3 sessions/wk with equal volume: no significant differences; effect sizes slightly favoured 2×/wk."
+],
+[
+"4|cite|10.1139/apnm-2017-0575|detail",
+"Volume-equalised split vs full-body routines: only the lower-frequency split group gained significant upper-body hypertrophy."
+],
+[
+"4|cite|10.1519/JSC.0000000000002643|detail",
+"Each muscle 5×/wk (whole body) vs 1×/wk (split), same weekly sets per muscle: greater elbow-flexor (+8.5% vs +3.8%) and vastus lateralis thickness gains with 5×/wk; strength similar; total load lifted 22.3% higher with 5×/wk (accepted manuscript)."
+],
+[
+"5|heading",
+"Volume: hard sets per session and diminishing returns"
+],
+[
+"5|oneLiner",
+"More hard sets generally build more muscle, with each extra set adding less; the per-session set numbers are a practical guide, not a tested limit."
+],
+[
+"5|summary",
+"Sets stopped far from failure stimulate less growth, so Carlsen only counts sets within about 0–3 reps in reserve (RIR) as hard sets. That's a counting convention, not a proven cutoff. More hard sets generally mean more growth, but each extra set adds less than the one before. In an early analysis, doing multiple sets per exercise was linked to about 40% larger growth effects than single sets. Spreading sets across sessions keeps each session shorter and fresher, which is practical advice: growth is similar either way when weekly hard sets are equal."
+],
+[
+"5|recommendation",
+"Do about 2–4 hard sets per exercise and roughly 3–8 hard sets per muscle per session. Add sets only while performance holds and recovery is good. Splitting volume across days is a practical choice, not a growth requirement."
+],
+[
+"5|evidenceStrength",
+"Strong that more hard sets help, with diminishing returns (Pelland 2026, which also counts indirect sets, such as triceps on bench press, as half a set; Schoenfeld 2017; Krieger 2010). Trials in untrained people agree (Radaelli 2015, Hammarström 2020, Kassiano 2024). In trained lifters, raising volume well above what they were already doing did not add growth in two trials (Barsuhn 2025; Camargo 2026, trained adults, vastus lateralis only, +120% vs +20% over habitual volume, similar growth and no impairment), while an individualised increase did in one small trial (Scarpelli 2022); both suggest setting the dose from each lifter's recent volume rather than a fixed number. The 0–3 RIR hard-set cutoff is a counting convention: Robinson 2024 shows a continuous dose-response, not that easier sets count for nothing. Neither cited meta-regression shows that spreading sets across sessions increases growth (Pelland 2026 found frequency effects on hypertrophy compatible with negligible), so that part is practical reasoning. **The per-exercise and per-session numbers (2–4 hard sets per exercise, 3–8 per muscle per session) are a Carlsen practical heuristic, not a study finding.** No study pins down a per-session ceiling; one meta-regression of 111 studies linked more sets per workout to slightly smaller whole-body gains (Benito 2020, in men), but it compared across studies, used whole-body measures and did not identify a specific ceiling."
+],
+[
+"5|cite|10.1007/s40279-025-02344-w|detail",
+"Hypertrophy rose with weekly volume with diminishing returns; indirect sets counted as half a set fitted best; frequency effect negligible once volume was accounted for."
+],
+[
+"5|cite|10.1080/02640414.2016.1210197|detail",
+"Graded dose-response between weekly sets and hypertrophy."
+],
+[
+"5|cite|10.1519/JSC.0b013e3181d4d436|detail",
+"Multiple sets gave ~40% larger hypertrophy effect sizes than single sets (ES 0.24 for 1 set, 0.34 for 2–3, 0.44 for 4–6); 2–3 vs 1 set alone was only a trend (p=0.09; significant on permutation testing)."
+],
+[
+"5|cite|10.1519/JSC.0000000000000758|detail",
+"1, 3 or 5 sets per exercise: 5 sets gave the largest arm muscle thickness gains."
+],
+[
+"5|cite|10.1113/JP278455|detail",
+"Moderate vs low volume per exercise: moderate volume gave larger increases in muscle CSA and strength."
+],
+[
+"5|cite|10.1055/a-2316-7885|detail",
+"12 vs 6 weekly sets for the calves: 12 sets gave more lateral gastrocnemius (+14.3% vs +8.1%), soleus (+12.7% vs +6.7%) and summed calf (+12.0% vs +6.9%) growth; the medial gastrocnemius difference was not significant (+9.9% vs +6.6%, p=0.067); 9 sets did not differ from either."
+],
+[
+"5|cite|10.1007/s40279-024-02069-2|detail",
+"Hypertrophy increased continuously as sets ended closer to failure; supports counting effort, not a hard 0–3 RIR cut-off."
+],
+[
+"5|cite|10.1152/japplphysiol.00476.2024|detail",
+"Lower-body training with weekly sets raised 30% or 60% above prior volume vs kept the same: no extra muscle thickness or fat-free mass gains; the maintenance group gained more 1RM."
+],
+[
+"5|cite|10.1519/JSC.0000000000003558|detail",
+"Volume individualised to 1.2× each person's logged weekly sets beat a standard volume taken from published studies (vastus lateralis CSA mean difference 1.08 cm²)."
+],
+[
+"5|cite|10.3390/ijerph17041285|detail",
+"More sets per workout linked to slightly smaller whole-body muscle-mass gains (moderator −0.03, p=0.04); no specific ceiling identified; men only, whole-body measures."
+],
+[
+"5|cite|10.1152/japplphysiol.00284.2026|detail",
+"One leg +120% and the other +20% over habitual weekly volume: vastus lateralis CSA rose with both, with no protocol × time interaction (vastus lateralis only)."
+],
+[
+"6|heading",
+"Rest intervals"
+],
+[
+"6|oneLiner",
+"Rest about 90 seconds to 3 minutes between sets; longer rest can make it easier to keep your reps and weight up, and both ends of that range can build muscle."
+],
+[
+"6|summary",
+"Resting longer between sets lets you lift more weight for more reps on the next set, which likely means more tension per set. Research suggests a small, uncertain growth advantage for resting more than about a minute, probably because very short rest cuts the weight and reps you can manage. Beyond about 90 seconds, studies have not found clear extra growth, so about 90 seconds and 2–3 minutes are both reasonable. Longer rest may help more if max strength is a goal."
+],
+[
+"6|recommendation",
+"Rest 90 seconds to 3 minutes between sets and pick what suits you. About 90 seconds keeps sessions shorter; 2–3 minutes can make it easier to match your previous set's weight and reps. Both work for building muscle."
+],
+[
+"6|evidenceStrength",
+"Limited. In Singer 2024's analysis of 9 studies, the benefit of resting more than 60 s was small, results varied a lot between studies, and there was no clear gain beyond ~90 s. The trials that favoured longer rest compared it with 1 minute: 3 vs 1 min (Schoenfeld 2016, trained men) and 2.5 vs 1 min (Buresh 2009, untrained men, arms only). In Longo 2022, 3-minute rest grew more muscle than 1-minute rest only because it allowed more volume load; once volume load was matched, rest length didn't matter. Comparisons within or above the 90 s to 3 min range found no growth difference (2 vs 5 min, Ahtiainen 2005; constant 2 min vs shortening rest, de Souza 2010 and Souza-Junior 2011). No trial has compared about 90 s directly with 2–3 min for growth. For max strength, rest of more than 2 minutes appears more useful in trained lifters (Grgic 2018 review). Villanueva 2015 found that 60-second rests gave larger lean-mass and strength gains than 4-minute rests in older men (about 66–70 years), but it measured whole-body lean mass during a strength-focused phase, so it doesn't apply directly to younger lifters training for size. Saying that longer rest works \"through tension\" is a reasonable explanation, not something that was measured."
+],
+[
+"6|cite|10.3389/fspor.2024.1429789|detail",
+"Small hypertrophy benefit for rest >60 s vs ≤60 s (thigh SMD 0.17, arm 0.13, both with wide credible intervals); no appreciable difference beyond ~90 s. Four-category SMDs (non-controlled pre–post SMDs) overlapped (≤60 s 0.47; 61–119 s 0.65; 120–179 s 0.55; ≥180 s 0.50)."
+],
+[
+"6|cite|10.1080/17461391.2017.1340524|detail",
+"Short (≤60 s) and long (>60 s) rest both built muscle; a possible advantage for long rest in trained lifters, based on few studies."
+],
+[
+"6|cite|10.1519/JSC.0000000000001272|detail",
+"3 min vs 1 min rest, all other variables the same: 3 min gave more anterior-thigh thickness (triceps trend p=0.06) and more 1RM squat and bench strength."
+],
+[
+"6|cite|10.1519/JSC.0b013e318185f14a|detail",
+"2.5 min vs 1 min rest: arm CSA +12.3% vs +5.1%; strength gains did not differ (thigh muscle CSA was measured, but its result is not reported in the abstract)."
+],
+[
+"6|cite|10.1519/JSC.0000000000003668|detail",
+"Knee extension at 80% 1RM, 3 min vs 1 min rest: 3 min gave more quadriceps CSA (+13.1% vs +6.8%) only when it allowed more volume load; with volume load matched, rest length made no difference. Strength similar."
+],
+[
+"6|cite|10.1519/15604.1|detail",
+"2 min vs 5 min rest: similar quadriceps CSA and strength gains."
+],
+[
+"6|cite|10.1519/JSC.0b013e3181ddae4a|detail",
+"Constant 2 min rest vs rest shortened from 2 min to 30 s: similar arm and thigh CSA (MRI) and strength despite less volume with shortening rest."
+],
+[
+"6|cite|10.1186/1550-2783-8-17|detail",
+"Constant 2 min vs rest shortened to 30 s: similar CSA and strength gains."
+],
+[
+"6|cite|10.1055/s-0042-119204|detail",
+"Low-load (40% 1RM) sets to failure with 30 s vs 150 s rest: similar arm and thigh CSA and strength gains."
+],
+[
+"6|cite|10.1007/s40279-017-0788-x|detail",
+"Strength: short rest still builds strength, but >2 min appears needed to maximise strength gains in trained lifters; 60–120 s seems enough in untrained people."
+],
+[
+"6|cite|10.1519/JSC.0000000000004832|detail",
+"Isometric sets with 5 min vs 2 min rest: more force, muscle activation and total volume with 5 min. Acute performance only."
+],
+[
+"6|cite|10.1007/s00421-014-3014-7|detail",
+"60 s vs 4 min rest in a strength phase: 60 s gave larger lean-mass and strength gains."
+],
+[
+"7|heading",
+"Long muscle lengths, stretch and lengthened partials"
+],
+[
+"7|oneLiner",
+"Loading a muscle hard in its stretched position has built more muscle for some muscles, such as the hamstrings, triceps and calves; partial reps in the stretched range have grown muscle about as well as full reps, but not better."
+],
+[
+"7|summary",
+"Exercises that load a muscle hard while it's stretched tend to build more muscle than versions that load it mostly when it's short. For example, seated leg curls built more hamstring muscle than lying leg curls, overhead triceps extensions built more triceps than pushdown-style one-arm cable extensions with the upper arm at the side, and standing calf raises built more calf muscle than seated ones. Partial reps in the stretched part of the range grew muscle about as well as full reps; the largest trial (297 people) and several trials in experienced lifters found no meaningful difference, so full reps remain the default."
+],
+[
+"7|recommendation",
+"Pick exercises that challenge the muscle in its stretched position, use full range of motion with control at the bottom, and optionally add lengthened partials at the end of a set once full reps fail (tested so far in two small calf studies in beginners, with mixed results)."
+],
+[
+"7|evidenceStrength",
+"Moderate and growing, but based mostly on small, short trials, often in untrained people, and on a few muscles (hamstrings, triceps, quads, calves). Wolf 2023 found that lengthened partials may roughly match full ROM, with low certainty; its main model slightly favored full ROM and the long-length partial estimate was uncertain. Two small calf trials in untrained men tested lengthened partials added *after* full-ROM failure, with mixed results: adding them to the same sets gave more growth (Larsen 2025, Front Psychol: +9.6% vs +6.7%), while extending half as many sets with partials, total volume load matched, gave similar growth (Goli 2026). The designs differ: Larsen added the partials on top of the same sets, while Goli matched total volume load. So that use is only lightly tested. Several newer trials in trained lifters found no difference between lengthened partials and full ROM (Wolf 2025, Plotkin 2026, Gschneidner 2025), and changing leg-press depth made no difference (Larsen 2025); these indicate that lengthened partials match but do not beat full ROM. A meta-analysis of 16 studies covering all kinds of partial reps found full ROM better for strength and lower-body growth (Pallarés 2021). So this is a tendency, not a rule for every exercise. The mechanism is still debated; one proposal is higher tension from passive force at long lengths."
+],
+[
+"7|cite|10.1249/MSS.0000000000002523|detail",
+"Seated (hip flexed) vs prone leg curl: whole hamstrings volume +14% vs +9% (MRI)."
+],
+[
+"7|cite|10.1249/MSS.0000000000002523|note",
+"Cited for its muscle growth results at long muscle lengths, not for muscle damage."
+],
+[
+"7|cite|10.1080/17461391.2022.2100279|detail",
+"One-arm cable elbow extension with the arm overhead vs at the side: whole triceps volume +19.9% vs +13.9% (1.4-fold), long head +28.5% vs +19.6%, despite lighter loads overhead."
+],
+[
+"7|cite|10.3389/fphys.2023.1272106|detail",
+"Standing (knee extended) vs seated (knee flexed) calf raise: greater gastrocnemius hypertrophy standing."
+],
+[
+"7|cite|10.1249/MSS.0000000000003490|detail",
+"Lengthened-state eccentric knee-flexor training (hip flexed) gave more hamstring growth than Nordic hamstring training."
+],
+[
+"7|cite|10.1080/17461391.2021.1927199|detail",
+"Knee extension: training in the initial (lengthened) range gave greater relative hypertrophy in some regions than final, full or control."
+],
+[
+"7|cite|10.1519/JSC.0000000000004460|detail",
+"Initial (lengthened) partial calf raises gave greater medial gastrocnemius gains than full or final ROM (+15.2% vs +6.7% and +3.4%); for the lateral gastrocnemius they beat only the final range (+14.9% vs +6.2%; vs full ROM p=0.060)."
+],
+[
+"7|cite|10.3390/sports11020039|detail",
+"Preacher curl initial (lengthened) vs final range: more distal biceps CSA with initial range; summed CSA similar."
+],
+[
+"7|cite|10.1080/02640414.2025.2502895|detail",
+"Knee extension initial, full or varied range beat final (shortened) range for rectus femoris and vastus lateralis growth."
+],
+[
+"7|cite|10.1519/JSC.0000000000005561|detail",
+"Knee extension: lengthened partials at 55% 1RM matched full ROM at 80% 1RM for muscle thickness; both beat shortened partials. Online ahead of print."
+],
+[
+"7|cite|10.1002/ejsc.70087|detail",
+"Preacher curl initial (lengthened) partial vs full ROM: similar mid-arm thickness, slight regional advantage for the partial."
+],
+[
+"7|cite|10.70252/IJES2026403|detail",
+"Standing calf raise: half the sets to failure followed by lengthened partials to a second failure vs full sets to failure, volume load equated: similar gastrocnemius growth."
+],
+[
+"7|cite|10.3389/fpsyg.2025.1494323|detail",
+"Smith-machine calf raises, 4 sets to failure, with vs without lengthened partials added after failure: medial gastrocnemius +9.6% vs +6.7% (strong Bayesian evidence, BF 13.3). Distinct from the Larsen 2025 leg-press depth trial."
+],
+[
+"7|cite|10.1519/JSC.0000000000004415|detail",
+"Full ROM and partial ROM in the initial (lengthened) part of the range appear similarly effective, or better than short-length partials."
+],
+[
+"7|cite|10.47206/ijsc.v3i1.182|detail",
+"Main model slightly favoured full ROM (SMD 0.12, 95% CI −0.02 to 0.26); lengthened partials may roughly match full ROM (low certainty)."
+],
+[
+"7|cite|10.1111/sms.14006|detail",
+"Full ROM beat partial ROM (all partial types pooled) for muscle strength (ES 0.56) and lower-limb hypertrophy (ES 0.88); no significant difference for muscle thickness and architecture (ES 0.28)."
+],
+[
+"7|cite|10.1055/a-2733-7605|detail",
+"Overview of muscle length, ROM and exercise selection research."
+],
+[
+"7|cite|10.7717/peerj.18904|detail",
+"Upper-body lengthened partials vs full ROM: similar elbow flexor and extensor hypertrophy."
+],
+[
+"7|cite|10.1080/02640414.2025.2567805|detail",
+"Lengthened partials vs full ROM: differences in arm and thigh CSA likely small, but equivalence could not be confirmed at the pre-set threshold."
+],
+[
+"7|cite|10.1249/MSS.0000000000004183|detail",
+"Leg press, leg extension and leg curl with lengthened partials vs full ROM: no difference in vastus lateralis growth. Online ahead of print."
+],
+[
+"7|cite|10.1080/02640414.2025.2481534|detail",
+"Leg press with restricted (~5–100°) vs maximal knee flexion: no meaningful difference in quadriceps thickness."
+],
+[
+"7|cite|10.1139/apnm-2025-0238|detail",
+"Long-length isometric knee extension vs full-ROM dynamic training: anterior-thigh thickness difference −0.20 cm (HDI −0.54 to 0.16); inconclusive, neither shown similar nor different."
+],
+[
+"8|heading",
+"Exercise selection: resistance profile and stability"
+],
+[
+"8|oneLiner",
+"Pick exercises you can load hard and progress, preferring stable ones that challenge the stretched position; free weights, machines and cables built similar muscle in head-to-head trials."
+],
+[
+"8|summary",
+"Prefer exercises that let you push close to failure safely; for some muscles, such as the hamstrings and triceps, versions that challenge the stretched position grew more, while for the glutes, side delts and quads on the leg press, trials found no difference. Head-to-head trials often show similar growth (free weights vs machines, dumbbells vs cables), so pick what you can progress consistently. Different exercises for the same muscle can grow different regions: leg extensions grew the rectus femoris more than leg presses, while total quadriceps growth was similar. Planned variation and keeping the same exercises built similar overall muscle in recent trials, and rotating exercises at random every session added no growth. Stable exercises make heavy loading easier: in short tests on a Swiss ball, a very unstable surface, maximal force was about 20–70% lower than on a bench or chair. Less stable versions still build muscle; in a 7-week trial, squats on a Smith machine, with free weights or on a wobble board gave similar muscle growth."
+],
+[
+"8|recommendation",
+"For each muscle, pick 1–2 exercises you can progress consistently (all else equal, prefer stable ones that challenge the stretched position), keep them for a training block, and add planned variation rather than swapping every week. Less stable variations also build muscle and are fine to keep in a programme."
+],
+[
+"8|evidenceStrength",
+"**Limited, and largely mechanistic.** Choosing exercises \"by resistance profile\" makes sense biomechanically (based on the long-muscle-length research), but direct trials are few and mixed. Larsen 2025 found dumbbell and cable lateral raises grew the deltoid about equally, despite their different resistance curves. Schwanbeck 2020 and Amanuma 2025 found free weights and machines gave similar growth. Hip thrusts and back squats built similar gluteal growth in untrained adults, while squats built more quadriceps and adductor muscle (Plotkin 2023). Regional differences between exercises are seen in several small trials (Kinoshita 2026, Kassiano 2025 in Int J Sports Med, Kobayashi 2026, Attarieh 2026) but total muscle growth was usually similar. The regional-variation claim rests partly on Kassiano 2022, a systematic review of 8 small studies in young men; Kassiano 2025 (Res Q Exerc Sport) found that planned rotation of thigh exercises across the week gave similar muscle growth at every measured site, and similar strength gains, compared with doing the same exercises every session, so variation is optional rather than required. The preference for stable exercises is a practical default. Two small acute isometric studies in men show that a very unstable surface (a Swiss ball) cuts force output by about 20–70% (Behm 2002; Anderson & Behm 2004), but they do not compare everyday less stable choices such as dumbbells vs machines, and they do not measure growth. That stable exercises also let lifters get closer to failure, or build more muscle, is reasoning, not a measured result. The one direct training trial (Saeterbakken 2019) found similar muscle growth across stability levels, so the preference for stable exercises is a practical default for loading and safety, not a growth rule (grade for this advice: Theoretical). Choosing 1–2 exercises per muscle is a Carlsen programming rule, not a study finding."
+],
+[
+"8|cite|10.1519/JSC.0000000000003349|detail",
+"Free weights vs machines: similar muscle thickness and strength gains."
+],
+[
+"8|cite|10.1016/j.jbmt.2025.09.027|detail",
+"Lunges (free weight) vs inclined leg press (machine): comparable regional hypertrophy."
+],
+[
+"8|cite|10.3389/fphys.2025.1611468|detail",
+"Dumbbell vs cable lateral raises: similar lateral deltoid growth despite different resistance curves."
+],
+[
+"8|cite|10.1519/JSC.0000000000004258|detail",
+"Some planned exercise variation may promote regional hypertrophy; excessive random variation may compromise gains."
+],
+[
+"8|cite|10.1249/MSS.0000000000003957|detail",
+"Knee extension vs leg press: rectus femoris +13.2% vs +1.1%; whole quadriceps growth similar."
+],
+[
+"8|cite|10.1055/a-2517-0509|detail",
+"Preacher vs incline curls: incline gave more proximal elbow-flexor thickness (mean difference 0.08 cm), and preacher curls grew the distal biceps more (+0.10 cm); regional growth differed between exercises."
+],
+[
+"8|cite|10.1080/02640414.2026.2741751|detail",
+"Incline vs preacher curl: muscle-specific differences among elbow flexors; total growth similar. Online ahead of print."
+],
+[
+"8|cite|10.1519/JSC.0000000000005701|detail",
+"Cable hip extension vs hip abduction: different regional gluteal growth. Online ahead of print."
+],
+[
+"8|cite|10.1007/s40279-024-02169-z|detail",
+"Bilateral vs unilateral exercise: similar hypertrophy (ES −0.21, not significant)."
+],
+[
+"8|cite|10.1080/02701367.2024.2409961|detail",
+"Planned weekly rotation of thigh exercises vs the same exercises every session: muscle thickness rose similarly at all measured sites and 1RM rose similarly."
+],
+[
+"8|cite|10.1371/journal.pone.0226989|detail",
+"Exercises randomly varied each session via an app vs fixed selection: similar muscle thickness and 1RM gains; higher intrinsic motivation with variation."
+],
+[
+"8|cite|10.3389/fphys.2023.1279170|detail",
+"Set-volume-equated hip thrust vs back squat, MRI: similar gluteus muscle CSA gains (estimates modestly favoured hip thrust, with wide intervals); squat gave more quadriceps (+3.6 cm²) and adductor (+2.5 cm²) growth; deadlift 3RM improved similarly."
+],
+[
+"8|cite|10.1371/journal.pone.0214302|detail",
+"Squats on a Smith machine (most stable), with free weights, or on a wobble board (least stable): similar muscle thickness gains."
+],
+[
+"8|cite|10.1519/1533-4287(2004|detail",
+"Chest press on a Swiss ball vs a bench: isometric maximum force 59.6% lower on the ball, with no significant difference in overall EMG activity. Acute isometric force only; no growth measured."
+],
+[
+"9|heading",
+"Progressive overload and auto-regulation (next-session load)"
+],
+[
+"9|oneLiner",
+"Add reps until you hit the top of the range, then add weight; how hard the last sets felt decides the next jump."
+],
+[
+"9|summary",
+"Muscle keeps growing when the training challenge keeps rising. In trained lifters, adding reps at the same weight and adding weight at the same reps built similar muscle. In untrained women, raising the load whenever the top of an 8–12 rep range was reached roughly doubled arm-muscle growth over 8 weeks compared with repeating the same load. Setting the load from reps in reserve produced muscle gains similar to a fixed percentage plan and lets the weight move with good and bad days."
+],
+[
+"9|recommendation",
+"Use double progression: build reps to the top of the range at the target RIR, then add the smallest available weight step and restart at the bottom of the range; hold the load when sets end harder than the target RIR."
+],
+[
+"9|evidenceStrength",
+"Moderate that progressing either reps or load works (two RCTs, one trained, one untrained), and moderate that progressing beats not progressing (two 2026 trials, both in untrained women, single-joint arm exercises, 8 weeks). Autoregulation evidence is mostly about strength; the only direct hypertrophy comparison (RPE vs %1RM) is one small trial showing similar growth. The exact double-progression rule (size of the weight step, when to trigger it) is a practical convention modelled on the 2026 trial design, not something tested head to head. RIR estimates are imperfect, which limits how precisely any RIR-based rule can work. A 12-week leg trial in untrained adults (Ferrari 2026) found no significant difference between progressing and constant load at any single time point, with progression pulling ahead only late in the programme. In that trial the constant-load sets drifted from about 1.5 to about 4 reps in reserve, so the benefit of progression may come mainly from keeping sets close to failure. Individual responses may depend on the progression type: in a within-person trial in untrained legs (Scarpelli 2025), about a third of participants grew more with rep progression, about a fifth with load progression, and about a third the same; double progression uses both. Adjusting load to stay in a rep-max zone gave more growth than fixed %1RM loads in one small secondary analysis in untrained men (Nóbrega 2023)."
+],
+[
+"9|cite|10.1249/MSS.0000000000003968|detail",
+"Untrained young women, n=55 (within-subject arms), 8 wk elbow extension, 3×8–12; load raised when the top of the range was reached vs no load increase vs control. Triceps muscle-thickness sum +22.9% (+0.79 cm) with progression vs +11.6% (+0.41 cm) without, control +1.8%. Non-progressive training still grew."
+],
+[
+"9|cite|10.1519/JSC.0000000000005659|detail",
+"Untrained young women, n=41 (arms randomised), 8 wk elbow flexion, 3×8–12; load raised at the top of the range vs constant load. Progression gave greater elbow-flexor thickness gains; the authors link this to keeping muscle use in each session higher. Online ahead of print."
+],
+[
+"9|cite|10.7717/peerj.14142|detail",
+"Trained men (n=27) and women (n=16) with ≥1 yr lower-body training, 8 wk, load progression vs repetition progression. Hypertrophy broadly similar; rectus femoris growth modestly favoured rep progression (2.8 mm, 90% CI −0.5 to 5.8). 1RM slightly favoured load progression (2.0 kg)."
+],
+[
+"9|cite|10.1055/a-2256-5857|detail",
+"Untrained men and women, n=39, within-subject legs, load vs repetition progression. No difference in vastus lateralis cross-sectional area or 1RM."
+],
+[
+"9|cite|10.1055/a-2980-6473|detail",
+"Knee extension, 3×10–12, with load progressed vs kept constant: both legs grew (quadriceps CSA +3.36 vs +2.67 cm²) with no significant difference at any single time point, but growth from session 18 to 24 was greater with progression; the constant-load leg drifted from about 1.5 to about 4 RIR. Online ahead of print."
+],
+[
+"9|cite|10.3389/fphys.2018.00247|detail",
+"Trained men, n=21, 8 wk, RIR-based RPE loading vs %1RM loading, sets and reps matched. No significant differences; muscle thickness similar; possible small 1RM advantage for RPE loading (squat ES 0.50 ± 0.63)."
+],
+[
+"9|cite|10.1186/s40798-021-00404-9|detail",
+"Meta-analysis, 15 studies, resistance-trained participants. Autoregulated vs standardised load: similar 1RM (MD 2.07 kg, SMD 0.21, p=0.09). Velocity-loss thresholds >25% gave more hypertrophy than ≤20% (SMD 0.34). The abstract reports no pooled hypertrophy result for RPE/RIR load autoregulation."
+],
+[
+"9|cite|10.1519/JSC.0000000000002032|detail",
+"Powerlifters, n=12, 3 wk. RPE-based set stops can autoregulate volume within a periodised plan. No hypertrophy outcome."
+],
+[
+"9|cite|10.2478/hukin-2020-0011|detail",
+"Narrative review of 90 studies. RIR-based RPE and velocity are practical and reliable monitoring methods with preliminary evidence of utility."
+],
+[
+"9|cite|10.1519/JSC.0000000000001049|detail",
+"Experienced (n=15, 5.2 yr) vs novice (n=14, 0.4 yr) squatters. Introduces the RIR-based RPE scale (RPE 10 = 0 RIR); strong inverse relation between bar velocity and RPE. Supports RIR as a practical way to regulate daily load."
+],
+[
+"9|cite|10.1519/JSC.0b013e3181def4a6|detail",
+"College American football players, n=23, 6 wk. Autoregulatory progressive resistance exercise (load set from reps achieved) gave larger bench press and squat strength gains than linear periodisation. Strength only."
+],
+[
+"9|cite|10.1519/JSC.0000000000003530|detail",
+"Amateur rugby union players, n=20. Velocity-based autoregulation gave larger strength gains than RPE-based autoregulation (magnitude-based decisions). Strength only; needs velocity hardware."
+],
+[
+"9|cite|10.1007/s00421-025-05817-y|detail",
+"One leg progressed load, the other reps: about 34% of participants grew more with rep progression, about 19% with load progression and about 35% similarly with both."
+],
+[
+"9|cite|10.1519/JSC.0000000000004225|detail",
+"Exploratory secondary analysis: adjusting load to stay in a repetition-maximum zone gave greater muscle CSA gains than fixed %1RM loading."
+],
+[
+"10|heading",
+"Weekly hard sets per muscle (direct and indirect sets)"
+],
+[
+"10|oneLiner",
+"Count a hard set as 1 for the muscle it targets and ½ for helper muscles; more sets help, but each extra set adds a bit less."
+],
+[
+"10|summary",
+"More weekly hard sets per muscle generally produce more growth, with smaller gains from each additional set. Compound lifts also train helper muscles, and a 2026 meta-regression of 67 studies fit the data best when those indirect sets counted as half a set. Some muscles get little from compound lifts: squats grew the quadriceps but not the rectus femoris or hamstrings in one trial in untrained men, and leg extensions grew the rectus femoris far more than squats in another in untrained women."
+],
+[
+"10|recommendation",
+"Track weekly hard sets per muscle as direct sets × 1 plus indirect sets × ½, start from the weekly sets you already do and add sets gradually only while performance keeps improving, and add a direct exercise for muscles that compound lifts train poorly (rectus femoris, hamstrings)."
+],
+[
+"10|evidenceStrength",
+"Moderate overall. The evidence is strong across meta-analyses that more weekly hard sets produce more growth with diminishing returns; the overall grade is Moderate because the indirect-set weighting and the trials in trained lifters are uncertain. Individual trials in trained people are mixed: Schoenfeld 2019 and Brigatto 2022 found benefits, Aube 2022, Heaselgrave 2019 and Enes 2024 found no significant differences, and a large jump above lifters' usual volume (+120% vs +20%) gave similar growth to a modest one (Camargo 2026). The null trials are small and may reflect a plateau or too little power to detect a difference. In untrained men over 6 months, 5 sets per exercise grew arm muscles more than 3 or 1 (Radaelli 2015). The ½ weighting for indirect sets is a statistical best fit across many studies, not a measured value per muscle; real contributions vary from near zero (rectus femoris and hamstrings in squats) to about half (biceps in rows) to roughly full (biceps in lat pulldowns, one untrained trial). The two single- vs multi-joint biceps trials (Gentil 2015, Mannarino 2021), both in untrained men, disagree on how much indirect work counts; the ½ weighting sits between them. Most data come from young, mostly male participants."
+],
+[
+"10|cite|10.1007/s40279-025-02344-w|detail",
+"Meta-regressions, 67 studies, 2,058 participants (79% male), adjusted for training status. Counting indirect sets as 0.5 ('fractional') had the strongest evidence. Posterior probability that more volume increases hypertrophy: 100%, with diminishing returns. Frequency effect on hypertrophy compatible with negligible."
+],
+[
+"10|cite|10.1080/02640414.2016.1210197|detail",
+"Meta-analysis, 15 studies. Graded dose-response between weekly sets and hypertrophy."
+],
+[
+"10|cite|10.1249/MSS.0000000000001764|detail",
+"Trained men, n=34, 8 wk, 1 vs 3 vs 5 sets per exercise, 3 sessions/wk. Hypertrophy increased with volume (elbow flexors, mid- and lateral thigh; between-group differences significant only for 5 vs 1 set); strength similar across groups."
+],
+[
+"10|cite|10.1519/JSC.0000000000003413|detail",
+"Trained men, n=27, 16 vs 24 vs 32 weekly sets. 32 sets gave larger gains than 16 for lower-body and triceps muscle thickness."
+],
+[
+"10|cite|10.1123/ijspp.2018-0427|detail",
+"Trained men, n=49, 6 wk biceps, 9 vs 18 vs 27 weekly sets. Thickness +4.3% / +9.5% / +5.4%; no significant between-group difference, but moderate-to-large effect sizes for 18 and 27 vs 9."
+],
+[
+"10|cite|10.1519/JSC.0000000000003524|detail",
+"Well-trained adults, n=35, 12 vs 18 vs 24 weekly lower-body sets. No difference in muscle thickness or fat-free mass."
+],
+[
+"10|cite|10.1249/MSS.0000000000003317|detail",
+"Trained men, n=31, 12 wk; weekly lower-limb sets held constant or increased by 4 or 6 every 2 wk. Strength gains graded by volume; hypertrophy differences not significant (p=0.067–0.076), consistent with a small benefit that plateaus."
+],
+[
+"10|cite|10.1152/japplphysiol.00284.2026|detail",
+"One leg raised weekly volume +120% and the other +20% over habitual volume: vastus lateralis CSA rose with both, with no protocol × time interaction."
+],
+[
+"10|cite|10.1519/JSC.0000000000000758|detail",
+"1, 3 or 5 sets per exercise, 3 sessions/wk: 5 sets grew elbow flexor and extensor thickness more than 3 or 1 set."
+],
+[
+"10|cite|10.1007/s00421-019-04181-y|detail",
+"Untrained young men, n=17, 10 wk full vs half squats. Knee-extensor volume +4.6–4.9%; rectus femoris and hamstrings did not grow."
+],
+[
+"10|cite|10.1519/JSC.0000000000005338|detail",
+"Untrained young women, n=63, 8 wk Smith-machine squat vs leg extension. Leg extension grew rectus femoris more (e.g., proximal +11.4% vs +2.0%); squat grew distal vastus lateralis more (+18.2% vs +11.2%)."
+],
+[
+"10|cite|10.5812/asjsm.24057|detail",
+"Untrained men, n=29, 10 wk lat pulldown vs biceps curl. Elbow-flexor thickness +6.10% vs +5.83%, no difference: lat pulldowns trained the biceps as well as curls did, in untrained men."
+],
+[
+"10|cite|10.1519/JSC.0000000000003234|detail",
+"Untrained men, n=10, within-subject, 8 wk dumbbell curl vs dumbbell row. Elbow-flexor thickness +11.06% vs +5.16%: indirect work trained the biceps about half as well here."
+],
+[
+"10|cite|10.1139/apnm-2015-0109|detail",
+"Trained men, n=20, 8 wk. Adding single-joint arm exercises to multi-joint training gave no extra arm size (circumference-based measures)."
+],
+[
+"10|cite|10.1136/bjsports-2023-106807|detail",
+"Bayesian network meta-analysis; hypertrophy network 119 studies, n=3,364 (47% women). All prescriptions promoted hypertrophy; the top-ranked option was higher-load, multiple sets, 2×/wk (SMD 0.66 vs no-exercise control)."
+],
+[
+"10|cite|10.1249/MSS.0000000000003897|detail",
+"ACSM position stand, overview of 137 systematic reviews. Higher volumes and eccentric overload enhanced hypertrophy; failure, equipment type, set structure and periodisation did not consistently matter."
+],
+[
+"11|heading",
+"Exercise substitution (add, remove, swap)"
+],
+[
+"11|oneLiner",
+"Swap to an exercise that trains the same muscle through a similar stretch, then stick with it long enough to progress."
+],
+[
+"11|summary",
+"Two exercises for the same muscle usually build similar overall size; free weights vs machines, dumbbell vs cable lateral raises and different cable-curl positions all produced similar growth. Swaps matter more when they change which region of a muscle is loaded or how stretched it gets: overhead triceps extensions grew the triceps about 1.4 times as much as arms-at-side extensions, and leg extensions grew the rectus femoris more than squats. Mixing a few exercises for a muscle helped some regions grow in some trials but not in a 2025 trial in 70 women, while rotating exercises at random every session did not add growth, though it improved motivation."
+],
+[
+"11|recommendation",
+"When swapping, keep the same target muscle, a similar stretched-position challenge and a similar rep range, and keep core exercises in place for at least a training block so progress can be tracked."
+],
+[
+"11|evidenceStrength",
+"Moderate that equipment type (free weight, machine, cable) makes little difference to overall growth (two meta-analyses, including Heidel 2022: hypertrophy ES −0.01, wide CI). Regional and stretch effects come from small, often untrained, short trials measuring a few sites. Evidence on random variation comes from one 8-week trial. The swap-similarity rules (same muscle, similar stretch, similar rep range) are reasoning from these trials, not a tested swap algorithm. Long-term (>12 wk) effects of frequent swapping are unknown. Trials disagree on whether varying exercises helps: some trials found more sites grew significantly with systematic variation (Fonseca 2014, Costa 2021), based on within-group tests, while Kassiano 2025 (70 women) and Baz-Valle 2019 (random variation) found similar growth, and Costa 2022's difference was in isometric strength only. For overall growth, varied and fixed selection performed similarly."
+],
+[
+"11|cite|10.1186/s13102-023-00713-4|detail",
+"Meta-analysis, 13 studies, n=1,016 (5 hypertrophy outcomes). Free weights vs machines: hypertrophy SMD −0.055 (95% CI −0.397 to 0.287), no difference. Strength gains were specific to the equipment tested."
+],
+[
+"11|cite|10.1519/JSC.0000000000003349|detail",
+"Young adults (20 men, 26 women), n=46, 8 wk free weights vs machines. Similar gains in muscle thickness and strength, except machine bench press strength, which improved more with machines (+13.9% vs +8.6%)."
+],
+[
+"11|cite|10.3389/fphys.2025.1611468|detail",
+"Resistance-trained men and women, n=24, within-subject, 8 wk, 5 sets to failure 2×/wk. Dumbbell vs cable lateral raises: thickness +3.3–4.6%, moderate evidence for no difference (BF 0.22–0.27)."
+],
+[
+"11|cite|10.3389/fphys.2026.1750722|detail",
+"Untrained men, n=24 completers, within-subject cable curls with different shoulder-extension angles but matched resistance profile and range of motion. No meaningful difference; both arms grew about 7–9%."
+],
+[
+"11|cite|10.1080/17461391.2022.2100279|detail",
+"Untrained young adults (14 men, 7 women), n=21, within-subject, 12 wk cable elbow extension overhead vs neutral. Whole triceps volume +19.9% vs +13.9% (d=0.54); long head +28.5% vs +19.6% (d=0.61), despite lighter loads overhead."
+],
+[
+"11|cite|10.1519/JSC.0000000000005338|detail",
+"Untrained young women, n=63, 8 wk squat vs leg extension. Leg extension grew rectus femoris more (proximal +11.4% vs +2.0%); squat grew distal vastus lateralis more. Smith-machine back-squat 3RM improved more with squats (+46.7% vs +21.3%)."
+],
+[
+"11|cite|10.1080/02640414.2021.1929736|detail",
+"Randomised trial, Smith squat vs leg extension, volume and intensity matched. All three rectus femoris regions grew with leg extensions; only the central vastus lateralis grew significantly with squats. Within-group analyses; a critical letter was published."
+],
+[
+"11|cite|10.1055/a-1308-3674|detail",
+"Detrained men, n=22, 9 wk. Varying exercises grew all measured thigh and arm sites; the fixed-exercise group did not grow significantly at two sites (mid lateral thigh, proximal elbow flexors)."
+],
+[
+"11|cite|10.1519/JSC.0000000000004042|detail",
+"Young men, n=23. Varied vs fixed exercises: similar 1RM gains; isometric knee extension improved more with fixed exercises (+12% vs +7%)."
+],
+[
+"11|cite|10.1519/JSC.0000000000000539|detail",
+"Physically active adults, n=49, 12 wk. Whole-quadriceps CSA gains similar across groups (about 9–12%); only groups that varied exercises grew all quadriceps heads significantly."
+],
+[
+"11|cite|10.1371/journal.pone.0226989|detail",
+"Trained men, n=21, 8 wk, 4 sessions/wk. Exercises and rep ranges randomised each session (via app) vs fixed exercises: similar muscle thickness and 1RM; higher intrinsic motivation with variation; vastus intermedius grew significantly only in the fixed group."
+],
+[
+"11|cite|10.1080/02701367.2024.2409961|detail",
+"Planned weekly rotation of thigh exercises vs the same exercises every session: muscle thickness rose similarly at all measured sites (+7.5–19.3% vs +7.8–17.7%) and 1RM rose similarly."
+],
+[
+"11|cite|10.23736/S0022-4707.21.12929-9|detail",
+"Hypertrophy similar between modes (ES −0.01, 95% CI −0.525 to 0.545); strength gains were specific to the test mode (free-weight tests favoured free weights, machine tests favoured machines)."
+],
+[
+"11|cite|10.1519/JSC.0000000000002272|detail",
+"Strength-trained men, n=17. Self-selected exercises vs fixed: slightly larger lean-mass gain (+2.47%, ES 0.35 vs +1.37%), significant only within the self-selected group and not shown to differ between groups, with higher volume load in the self-selected group."
+],
+[
+"11|cite|10.1519/JSC.0000000000004258|detail",
+"Systematic review of 8 studies, young men. Varying exercises in a systematic way may favour regional growth and strength; excessive random variation may compromise gains."
+],
+[
+"12|heading",
+"Per-session limits (sets per muscle per session)"
+],
+[
+"12|oneLiner",
+"No study has pinned down a per-session set limit; splitting a large weekly total across two or more sessions is a cautious default."
+],
+[
+"12|summary",
+"When weekly sets were matched, doing them in one session or spreading them over several produced broadly similar growth in most trials, and one trial comparing five full-body sessions a week with a once-a-week split favoured the frequent sessions. Doubling a single session from 5 to 10 sets per exercise gave no extra growth, and in one trial slightly less trunk lean mass. A session of 21 lower-body sets felt harder and slowed perceived recovery compared with 7 or 14 sets; long-term effects of such sessions are untested."
+],
+[
+"12|recommendation",
+"Show a soft warning, not a hard cap, when one session holds a large share of a muscle's weekly sets, and suggest moving some sets to another day."
+],
+[
+"12|evidenceStrength",
+"Limited. Few trials compare per-session volume directly, samples are small (n=12–34), and most compare whole programmes rather than isolating sets per muscle per session. The German Volume Training studies are about sets per exercise in short programmes. Acute protein-synthesis and signalling data disagree with each other and don't reliably predict long-term growth. No trustworthy study defines a per-session ceiling. A meta-regression linked more sets per workout to slightly smaller whole-body gains (Benito 2020), supporting a soft warning but not a number; it included men only, measured whole-body muscle mass and counted sets per workout across studies, not per muscle. In the German Volume Training trials, 10 sets per exercise gave no more growth than 5: muscle thickness and leg lean mass did not increase significantly in either group (Amirthalingam 2017), and the 10-set group lost leg lean mass late in the 12-week pilot (Hackett 2018). For 5 vs 3 sets per exercise in trained men, the Bayesian evidence was weak or absent (BF 0.6–2.3; Schoenfeld 2019). Some findings point the other way: very frequent full-body training beat a once-weekly split in one trial (Zaroni 2019, weekly sets equated but 22.3% more total load lifted), 5 sets per exercise in a session still outgrew 1 set (Schoenfeld 2019) and outgrew 3 sets in untrained men over 6 months (Radaelli 2015), and in trained lifters a sudden +120% rise in weekly volume did not reduce growth compared with +20% (Camargo 2026). The acute protein-synthesis (Kumar 2012) and signalling (Terzis 2010) data disagree and are not used in app copy. Together these support a soft warning, not a cap."
+],
+[
+"12|cite|10.1519/JSC.0000000000002563|detail",
+"Trained men, n=20, 8 wk; 16 weekly sets per muscle done in 1 session vs split over 2. No significant differences; effect sizes slightly favoured twice a week."
+],
+[
+"12|cite|10.1519/JSC.0000000000002643|detail",
+"Well-trained men, n=18, 8 wk; each muscle 5×/wk full body vs 1×/wk split. Greater forearm/elbow-flexor and vastus lateralis thickness gains with 5×/wk; strength similar. The accepted manuscript states that weekly sets per muscle were equated; total load lifted was 22.3% higher with 5×/wk."
+],
+[
+"12|cite|10.3389/fphys.2018.00744|detail",
+"Untrained young men (male college students), n=20, 11 wk of volume-matched knee extension followed by detraining; 6 sets 1×/wk vs 2 sets 3×/wk. Similar hypertrophy; strength improved more with 3×/wk; session effort ratings higher with 1×/wk."
+],
+[
+"12|cite|10.1519/JSC.0000000000001747|detail",
+"Healthy men, n=19, 6 wk; 10 vs 5 sets per exercise (modified German Volume Training). The 5-set group gained more trunk lean mass (p=0.043, ES −0.21 against 10 sets); arm lean mass trended the same way but was not significant (p=0.083, ES −0.25); neither group showed significant increases in leg lean mass or muscle thickness. Authors suggest 4–6 sets per exercise."
+],
+[
+"12|cite|10.3390/sports6010007|detail",
+"Pilot, n=12, 12 wk; 10 vs 5 sets per exercise. Neither group gained significant total, trunk or arm lean mass; the 10-set group lost leg lean mass between weeks 6 and 12 (p=0.02)."
+],
+[
+"12|cite|10.1249/MSS.0000000000001764|detail",
+"Trained men, n=34, 8 wk; 5 sets per exercise, 3 sessions/wk produced significantly more growth than 1 set; for 5 vs 3 sets the Bayesian evidence was weak or absent (BF 0.6–2.3 across sites). Moderately high per-session volume was still productive here."
+],
+[
+"12|cite|10.1055/a-2791-5145|detail",
+"Trained men, n=13, crossover; single lower-body sessions of 7, 14 or 21 sets. 21 sets gave higher session RPE and lower perceived recovery; no lasting swelling; thickness returned to baseline within 24 h. No long-term hypertrophy outcome."
+],
+[
+"12|cite|10.1007/s40279-025-02344-w|detail",
+"Meta-regressions, 67 studies: once weekly volume was accounted for, training frequency had little detectable effect on hypertrophy, so per-session distribution seems to matter less than the weekly total."
+],
+[
+"12|cite|10.1093/gerona/gls141|detail",
+"Acute study, young and older men (groups of 6). In young men, doubling from 3 to 6 sets had limited added effect on muscle protein synthesis; in older men it increased it. Acute marker only."
+],
+[
+"12|cite|10.1007/s00421-010-1527-2|detail",
+"Acute study, untrained men, n=8; 1 vs 3 vs 5 sets of leg press. Anabolic signalling (p70S6k, S6) rose with more sets. Acute marker only; conflicts in part with the protein-synthesis data above."
+],
+[
+"12|cite|10.3390/ijerph17041285|detail",
+"Across studies, more sets per workout was linked to slightly smaller whole-body muscle-mass gains (moderator −0.03, 95% CI −0.05 to −0.001); men only, whole-body measures, sets counted per workout rather than per muscle."
+],
+[
+"12|cite|10.1519/JSC.0000000000000758|detail",
+"1, 3 or 5 sets per exercise, 3 sessions/wk: 5 sets grew elbow flexor and extensor thickness more than 3 or 1 set."
+],
+[
+"12|cite|10.1152/japplphysiol.00284.2026|detail",
+"One leg raised weekly volume +120% and the other +20% over habitual volume: vastus lateralis CSA rose with both, with no protocol × time interaction; signalling largely similar."
+],
+[
+"13a|heading",
+"Experience level"
+],
+[
+"13a|oneLiner",
+"Beginners grow fastest on modest training; experienced lifters progress more slowly and need more precise effort and progression."
+],
+[
+"13a|summary",
+"People new to lifting gain size and strength faster than experienced lifters on the same programme. In a 21-week trial, untrained men grew their quadriceps by 5.6% while strength athletes showed no gain. Untrained people respond strongly to almost any programme; setting starting volume by experience is a programming convention rather than a tested rule."
+],
+[
+"13a|recommendation",
+"Start beginners at the lower end of weekly hard sets and progress mainly through reps and load; start experienced users at higher weekly sets with closer RIR targets and slower expected progress."
+],
+[
+"13a|evidenceStrength",
+"Moderate that trained lifters grow more slowly (consistent across trials and meta-analyses), though Ahtiainen 2003 is small (n=16). How much starting volume should differ by experience has not been tested directly; the starting-set numbers are a programming convention. Years of experience show little effect on RIR accuracy; repeated practice improved it in two short trials, though one small trial in trained lifters found no change."
+],
+[
+"13a|cite|10.1007/s00421-003-0833-3|detail",
+"Strength athletes (n=8) vs non-strength athletes (n=8), 21 wk of strength training. Untrained: +20.9% maximal force, +5.6% quadriceps CSA; strength athletes: +3.9% and −1.8%."
+],
+[
+"13a|cite|10.1249/MSS.0000000000002585|detail",
+"Network meta-analysis, 28 studies, n=747, sets to failure. Hypertrophy similar across loads; secondary meta-regression: between-load differences larger in untrained participants and in longer interventions (more total sessions)."
+],
+[
+"13a|cite|10.1249/01.MSS.0000053727.63505.D4|detail",
+"Meta-analysis, 140 studies, 1,433 effect sizes (strength outcomes). Optimal intensity and frequency differed by training status (60% 1RM and 3 d/wk untrained vs 80% and 2 d/wk trained). Strength only."
+],
+[
+"13a|cite|10.7717/peerj.19042|detail",
+"Bayesian meta-analysis, 29 studies, healthy adults 18–45. Relative muscle growth similar in males and females; absolute growth slightly favoured males (SMD 0.19); the male–female comparison was not changed by participants' training experience."
+],
+[
+"13a|cite|10.7717/peerj.4105|detail",
+"n=141, mixed experience, one session of sets to failure. Reps-to-failure predictions were imprecise (SEM 2.64–3.38 reps, a measure of spread, not average error) and showed only a tendency to improve with training experience."
+],
+[
+"13a|cite|10.1136/bjsports-2023-106807|detail",
+"Network meta-analysis: hypertrophy network 119 studies, n=3,364, 47% women. All prescriptions promoted hypertrophy (Carlsen's inference, not a study finding: a beginner programme does not need to be complex)."
+],
+[
+"13a|cite|10.1177/00315125231189098|detail",
+"Cited for the (d) note that one small trial in trained lifters found no change with practice. Trained men, n=9, 6 wk bench press, 3×/wk. Absolute accuracy did not improve with practice; slightly more underestimation in later sessions and higher-rep sets."
+],
+[
+"13b|heading",
+"Session length"
+],
+[
+"13b|oneLiner",
+"Keep the hard sets and normal rests; cut long warm-ups and extra exercises first, or pair non-competing exercises."
+],
+[
+"13b|summary",
+"Short sessions can work if they keep the hard sets: trained men gained strength with just three 13-minute sessions a week, although longer, higher-volume sessions built more muscle. Pairing opposing exercises or using supersets fit more work into less time in short-term studies, and a 2025 meta-analysis found supersets built similar muscle and strength to traditional sets, based on only two long-term studies."
+],
+[
+"13b|recommendation",
+"For short sessions, prioritise multi-joint exercises, pair non-competing exercises as supersets or use drop sets on isolation exercises, and keep warm-ups to exercise-specific ramp-up sets; use longer sessions to add sets for priority muscles."
+],
+[
+"13b|evidenceStrength",
+"Moderate for strength with minimal time (several trials), weaker for hypertrophy, where more volume tended to build more muscle. Superset and paired-set evidence is mostly acute or short-term; a 2025 meta-analysis (Zhang 2025) found similar long-term hypertrophy with supersets, but long-term hypertrophy trials remain scarce. A meta-analysis of drop sets (Sødal 2023; 6 studies, 142 participants) found similar hypertrophy to traditional sets, with some drop-set formats taking a half to a third of the time."
+],
+[
+"13b|cite|10.1007/s40279-021-01490-1|detail",
+"Narrative review on time-efficient training. Recommends multi-joint exercises, at least one leg press/squat, one upper-body pull and one upper-body push; supersets, drop sets and rest-pause roughly halve training time while keeping volume; exercise-specific warm-ups."
+],
+[
+"13b|cite|10.1249/MSS.0000000000001764|detail",
+"Trained men, n=34, 8 wk. The 1-set group (about 13 min per session, 3×/wk) gained strength similarly to higher volumes; hypertrophy was greater with more volume."
+],
+[
+"13b|cite|10.1007/s40279-019-01236-0|detail",
+"6 studies reviewed, 5 meta-analysed, resistance-trained men. A single set of 6–12 reps at about 70–85% 1RM, 2–3×/wk, near failure, for 8–12 weeks increased 1RM (overall +12.09 kg, 95% CI 8.16 to 16.03), described as suboptimal but significant. Strength only."
+],
+[
+"13b|cite|10.1519/JSC.0000000000001059|detail",
+"Trained men, n=15, acute crossover. Agonist–antagonist paired sets (bench press + seated row) produced more volume load in less time than traditional sets, with more fatigue."
+],
+[
+"13b|cite|10.1007/s00421-017-3680-3|detail",
+"Males, n=14, acute crossover. Supersets and tri-sets were more time-efficient than traditional sets but felt harder and needed more recovery. Acute only."
+],
+[
+"13b|cite|10.3390/ijerph16244897|detail",
+"Systematic review, 30 studies. Supersets, drop sets and cluster sets may be time-efficient alternatives; insufficient evidence for specific guidelines."
+],
+[
+"13b|cite|10.1007/s40279-025-02176-8|detail",
+"Supersets vs traditional sets: shorter sessions with similar total reps and volume load but higher perceived exertion; similar long-term hypertrophy (SMD −0.05, based on only two long-term studies) and maximal strength (SMD 0.10)."
+],
+[
+"13b|cite|10.1186/s40798-023-00620-5|detail",
+"Drop sets vs traditional sets: no significant difference in hypertrophy (SMD 0.155, p=0.392); drop sets presented as a time-efficient option."
+],
+[
+"13b|cite|10.3389/fspor.2024.1429789|detail",
+"Bayesian meta-analysis on rest intervals. Small benefit of resting >60 s for hypertrophy and no clear gain beyond ~90 s, so very short rests may cost some growth."
+],
+[
+"13c|heading",
+"Equipment"
+],
+[
+"13c|oneLiner",
+"Free weights and machines build similar muscle; push-ups matched a light (40% 1RM) bench press in one small trial."
+],
+[
+"13c|summary",
+"Free weights and machines produced similar muscle growth in two meta-analyses, and push-ups matched a light (40% 1RM) bench press for chest and triceps growth in young men. Elastic bands matched conventional weights for strength gains, though direct muscle-growth comparisons for bands are scarce. Light loads can build similar muscle when taken close to failure, but one trial found a very light 20% 1RM load grew less than heavier loads with volume load matched (a meta-analysis of volume-matched studies found no clear difference), so minimal-equipment plans need sets that stay challenging."
+],
+[
+"13c|recommendation",
+"Build the plan from the user's available equipment, and when load is light use higher reps taken close to failure or harder bodyweight variations to keep sets challenging."
+],
+[
+"13c|evidenceStrength",
+"Moderate for free weights vs machines and for light vs heavy loads near failure. Weak for bands and bodyweight specifically: band evidence is strength-only, the push-up hypertrophy trial is small (n=18), and a 6-week trial in 13 sedentary women found progressive bodyweight leg training and barbell squats grew muscle similarly (Wei 2023). A 4-week push-up trial (Kotarsky 2018) found no thickness change in either group, which is too short to inform growth."
+],
+[
+"13c|cite|10.1186/s13102-023-00713-4|detail",
+"Meta-analysis, 13 studies, n=1,016. Free weights vs machines: no hypertrophy difference (SMD −0.055, 95% CI −0.397 to 0.287); strength specific to equipment."
+],
+[
+"13c|cite|10.1519/JSC.0000000000003349|detail",
+"Young adults, n=46, 8 wk. Free weights and machines gave similar muscle thickness and strength gains."
+],
+[
+"13c|cite|10.1016/j.jesf.2017.06.003|detail",
+"Young men, n=18, 8 wk; push-ups at a load matched to 40% 1RM vs bench press at 40% 1RM, sets to failure. Similar triceps and pectoralis thickness and 1RM gains; biceps thickness increased only with bench press."
+],
+[
+"13c|cite|10.1519/JSC.0000000000000589|detail",
+"Students with advanced training experience, n=30, 5 wk; 6RM bench press vs 6RM elastic-band push-ups. Similar 1RM and 6RM gains. Strength only."
+],
+[
+"13c|cite|10.1177/2050312119831116|detail",
+"Meta-analysis, 7 studies (count corrected by a published corrigendum). Elastic vs conventional resistance: no difference in strength (lower limb SMD −0.11; upper limb SMD 0.09). Strength only."
+],
+[
+"13c|cite|10.1519/JSC.0000000000002200|detail",
+"Meta-analysis. Low- and high-load training gave similar hypertrophy; heavy loads better for 1RM."
+],
+[
+"13c|cite|10.1249/MSS.0000000000002585|detail",
+"Network meta-analysis, 28 studies, sets to failure. Hypertrophy similar across low, moderate and high loads; strength better with heavier loads."
+],
+[
+"13c|cite|10.1080/17461391.2018.1450898|detail",
+"Men, n=30, within-subject, 12 wk; 20% 1RM sets to failure vs 40%, 60% or 80% 1RM with volume load matched to the 20% limb. All grew, but 20% 1RM was suboptimal (vastus lateralis +8.9% vs +19.5% at 80%; elbow flexors +11.4% vs +25.0%)."
+],
+[
+"13c|cite|10.1519/JSC.0000000000002345|detail",
+"Progressive push-up variations vs bench press, 3×/wk: both groups improved 1RM bench press; muscle thickness did not change significantly in either group."
+],
+[
+"13c|cite|10.1139/apnm-2021-0515|detail",
+"Volume-matched studies: no clear hypertrophy difference between light and heavy loads; heavier loads better for 1RM strength."
+],
+[
+"13c|cite|10.23736/S0022-4707.21.12929-9|detail",
+"Hypertrophy similar between modes (ES −0.01, 95% CI −0.525 to 0.545); strength gains specific to the test mode."
+],
+[
+"13c|cite|10.1038/s41598-023-40319-x|detail",
+"Progressive bodyweight leg training (10 levels, bilateral to unilateral) vs barbell back squat at 60–80% 1RM, 2×/wk: both increased gluteus maximus, rectus femoris and gastrocnemius thickness, with no between-group differences."
+],
+[
+"14|heading",
+"Rep-range and RIR accuracy by experience level"
+],
+[
+"14|oneLiner",
+"Most lifters misjudge reps left by about one to two, usually underestimating, and guesses get better near failure."
+],
+[
+"14|summary",
+"Across 12 studies (414 participants), people underestimated how many reps they had left by about one rep on average, with large differences between studies. Estimates were slightly, not clearly, more accurate close to failure, more accurate in sets of 12 reps or fewer, and only trivially better in later sets. Training experience made little difference in that analysis and in several newer trials, although one large study found a tendency toward better accuracy with more experience. Practice may help: in two newer trials, estimates improved over several weeks of repeated sessions, though one small trial in trained lifters found no change. Resistance-trained lifters predicting 1 and 3 reps in reserve on the bench press were off by about 0.65 reps on average."
+],
+[
+"14|recommendation",
+"Treat logged RIR as an estimate within about one to two reps, use RIR ranges rather than single numbers, and give the last sets of an exercise the most weight when adjusting load."
+],
+[
+"14|evidenceStrength",
+"Moderate that RIR estimates are imperfect, mostly by underestimating, and better near failure. Years of experience show little effect (the meta-analysis, a study of 81 adults (Hackett 2017) and several newer trials; one large study found only a tendency, Steele 2017), but repeated practice improved accuracy in two trials (Wiedenmann 2026, over six sessions with every set continued to failure; Hermann 2025), while one small trial in trained lifters found no change (Remmert 2023). Errors grow with distance from failure and with longer sets: about 1 rep when 0–5 reps were left vs more than 2 when 7–10 were left (Hackett 2017), and in 16-rep squat sets trained men were off by about 2, 3.7 and 5.2 reps when they called 1, 3 and 5 RIR (Zourdos 2021). Most studies are single sessions, few include true beginners, and protocols vary widely. Velocity-based estimates depend on the exercise."
+],
+[
+"14|cite|10.1007/s40279-021-01559-x|detail",
+"Scoping review and meta-analysis, 12 studies, n=414. Mean underprediction 0.95 reps (95% CI 0.17 to 1.73), very high heterogeneity (I²=97.9%). Slightly, not clearly, more accurate near failure (95% CI crossed zero); more accurate with ≤12-rep sets; trivially more accurate in later sets; training status had no clear effect."
+],
+[
+"14|cite|10.7717/peerj.4105|detail",
+"n=141, mixed experience, single sets to failure on several exercises. Underprediction with SEM 2.64–3.38 reps (spread, not mean error); only a tendency to improve with experience."
+],
+[
+"14|cite|10.3389/fpsyg.2020.565416|detail",
+"Trained adults (≥1 yr training), n=14 and n=24, knee extensions. Underprediction of about 2.0 reps (95% CI 0.0 to 4.0)."
+],
+[
+"14|cite|10.1177/00315125231169868|detail",
+"Trained and untrained men (n=27) and women (n=31), machine biceps curl, triceps pushdown and seated row. More accurate closer to failure and in later sets; sex and training experience had no significant effect."
+],
+[
+"14|cite|10.1177/00315125231189098|detail",
+"Trained men, n=9, 6 wk bench press, 3×/wk. Absolute accuracy did not improve with practice; slightly more underestimation in later sessions and higher-rep sets."
+],
+[
+"14|cite|10.1519/JSC.0000000000004653|detail",
+"Resistance-trained men (n=12) and women (n=12), bench press at 75% 1RM, predicting 1 and 3 RIR. Raw error −0.17 ± 1.00, absolute error 0.65 ± 0.78 reps; no relation to sex, years of experience or relative strength."
+],
+[
+"14|cite|10.1519/JSC.0000000000001049|detail",
+"Experienced (n=15) vs novice (n=14) squatters. RIR-based RPE scale tracked bar velocity in both groups; experienced lifters rated a 1RM closer to RPE 10."
+],
+[
+"14|cite|10.1519/JSC.0000000000001901|detail",
+"Experienced (n=14, 4.7 yr) vs novice (n=13, 1.1 yr) bench pressers. RPE at 1RM higher in experienced (9.86 vs 9.35); no other between-group differences; strong velocity–RPE relation in both."
+],
+[
+"14|cite|10.1186/s40798-022-00526-8|detail",
+"Certified coaches, n=259, predicting trainees' RIR from video. Absolute errors 4.8, 2.0 and 1.2 reps at 33%, 66% and 90% of the set; coaching experience had negligible effect; errors smaller with heavier loads and in second sets."
+],
+[
+"14|cite|10.1186/s13102-026-01997-y|detail",
+"Bench press and leg press at 75–85% 1RM, calling 4 and 2 RIR and then continuing each set to failure: mean absolute error fell by up to 2.3 reps from session 1 to 6, with no age-group difference."
+],
+[
+"14|cite|10.1249/MSS.0000000000003728|detail",
+"Participants improved their RIR estimation accuracy over the 8-week programme, particularly for the bench press; accuracy was better on the bench press than the squat."
+],
+[
+"14|cite|10.1519/JSC.0000000000001683|detail",
+"Chest press at 70% and leg press at 80% 1RM: error about 1 rep when 0–5 reps were left vs more than 2 when 7–10 were left; resistance training experience did not affect accuracy."
+],
+[
+"14|cite|10.1519/JSC.0000000000002995|detail",
+"One squat set to failure at 70% 1RM (16 ± 4 reps): errors of about 2.05, 3.65 and 5.15 reps when calling 1, 3 and 5 RIR; longer sets gave less accurate calls."
+],
+[
+"14|cite|10.3390/sports10020027|detail",
+"Trained men, n=20, bench press and squat. Higher local muscular endurance was linked to larger errors in some sets; strength level was not."
+],
+[
+"14|cite|10.1080/02640414.2025.2481363|detail",
+"Recreationally trained adults, n=28, bench press. Individual velocity–RIR profiles estimated RIR within ≤1 rep near failure; less accurate at 5 RIR with generic profiles."
+],
+[
+"14|cite|10.1519/JSC.0000000000005549|detail",
+"Well-trained men, n=19, hexagonal-bar deadlift. Velocity-based RIR estimates failed the accuracy criteria. Online ahead of print."
+],
+[
+"14|cite|10.1002/ejsc.12266|detail",
+"Trained adults, n=18, 8 wk. Training to failure raised perceived discomfort and exertion; stopping at 1–2 RIR gave more positive feelings, relevant to adherence."
+],
+[
+"15|heading",
+"Deloads and fatigue management"
+],
+[
+"15|oneLiner",
+"Deload weeks are optional: in the few trials, planned breaks neither added nor cost muscle, so a well-designed split doesn't strictly need one; about every 8 weeks is a sensible default."
+],
+[
+"15|summary",
+"In trained lifters, a one-week break midway through a 9-week programme led to similar muscle growth but smaller strength gains than training straight through. In untrained men, lighter weeks at weeks 4 and 8, or 3-week breaks between 6-week blocks, gave similar overall growth to continuous training. Coaches and athletes widely use deloads, typically about a week every 4–6 weeks with fewer sets and easier effort, but that practice rests mainly on expert consensus and surveys rather than trials. Carlsen suggests about every 8 weeks, a little less often than the surveys report; this interval is a product choice, since trials have not tested deload timing and so far show no muscle benefit or cost from planned breaks."
+],
+[
+"15|recommendation",
+"Deloads are optional. Carlsen suggests a deload week (fewer sets, more reps in reserve, same exercises) about every 8 weeks, or sooner if performance stalls across several sessions."
+],
+[
+"15|evidenceStrength",
+"Limited. Only one controlled trial tests a deload in trained lifters (Coleman 2024, a full break rather than reduced training): muscle size was similar, but the continuous group gained more strength. The others are in untrained men or test longer breaks (Ogasawara 2011, 2013; Pancar 2026). \"Not strictly needed\" therefore means no muscle benefit or cost has been shown over 8–24 weeks; it has not been tested over longer periods in trained lifters. Deload frequency, length and how much to cut have not been compared in trials. Surveys report deloads roughly every 4–6 weeks (Bell 2022) or every 5.6 ± 2.3 weeks on average (Rogerson 2024); the ~8-week suggestion is a Carlsen product choice, not a survey or trial finding. Strength may dip slightly after a full week off, while muscle size appears unaffected. Strength losses grow with longer breaks (Bosquet 2013, mostly full training cessation in mixed populations), which matters most for users who train mainly for strength. Small trials in trained men without a continuous-training group found strength held after 2 weeks off (Hwang 2017) or did not decline after 3.5–5.5 days off (Pritchard 2018)."
+],
+[
+"15|cite|10.7717/peerj.16777|detail",
+"Resistance-trained men (n=29) and women (n=10), 9 wk; 1-week training break at the midpoint vs continuous. Similar lower-body muscle size, endurance and power; continuous group gained more isometric and dynamic strength."
+],
+[
+"15|cite|10.1038/s41598-026-40612-5|detail",
+"Untrained young men, n=19, within-subject, 8 wk; reduced to 1 session of 2 sets in weeks 4 and 8 vs continuous 6–8 sets 2×/wk. Similar muscle-thickness and 10RM gains; small between-condition effects."
+],
+[
+"15|cite|10.1007/s00421-012-2511-9|detail",
+"Untrained young men, n=14, 24 wk bench press; continuous vs three 6-week blocks separated by 3-week breaks. Similar overall gains in muscle CSA and strength."
+],
+[
+"15|cite|10.1111/j.1475-097X.2011.01031.x|detail",
+"Untrained young men, n=15, 15 wk bench press; continuous vs 3-week break after 6 wk. No significant loss during the break; similar final muscle CSA and 1RM."
+],
+[
+"15|cite|10.1519/JSC.0000000000004071|detail",
+"Trained men, n=30; 1 week of active (~15% of volume) vs passive recovery after 6 wk high-volume training. Marginal molecular differences; largely similar responses overall."
+],
+[
+"15|cite|10.1111/sms.12047|detail",
+"Meta-analysis, 103 studies. Stopping training reduced strength (maximal force SMD −0.46), more with longer breaks, in older adults and in inactive people. Strength outcomes only."
+],
+[
+"15|cite|10.1111/sms.14739|detail",
+"10 wk training, 10 wk off, 10 wk retraining vs 20 wk continuous: similar final strength and muscle CSA; losses during the break were regained quickly."
+],
+[
+"15|cite|10.1152/japplphysiol.00917.2018|detail",
+"10 wk one-leg training, 20 wk off, 5 wk retraining: muscle thickness returned to baseline during the break while strength stayed partly elevated; the previously trained leg did not respond better on retraining."
+],
+[
+"15|cite|10.1519/JSC.0000000000001807|detail",
+"4 wk training, 2 wk off, 4 wk retraining: leg press strength did not decrease after the 2-week break; lean mass was retained (not significant)."
+],
+[
+"15|cite|10.1519/JSC.0000000000001803|detail",
+"Strength measures did not decline after 3.5–5.5 days off; jump height and isometric bench press peak force were higher than pre-training."
+],
+[
+"15|cite|10.1186/s40798-023-00633-0|detail",
+"Delphi consensus, 21–34 expert coaches. Defines deloading as a period of reduced training stress to manage fatigue, promote recovery and prepare for further training."
+],
+[
+"15|cite|10.1186/s40798-024-00691-y|detail",
+"Survey, 246 competitive strength and physique athletes. Typical deload 6.4 ± 1.7 days every 5.6 ± 2.3 wk; volume and effort reduced, frequency and exercises usually kept; often triggered by stalled performance."
+],
+[
+"15|cite|10.3389/fspor.2022.1073223|detail",
+"Interviews, 18 strength and physique coaches. Deloads typically 5–7 days every 4–6 wk, mainly by reducing sets, reps and effort."
+],
+[
+"15|cite|10.1519/JSC.0000000000004932|detail",
+"Survey, 204 strength and conditioning coaches across sporting codes. Planned deloads usually cut volume by 0–25%, often with a similar cut in intensity. Context: deloads used around tapering, the competitive season, tournaments and travel across sporting codes, not physique-style deload weeks."
+],
+[
+"15|cite|10.5114/jhk/209051|detail",
+"Trained men, n=31, 12 wk. Progressively increasing weekly sets raised training strain in a graded way (6 sets > 4 sets > fixed); volume-load changes were not meaningfully correlated with muscle-thickness changes."
+],
+[
+"r1-6|oneLiner",
+"Rest 2–3 minutes between sets on every exercise, isolation work included."
+],
+[
+"r1-6|summary",
+"Resting longer between sets lets you lift more weight for more reps on the next set, so each set delivers more tension. Research shows a small growth advantage for resting more than about a minute, with little extra benefit beyond about 90 seconds to 2 minutes for most exercises. Isolation sets taken close to failure are just as demanding as big compound sets, so the same longer rest benefits every exercise."
+],
+[
+"r1-6|recommendation",
+"Rest 2–3 minutes between sets on every exercise, isolation work included. The longer rest is beneficial because it helps you match your previous set's weight and reps, which keeps every set productive."
+],
+[
+"r1-6|evidenceStrength",
+"Moderate to weak. In Singer 2024's analysis of 9 studies, the benefit of resting >60 s was small, results varied a lot between studies, and there was no clear gain beyond ~90 s. The most likely reason is that short rest cuts volume load. Longo 2022 supports this: once volume load was matched, rest length didn't matter. Saying that longer rest works \"through tension\" is a reasonable explanation, not something that was measured."
+]
+]

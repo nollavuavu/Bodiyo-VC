@@ -1,0 +1,127 @@
+{
+  "_doc": [
+    "APP-SIDE overrides for /workspace/carlsen/exercises.json (Laurent's library). exercises.json itself is never edited.",
+    "Read by tools/build-exercises.js, baked into exercises.js. Data problems found go to Laurent instead (see README).",
+    "access: which onboarding equipment setups can do an exercise. Defaults by exercises.json `equipment`: barbell/machine/cable -> gym; dumbbell -> gym, db; bodyweight -> gym, db, bw.",
+    "  db = 'Dumbbells: home, dumbbells + bench' (no pull-up bar); bw = 'Bodyweight: minimal, pull-up bar'.",
+    "legacyIds: v1/data.js snake_case ids -> exercises.json ids, so saved history, plans and sample splits keep working. null = no equivalent in exercises.json.",
+    "cuesFromLegacy: copy the v1 form cues (app copy, not evidence) only where the legacy exercise is the same exercise.",
+    "templateAvoid: never chosen for a recommended template (still available in swaps, the picker and the library). The assisted pull-up machine is a regression option, not a default."
+  ],
+  "access": {
+    "pull-up": [
+      "gym",
+      "bw"
+    ],
+    "chin-up": [
+      "gym",
+      "bw"
+    ],
+    "inverted-row": [
+      "gym",
+      "bw"
+    ],
+    "hanging-knee-raise": [
+      "gym",
+      "bw"
+    ],
+    "hanging-leg-raise": [
+      "gym",
+      "bw"
+    ],
+    "chest-dip": [
+      "gym"
+    ],
+    "triceps-dip": [
+      "gym"
+    ],
+    "back-extension-45": [
+      "gym"
+    ],
+    "bulgarian-split-squat": [
+      "gym",
+      "db",
+      "bw"
+    ]
+  },
+  "accessReasons": {
+    "pull-up": "needs a bar",
+    "chin-up": "needs a bar",
+    "inverted-row": "needs a bar or sturdy table",
+    "hanging-knee-raise": "needs a bar",
+    "hanging-leg-raise": "needs a bar",
+    "chest-dip": "needs dip bars",
+    "triceps-dip": "needs dip bars",
+    "back-extension-45": "needs a 45° back-extension bench",
+    "bulgarian-split-squat": "can be done unloaded (rear foot on a chair)"
+  },
+  "legacyIds": {
+    "barbell_back_squat": "barbell-back-squat",
+    "goblet_squat": "goblet-squat",
+    "bulgarian_split_squat": "bulgarian-split-squat",
+    "romanian_deadlift": "barbell-romanian-deadlift",
+    "db_romanian_deadlift": "dumbbell-romanian-deadlift",
+    "single_leg_rdl": "single-leg-romanian-deadlift",
+    "barbell_bench_press": "barbell-bench-press",
+    "db_bench_press": "dumbbell-bench-press",
+    "push_up": "push-up",
+    "db_shoulder_press": "seated-dumbbell-shoulder-press",
+    "pike_push_up": "pike-push-up",
+    "chest_supported_row": "chest-supported-dumbbell-row",
+    "one_arm_db_row": "one-arm-dumbbell-row",
+    "inverted_row": "inverted-row",
+    "lat_pulldown": "lat-pulldown",
+    "pull_up": "pull-up",
+    "leg_extension": "leg-extension",
+    "sissy_squat": "sissy-squat",
+    "seated_leg_curl": "seated-leg-curl",
+    "slider_leg_curl": "slider-leg-curl",
+    "cable_fly": "cable-fly-mid",
+    "db_fly": "dumbbell-fly",
+    "deficit_push_up": "deficit-push-up",
+    "cable_lateral_raise": "cable-lateral-raise",
+    "db_lateral_raise": "dumbbell-lateral-raise",
+    "cable_rear_delt_fly": "cable-reverse-fly",
+    "db_reverse_fly": "chest-supported-dumbbell-reverse-fly",
+    "incline_db_curl": "incline-dumbbell-curl",
+    "chin_up_negative": "chin-up",
+    "bw_bar_curl": null,
+    "overhead_cable_extension": "overhead-cable-triceps-extension",
+    "db_overhead_extension": "overhead-dumbbell-triceps-extension",
+    "bench_dip": null,
+    "standing_calf_raise": "standing-calf-raise-machine"
+  },
+  "cuesFromLegacy": [
+    "barbell_back_squat",
+    "goblet_squat",
+    "bulgarian_split_squat",
+    "romanian_deadlift",
+    "db_romanian_deadlift",
+    "barbell_bench_press",
+    "db_bench_press",
+    "push_up",
+    "db_shoulder_press",
+    "pike_push_up",
+    "one_arm_db_row",
+    "lat_pulldown",
+    "pull_up",
+    "leg_extension",
+    "sissy_squat",
+    "seated_leg_curl",
+    "slider_leg_curl",
+    "db_fly",
+    "deficit_push_up",
+    "cable_lateral_raise",
+    "db_lateral_raise",
+    "incline_db_curl",
+    "overhead_cable_extension",
+    "db_overhead_extension"
+  ],
+  "templateAvoid": [
+    "assisted-pull-up-machine"
+  ],
+  "renamedIds": {
+    "_doc": "exercises.json ids renamed after an earlier v2 build; mapped so any data saved with the old id keeps working.",
+    "reverse-barbell-curl": "reverse-ez-bar-curl"
+  }
+}

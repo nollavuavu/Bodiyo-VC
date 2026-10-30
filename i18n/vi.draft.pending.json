@@ -1,0 +1,67 @@
+{
+  "why.placeholderEvidence": {
+    "en": "Placeholder: awaiting evidence.md",
+    "vi": "Tạm thời: đang chờ evidence.md",
+    "source": "147"
+  },
+  "workout.myVersion": {
+    "en": "(my version)",
+    "vi": "(bản của tôi)",
+    "source": "230"
+  },
+  "workout.savedPlanAs": {
+    "en": "Saved your plan as \"{name}\"",
+    "vi": "Đã lưu kế hoạch của bạn thành \"{name}\"",
+    "source": "236"
+  },
+  "workout.notTickedTitle": {
+    "en": "{sets} not ticked",
+    "vi": "{sets} chưa đánh dấu",
+    "source": "263"
+  },
+  "workout.change.added": {
+    "en": "added {names}",
+    "vi": "đã thêm {names}",
+    "source": "268"
+  },
+  "workout.change.removed": {
+    "en": "removed {names}",
+    "vi": "đã bỏ {names}",
+    "source": "268"
+  },
+  "logger.untick": {
+    "en": "Untick",
+    "vi": "Bỏ đánh dấu",
+    "source": "331"
+  },
+  "logger.complete": {
+    "en": "Complete",
+    "vi": "Hoàn thành",
+    "source": "331"
+  },
+  "workout.emptyHint": {
+    "en": "Add exercises as you go. Each set you tick at RIR 3 or less counts toward this week's muscles.",
+    "vi": "Thêm bài trong lúc tập. Mỗi set bạn đánh dấu xong có RIR (số rep còn dư) từ 3 trở xuống sẽ được tính cho các nhóm cơ trong tuần.",
+    "source": "353 (⚠ '3' hard-coded; should be {rir})"
+  },
+  "picker.day": {
+    "en": "day",
+    "vi": "ngày",
+    "source": "476"
+  },
+  "plan.day": {
+    "en": "Day",
+    "vi": "Ngày",
+    "source": "542"
+  },
+  "community.copySuffix": {
+    "en": "(copy)",
+    "vi": "(bản sao)",
+    "source": "715"
+  },
+  "library.built": {
+    "en": ", built {date}",
+    "vi": ", cập nhật {date}",
+    "source": "743"
+  }
+}

@@ -1,0 +1,2001 @@
+[
+  {
+    "id": "barbell-bench-press",
+    "name": "Barbell Bench Press",
+    "equipment": "barbell",
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "front delts",
+      "triceps"
+    ],
+    "movementPattern": "horizontal push",
+    "resistanceProfile": "stretch",
+    "lengthenedPosition": "Bottom of the press, hands or bar near chest level with elbows behind the torso: chest is at its longest.",
+    "stability": "high",
+    "substitutionGroup": "chest-press-stretch",
+    "evidenceNote": "In a small 8-week trial in young men (n=18, 9 per group), a light bench press (40% 1RM) and push-ups matched to the same load, both taken to failure, gave similar chest and triceps growth. (Kikuchi et al. 2017, PMID 29541130)"
+  },
+  {
+    "id": "dumbbell-bench-press",
+    "name": "Dumbbell Bench Press",
+    "equipment": "dumbbell",
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "front delts",
+      "triceps"
+    ],
+    "movementPattern": "horizontal push",
+    "resistanceProfile": "stretch",
+    "lengthenedPosition": "Dumbbells at the bottom beside the chest: chest is at its longest, often a little deeper than with a barbell.",
+    "stability": "low",
+    "substitutionGroup": "chest-press-stretch",
+    "evidenceNote": ""
+  },
+  {
+    "id": "incline-barbell-bench-press",
+    "name": "Incline Barbell Bench Press",
+    "equipment": "barbell",
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "front delts",
+      "triceps"
+    ],
+    "movementPattern": "horizontal push",
+    "resistanceProfile": "stretch",
+    "lengthenedPosition": "Bar at the upper chest: chest (especially the upper part) is at its longest.",
+    "stability": "high",
+    "substitutionGroup": "chest-incline-press-stretch",
+    "evidenceNote": ""
+  },
+  {
+    "id": "incline-dumbbell-bench-press",
+    "name": "Incline Dumbbell Bench Press",
+    "equipment": "dumbbell",
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "front delts",
+      "triceps"
+    ],
+    "movementPattern": "horizontal push",
+    "resistanceProfile": "stretch",
+    "lengthenedPosition": "Dumbbells at the bottom beside the upper chest: chest is at its longest.",
+    "stability": "low",
+    "substitutionGroup": "chest-incline-press-stretch",
+    "evidenceNote": ""
+  },
+  {
+    "id": "smith-machine-incline-press",
+    "name": "Smith Machine Incline Press",
+    "equipment": "machine",
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "front delts",
+      "triceps"
+    ],
+    "movementPattern": "horizontal push",
+    "resistanceProfile": "stretch",
+    "lengthenedPosition": "Bar at the upper chest: chest is at its longest.",
+    "stability": "high",
+    "substitutionGroup": "chest-incline-press-stretch",
+    "evidenceNote": ""
+  },
+  {
+    "id": "smith-machine-bench-press",
+    "name": "Smith Machine Bench Press",
+    "equipment": "machine",
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "front delts",
+      "triceps"
+    ],
+    "movementPattern": "horizontal push",
+    "resistanceProfile": "stretch",
+    "lengthenedPosition": "Bottom of the press, hands or bar near chest level with elbows behind the torso: chest is at its longest.",
+    "stability": "high",
+    "substitutionGroup": "chest-press-stretch",
+    "evidenceNote": ""
+  },
+  {
+    "id": "machine-chest-press",
+    "name": "Machine Chest Press (seated)",
+    "equipment": "machine",
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "front delts",
+      "triceps"
+    ],
+    "movementPattern": "horizontal push",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Handles at the start position beside the chest: chest is at its longest. Where it is hardest depends on the machine's lever and cam.",
+    "stability": "high",
+    "substitutionGroup": "chest-press-machine",
+    "evidenceNote": ""
+  },
+  {
+    "id": "plate-loaded-chest-press",
+    "name": "Plate-Loaded Chest Press",
+    "equipment": "machine",
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "front delts",
+      "triceps"
+    ],
+    "movementPattern": "horizontal push",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Handles at the start position beside the chest: chest is at its longest. Where it is hardest depends on the machine's lever arc.",
+    "stability": "high",
+    "substitutionGroup": "chest-press-machine",
+    "evidenceNote": ""
+  },
+  {
+    "id": "push-up",
+    "name": "Push-Up",
+    "equipment": "bodyweight",
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "triceps",
+      "front delts"
+    ],
+    "movementPattern": "horizontal push",
+    "resistanceProfile": "stretch",
+    "lengthenedPosition": "Chest near the floor: chest is at its longest.",
+    "stability": "low",
+    "substitutionGroup": "chest-press-bodyweight",
+    "evidenceNote": "In a small 8-week trial in young men (n=18, 9 per group), push-ups matched to 40% of bench-press 1RM and taken to failure grew the chest and triceps about as much as a light bench press. (Kikuchi et al. 2017, PMID 29541130)"
+  },
+  {
+    "id": "deficit-push-up",
+    "name": "Deficit Push-Up (hands on blocks)",
+    "equipment": "bodyweight",
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "triceps",
+      "front delts"
+    ],
+    "movementPattern": "horizontal push",
+    "resistanceProfile": "stretch",
+    "lengthenedPosition": "Chest below hand level at the bottom: chest is stretched further than in a floor push-up.",
+    "stability": "low",
+    "substitutionGroup": "chest-press-bodyweight",
+    "evidenceNote": ""
+  },
+  {
+    "id": "chest-dip",
+    "name": "Chest Dip (torso leaning forward)",
+    "equipment": "bodyweight",
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "triceps",
+      "front delts"
+    ],
+    "movementPattern": "horizontal push",
+    "resistanceProfile": "stretch",
+    "lengthenedPosition": "Bottom of the dip with shoulders extended: chest and front delts are at their longest.",
+    "stability": "low",
+    "substitutionGroup": "chest-press-bodyweight",
+    "evidenceNote": ""
+  },
+  {
+    "id": "dumbbell-fly",
+    "name": "Dumbbell Fly (flat bench)",
+    "equipment": "dumbbell",
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "front delts"
+    ],
+    "movementPattern": "isolation-horizontal-adduction",
+    "resistanceProfile": "stretch",
+    "lengthenedPosition": "Arms open wide at the bottom with elbows slightly bent: chest is at its longest.",
+    "stability": "low",
+    "substitutionGroup": "chest-fly-stretch",
+    "evidenceNote": ""
+  },
+  {
+    "id": "incline-dumbbell-fly",
+    "name": "Incline Dumbbell Fly",
+    "equipment": "dumbbell",
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "front delts"
+    ],
+    "movementPattern": "isolation-horizontal-adduction",
+    "resistanceProfile": "stretch",
+    "lengthenedPosition": "Arms open wide at the bottom: chest (especially the upper part) is at its longest.",
+    "stability": "low",
+    "substitutionGroup": "chest-fly-stretch",
+    "evidenceNote": ""
+  },
+  {
+    "id": "cable-fly-mid",
+    "name": "Cable Fly (pulleys at chest height, step forward)",
+    "equipment": "cable",
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "front delts"
+    ],
+    "movementPattern": "isolation-horizontal-adduction",
+    "resistanceProfile": "stretch",
+    "lengthenedPosition": "Arms open wide and slightly behind the body: chest is at its longest. With pulleys at chest height and a step forward, the cable pulls hardest near this open position.",
+    "stability": "high",
+    "substitutionGroup": "chest-fly-stretch",
+    "evidenceNote": ""
+  },
+  {
+    "id": "pec-deck",
+    "name": "Pec Deck (machine fly)",
+    "equipment": "machine",
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "front delts"
+    ],
+    "movementPattern": "isolation-horizontal-adduction",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Arms open wide at the start: chest is at its longest. Resistance is fairly even across the range on most machines.",
+    "stability": "high",
+    "substitutionGroup": "chest-fly-machine",
+    "evidenceNote": ""
+  },
+  {
+    "id": "cable-crossover-high",
+    "name": "High-to-Low Cable Crossover",
+    "equipment": "cable",
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "front delts"
+    ],
+    "movementPattern": "isolation-horizontal-adduction",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Arms up and out at the start: lower and middle chest are at their longest.",
+    "stability": "high",
+    "substitutionGroup": "chest-fly-machine",
+    "evidenceNote": ""
+  },
+  {
+    "id": "barbell-overhead-press",
+    "name": "Standing Barbell Overhead Press",
+    "equipment": "barbell",
+    "primaryMuscles": [
+      "front delts"
+    ],
+    "secondaryMuscles": [
+      "triceps",
+      "side delts"
+    ],
+    "movementPattern": "vertical push",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Bar at the upper chest/collarbone: front delts are at their longest in this movement; it is hardest around the lower-middle part of the press.",
+    "stability": "low",
+    "substitutionGroup": "front-delt-press",
+    "evidenceNote": ""
+  },
+  {
+    "id": "seated-dumbbell-shoulder-press",
+    "name": "Seated Dumbbell Shoulder Press",
+    "equipment": "dumbbell",
+    "primaryMuscles": [
+      "front delts"
+    ],
+    "secondaryMuscles": [
+      "triceps",
+      "side delts"
+    ],
+    "movementPattern": "vertical push",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Dumbbells at ear level with elbows below the hands: front delts are at their longest; like the barbell press, it is hardest around the lower-middle part of the press rather than at the very bottom.",
+    "stability": "low",
+    "substitutionGroup": "front-delt-press",
+    "evidenceNote": ""
+  },
+  {
+    "id": "machine-shoulder-press",
+    "name": "Machine Shoulder Press",
+    "equipment": "machine",
+    "primaryMuscles": [
+      "front delts"
+    ],
+    "secondaryMuscles": [
+      "triceps",
+      "side delts"
+    ],
+    "movementPattern": "vertical push",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Handles at shoulder level at the start: front delts are at their longest. Where it is hardest depends on the machine.",
+    "stability": "high",
+    "substitutionGroup": "front-delt-press",
+    "evidenceNote": ""
+  },
+  {
+    "id": "pike-push-up",
+    "name": "Pike Push-Up",
+    "equipment": "bodyweight",
+    "primaryMuscles": [
+      "front delts"
+    ],
+    "secondaryMuscles": [
+      "triceps",
+      "upper back"
+    ],
+    "movementPattern": "vertical push",
+    "resistanceProfile": "stretch",
+    "lengthenedPosition": "Head near the floor with hips high: front delts are at their longest.",
+    "stability": "low",
+    "substitutionGroup": "front-delt-press",
+    "evidenceNote": ""
+  },
+  {
+    "id": "dumbbell-front-raise",
+    "name": "Dumbbell Front Raise",
+    "equipment": "dumbbell",
+    "primaryMuscles": [
+      "front delts"
+    ],
+    "secondaryMuscles": [],
+    "movementPattern": "isolation-shoulder-flexion",
+    "resistanceProfile": "shortened",
+    "lengthenedPosition": "Arm hanging by the thigh at the bottom (front delts only lengthen modestly here); hardest with the arm near shoulder height.",
+    "stability": "low",
+    "substitutionGroup": "front-delt-raise",
+    "evidenceNote": ""
+  },
+  {
+    "id": "cable-front-raise",
+    "name": "Cable Front Raise (low pulley behind)",
+    "equipment": "cable",
+    "primaryMuscles": [
+      "front delts"
+    ],
+    "secondaryMuscles": [],
+    "movementPattern": "isolation-shoulder-flexion",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Arm down by the side or slightly behind the body: front delts are at their longest.",
+    "stability": "high",
+    "substitutionGroup": "front-delt-raise",
+    "evidenceNote": ""
+  },
+  {
+    "id": "dumbbell-lateral-raise",
+    "name": "Dumbbell Lateral Raise",
+    "equipment": "dumbbell",
+    "primaryMuscles": [
+      "side delts"
+    ],
+    "secondaryMuscles": [],
+    "movementPattern": "isolation-shoulder-abduction",
+    "resistanceProfile": "shortened",
+    "lengthenedPosition": "Arm down by the side at the bottom: side delts are at their longest; the dumbbell is hardest when the arm is near shoulder height.",
+    "stability": "low",
+    "substitutionGroup": "side-delt-raise",
+    "evidenceNote": "In an 8-week trial in resistance-trained men and women (n=24, one arm each way), dumbbell lateral raises (hardest near the top) and cable lateral raises with the pulley at about hand height (hardest near the bottom), both taken to failure, grew the side delts similarly (about 3–5% thicker). (Larsen et al. 2025, PMID 40692697)"
+  },
+  {
+    "id": "cable-lateral-raise",
+    "name": "Cable Lateral Raise (low pulley, cable across the front)",
+    "equipment": "cable",
+    "primaryMuscles": [
+      "side delts"
+    ],
+    "secondaryMuscles": [],
+    "movementPattern": "isolation-shoulder-abduction",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Arm across the front of the body at the bottom: side delts are at their longest; the cable keeps tension in this low position.",
+    "stability": "high",
+    "substitutionGroup": "side-delt-raise",
+    "evidenceNote": "In an 8-week trial in resistance-trained men and women (n=24, one arm each way), cable lateral raises with the pulley at about hand height (hardest near the bottom, unlike a low-pulley setup) and dumbbell lateral raises, both taken to failure, grew the side delts similarly (about 3–5% thicker). (Larsen et al. 2025, PMID 40692697)"
+  },
+  {
+    "id": "machine-lateral-raise",
+    "name": "Machine Lateral Raise",
+    "equipment": "machine",
+    "primaryMuscles": [
+      "side delts"
+    ],
+    "secondaryMuscles": [],
+    "movementPattern": "isolation-shoulder-abduction",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Arms down by the sides at the start: side delts are at their longest. Profile depends on the machine's cam.",
+    "stability": "high",
+    "substitutionGroup": "side-delt-raise",
+    "evidenceNote": ""
+  },
+  {
+    "id": "lean-away-dumbbell-lateral-raise",
+    "name": "Lean-Away Dumbbell Lateral Raise",
+    "equipment": "dumbbell",
+    "primaryMuscles": [
+      "side delts"
+    ],
+    "secondaryMuscles": [],
+    "movementPattern": "isolation-shoulder-abduction",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Arm down and slightly across the body while leaning away from a support: side delts are at their longest, and leaning shifts the hardest point lower than a standard raise.",
+    "stability": "high",
+    "substitutionGroup": "side-delt-raise",
+    "evidenceNote": ""
+  },
+  {
+    "id": "reverse-pec-deck",
+    "name": "Reverse Pec Deck",
+    "equipment": "machine",
+    "primaryMuscles": [
+      "rear delts"
+    ],
+    "secondaryMuscles": [
+      "upper back"
+    ],
+    "movementPattern": "isolation-horizontal-abduction",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Arms forward in front of the chest at the start: rear delts are at their longest.",
+    "stability": "high",
+    "substitutionGroup": "rear-delt-fly",
+    "evidenceNote": ""
+  },
+  {
+    "id": "bent-over-dumbbell-reverse-fly",
+    "name": "Bent-Over Dumbbell Reverse Fly",
+    "equipment": "dumbbell",
+    "primaryMuscles": [
+      "rear delts"
+    ],
+    "secondaryMuscles": [
+      "upper back"
+    ],
+    "movementPattern": "isolation-horizontal-abduction",
+    "resistanceProfile": "shortened",
+    "lengthenedPosition": "Arms hanging straight down under the chest: rear delts are at their longest; hardest when the arms reach out to the sides.",
+    "stability": "low",
+    "substitutionGroup": "rear-delt-fly",
+    "evidenceNote": ""
+  },
+  {
+    "id": "chest-supported-dumbbell-reverse-fly",
+    "name": "Chest-Supported Incline Dumbbell Reverse Fly",
+    "equipment": "dumbbell",
+    "primaryMuscles": [
+      "rear delts"
+    ],
+    "secondaryMuscles": [
+      "upper back"
+    ],
+    "movementPattern": "isolation-horizontal-abduction",
+    "resistanceProfile": "shortened",
+    "lengthenedPosition": "Arms hanging down in front of the bench: rear delts are at their longest; hardest when the arms reach out to the sides.",
+    "stability": "high",
+    "substitutionGroup": "rear-delt-fly",
+    "evidenceNote": ""
+  },
+  {
+    "id": "cable-reverse-fly",
+    "name": "Cable Reverse Fly (pulleys at shoulder height, cables crossed)",
+    "equipment": "cable",
+    "primaryMuscles": [
+      "rear delts"
+    ],
+    "secondaryMuscles": [
+      "upper back"
+    ],
+    "movementPattern": "isolation-horizontal-abduction",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Arms crossed in front of the chest: rear delts are at their longest.",
+    "stability": "high",
+    "substitutionGroup": "rear-delt-fly",
+    "evidenceNote": ""
+  },
+  {
+    "id": "face-pull",
+    "name": "Cable Face Pull (rope, pulley at face height)",
+    "equipment": "cable",
+    "primaryMuscles": [
+      "rear delts",
+      "upper back"
+    ],
+    "secondaryMuscles": [],
+    "movementPattern": "horizontal pull",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Arms reaching forward toward the pulley: rear delts and upper back are at their longest. The cable pulls horizontally, so the load stays fairly even through the pull.",
+    "stability": "high",
+    "substitutionGroup": "rear-delt-upper-back-pull",
+    "evidenceNote": ""
+  },
+  {
+    "id": "cable-rear-delt-row",
+    "name": "Cable Rear-Delt Row (rope or bar, pulley at chest height, elbows wide)",
+    "equipment": "cable",
+    "primaryMuscles": [
+      "rear delts",
+      "upper back"
+    ],
+    "secondaryMuscles": [
+      "biceps"
+    ],
+    "movementPattern": "horizontal pull",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Arms reaching forward toward the pulley with the shoulder blades spread: rear delts and upper back are at their longest. The cable pulls horizontally, so the load stays fairly even through the pull.",
+    "stability": "high",
+    "substitutionGroup": "rear-delt-upper-back-pull",
+    "evidenceNote": ""
+  },
+  {
+    "id": "pull-up",
+    "name": "Pull-Up (overhand)",
+    "equipment": "bodyweight",
+    "primaryMuscles": [
+      "lats"
+    ],
+    "secondaryMuscles": [
+      "biceps",
+      "upper back"
+    ],
+    "movementPattern": "vertical pull",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Dead hang with arms overhead: lats are at their longest.",
+    "stability": "low",
+    "substitutionGroup": "lats-vertical-pull",
+    "evidenceNote": ""
+  },
+  {
+    "id": "chin-up",
+    "name": "Chin-Up (underhand)",
+    "equipment": "bodyweight",
+    "primaryMuscles": [
+      "lats"
+    ],
+    "secondaryMuscles": [
+      "biceps",
+      "upper back"
+    ],
+    "movementPattern": "vertical pull",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Dead hang with arms overhead: lats are at their longest.",
+    "stability": "low",
+    "substitutionGroup": "lats-vertical-pull",
+    "evidenceNote": ""
+  },
+  {
+    "id": "assisted-pull-up-machine",
+    "name": "Assisted Pull-Up Machine",
+    "equipment": "machine",
+    "primaryMuscles": [
+      "lats"
+    ],
+    "secondaryMuscles": [
+      "biceps",
+      "upper back"
+    ],
+    "movementPattern": "vertical pull",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Arms overhead at the bottom: lats are at their longest.",
+    "stability": "high",
+    "substitutionGroup": "lats-vertical-pull",
+    "evidenceNote": ""
+  },
+  {
+    "id": "lat-pulldown",
+    "name": "Lat Pulldown (wide overhand grip)",
+    "equipment": "cable",
+    "primaryMuscles": [
+      "lats"
+    ],
+    "secondaryMuscles": [
+      "biceps",
+      "upper back"
+    ],
+    "movementPattern": "vertical pull",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Arms fully extended overhead at the top: lats are at their longest.",
+    "stability": "high",
+    "substitutionGroup": "lats-vertical-pull",
+    "evidenceNote": "In a small 10-week trial in untrained young men (n=29, 14 vs 15 per group) doing the same leg and chest exercises, a group that added wide-grip lat pulldowns and a group that added barbell biceps curls instead showed similar elbow-flexor thickness gains (+6.1% vs +5.8%, no significant difference). (Gentil et al. 2015, PMID 26446291)"
+  },
+  {
+    "id": "close-grip-lat-pulldown",
+    "name": "Close Neutral-Grip Lat Pulldown",
+    "equipment": "cable",
+    "primaryMuscles": [
+      "lats"
+    ],
+    "secondaryMuscles": [
+      "biceps",
+      "upper back"
+    ],
+    "movementPattern": "vertical pull",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Arms fully extended overhead at the top: lats are at their longest.",
+    "stability": "high",
+    "substitutionGroup": "lats-vertical-pull",
+    "evidenceNote": ""
+  },
+  {
+    "id": "single-arm-cable-pulldown",
+    "name": "Single-Arm Cable Pulldown (kneeling)",
+    "equipment": "cable",
+    "primaryMuscles": [
+      "lats"
+    ],
+    "secondaryMuscles": [
+      "biceps",
+      "upper back"
+    ],
+    "movementPattern": "vertical pull",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Arm fully extended overhead and slightly across: lats are at their longest.",
+    "stability": "high",
+    "substitutionGroup": "lats-vertical-pull",
+    "evidenceNote": ""
+  },
+  {
+    "id": "straight-arm-pulldown",
+    "name": "Straight-Arm Cable Pulldown",
+    "equipment": "cable",
+    "primaryMuscles": [
+      "lats"
+    ],
+    "secondaryMuscles": [],
+    "movementPattern": "isolation-shoulder-extension",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Arms reaching up toward the high pulley: lats are at their longest.",
+    "stability": "high",
+    "substitutionGroup": "lats-pullover",
+    "evidenceNote": ""
+  },
+  {
+    "id": "dumbbell-pullover",
+    "name": "Dumbbell Pullover (lying across a bench)",
+    "equipment": "dumbbell",
+    "primaryMuscles": [
+      "lats"
+    ],
+    "secondaryMuscles": [
+      "chest"
+    ],
+    "movementPattern": "isolation-shoulder-extension",
+    "resistanceProfile": "stretch",
+    "lengthenedPosition": "Arms reaching back behind the head: lats are at their longest, and the dumbbell is hardest here.",
+    "stability": "low",
+    "substitutionGroup": "lats-pullover",
+    "evidenceNote": ""
+  },
+  {
+    "id": "barbell-bent-over-row",
+    "name": "Barbell Bent-Over Row",
+    "equipment": "barbell",
+    "primaryMuscles": [
+      "upper back",
+      "lats"
+    ],
+    "secondaryMuscles": [
+      "biceps",
+      "rear delts"
+    ],
+    "movementPattern": "horizontal pull",
+    "resistanceProfile": "shortened",
+    "lengthenedPosition": "Arms hanging straight down at the bottom: upper back and lats are at their longest.",
+    "stability": "low",
+    "substitutionGroup": "back-row-free",
+    "evidenceNote": ""
+  },
+  {
+    "id": "one-arm-dumbbell-row",
+    "name": "One-Arm Dumbbell Row (hand on bench)",
+    "equipment": "dumbbell",
+    "primaryMuscles": [
+      "lats",
+      "upper back"
+    ],
+    "secondaryMuscles": [
+      "biceps",
+      "rear delts"
+    ],
+    "movementPattern": "horizontal pull",
+    "resistanceProfile": "shortened",
+    "lengthenedPosition": "Arm hanging straight down with the shoulder blade allowed to move forward: lats and upper back are at their longest.",
+    "stability": "high",
+    "substitutionGroup": "back-row-lats",
+    "evidenceNote": "In a small 8-week trial in untrained men (n=10, one arm each way), one-arm dumbbell rows grew elbow-flexor thickness about half as much as one-arm biceps curls (+5.2% vs +11.1%), so direct curls may help if arm size is a goal. (Mannarino et al. 2021, PMID 31268995)"
+  },
+  {
+    "id": "chest-supported-dumbbell-row",
+    "name": "Chest-Supported Incline Dumbbell Row",
+    "equipment": "dumbbell",
+    "primaryMuscles": [
+      "upper back",
+      "lats"
+    ],
+    "secondaryMuscles": [
+      "biceps",
+      "rear delts"
+    ],
+    "movementPattern": "horizontal pull",
+    "resistanceProfile": "shortened",
+    "lengthenedPosition": "Arms hanging straight down in front of the bench: upper back and lats are at their longest.",
+    "stability": "high",
+    "substitutionGroup": "back-row-supported",
+    "evidenceNote": ""
+  },
+  {
+    "id": "t-bar-row",
+    "name": "Chest-Supported T-Bar Row",
+    "equipment": "machine",
+    "primaryMuscles": [
+      "upper back",
+      "lats"
+    ],
+    "secondaryMuscles": [
+      "biceps",
+      "rear delts"
+    ],
+    "movementPattern": "horizontal pull",
+    "resistanceProfile": "shortened",
+    "lengthenedPosition": "Arms fully extended at the bottom: upper back and lats are at their longest.",
+    "stability": "high",
+    "substitutionGroup": "back-row-supported",
+    "evidenceNote": ""
+  },
+  {
+    "id": "seated-cable-row",
+    "name": "Seated Cable Row (close neutral grip)",
+    "equipment": "cable",
+    "primaryMuscles": [
+      "lats",
+      "upper back"
+    ],
+    "secondaryMuscles": [
+      "biceps",
+      "rear delts"
+    ],
+    "movementPattern": "horizontal pull",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Arms reaching forward with the shoulder blades spread: upper back and lats are at their longest. The cable pulls horizontally, so the load on the back stays fairly even through the pull (unlike free-weight rows, which are hardest at the top).",
+    "stability": "high",
+    "substitutionGroup": "back-row-lats",
+    "evidenceNote": ""
+  },
+  {
+    "id": "machine-row",
+    "name": "Seated Machine Row (chest pad)",
+    "equipment": "machine",
+    "primaryMuscles": [
+      "upper back",
+      "lats"
+    ],
+    "secondaryMuscles": [
+      "biceps",
+      "rear delts"
+    ],
+    "movementPattern": "horizontal pull",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Arms reaching forward at the start: upper back and lats are at their longest. Where it is hardest depends on the machine.",
+    "stability": "high",
+    "substitutionGroup": "back-row-supported",
+    "evidenceNote": ""
+  },
+  {
+    "id": "inverted-row",
+    "name": "Inverted Row (bar or rings)",
+    "equipment": "bodyweight",
+    "primaryMuscles": [
+      "upper back",
+      "lats"
+    ],
+    "secondaryMuscles": [
+      "biceps",
+      "rear delts"
+    ],
+    "movementPattern": "horizontal pull",
+    "resistanceProfile": "shortened",
+    "lengthenedPosition": "Hanging under the bar with arms straight: upper back and lats are at their longest.",
+    "stability": "low",
+    "substitutionGroup": "back-row-free",
+    "evidenceNote": ""
+  },
+  {
+    "id": "barbell-shrug",
+    "name": "Barbell Shrug",
+    "equipment": "barbell",
+    "primaryMuscles": [
+      "upper back"
+    ],
+    "secondaryMuscles": [
+      "forearms"
+    ],
+    "movementPattern": "isolation-scapular-elevation",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Shoulders relaxed and pulled down by the bar: upper traps are at their longest.",
+    "stability": "high",
+    "substitutionGroup": "upper-back-shrug",
+    "evidenceNote": ""
+  },
+  {
+    "id": "dumbbell-shrug",
+    "name": "Dumbbell Shrug",
+    "equipment": "dumbbell",
+    "primaryMuscles": [
+      "upper back"
+    ],
+    "secondaryMuscles": [
+      "forearms"
+    ],
+    "movementPattern": "isolation-scapular-elevation",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Shoulders relaxed and pulled down by the dumbbells: upper traps are at their longest.",
+    "stability": "high",
+    "substitutionGroup": "upper-back-shrug",
+    "evidenceNote": ""
+  },
+  {
+    "id": "barbell-curl",
+    "name": "Standing Barbell Curl",
+    "equipment": "barbell",
+    "primaryMuscles": [
+      "biceps"
+    ],
+    "secondaryMuscles": [
+      "forearms"
+    ],
+    "movementPattern": "isolation-elbow-flexion",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Arms straight by the sides at the bottom: biceps are at their longest in this movement.",
+    "stability": "low",
+    "substitutionGroup": "biceps-curl-mid",
+    "evidenceNote": ""
+  },
+  {
+    "id": "ez-bar-curl",
+    "name": "Standing EZ-Bar Curl",
+    "equipment": "barbell",
+    "primaryMuscles": [
+      "biceps"
+    ],
+    "secondaryMuscles": [
+      "forearms"
+    ],
+    "movementPattern": "isolation-elbow-flexion",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Arms straight by the sides at the bottom: biceps are at their longest in this movement.",
+    "stability": "low",
+    "substitutionGroup": "biceps-curl-mid",
+    "evidenceNote": ""
+  },
+  {
+    "id": "dumbbell-curl",
+    "name": "Standing Dumbbell Curl",
+    "equipment": "dumbbell",
+    "primaryMuscles": [
+      "biceps"
+    ],
+    "secondaryMuscles": [
+      "forearms"
+    ],
+    "movementPattern": "isolation-elbow-flexion",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Arms straight by the sides at the bottom: biceps are at their longest in this movement.",
+    "stability": "low",
+    "substitutionGroup": "biceps-curl-mid",
+    "evidenceNote": ""
+  },
+  {
+    "id": "hammer-curl",
+    "name": "Dumbbell Hammer Curl",
+    "equipment": "dumbbell",
+    "primaryMuscles": [
+      "biceps"
+    ],
+    "secondaryMuscles": [
+      "forearms"
+    ],
+    "movementPattern": "isolation-elbow-flexion",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Arms straight by the sides at the bottom: elbow flexors are at their longest in this movement.",
+    "stability": "low",
+    "substitutionGroup": "biceps-curl-mid",
+    "evidenceNote": ""
+  },
+  {
+    "id": "cable-curl",
+    "name": "Standing Cable Curl (low pulley, in front)",
+    "equipment": "cable",
+    "primaryMuscles": [
+      "biceps"
+    ],
+    "secondaryMuscles": [
+      "forearms"
+    ],
+    "movementPattern": "isolation-elbow-flexion",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Arms straight by the sides at the bottom: biceps are at their longest in this movement.",
+    "stability": "high",
+    "substitutionGroup": "biceps-curl-mid",
+    "evidenceNote": ""
+  },
+  {
+    "id": "incline-dumbbell-curl",
+    "name": "Incline Dumbbell Curl (bench ~45°, arms hanging behind)",
+    "equipment": "dumbbell",
+    "primaryMuscles": [
+      "biceps"
+    ],
+    "secondaryMuscles": [
+      "forearms"
+    ],
+    "movementPattern": "isolation-elbow-flexion",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Arms straight and hanging behind the body: biceps are stretched more than in a standing curl because the shoulder is extended.",
+    "stability": "high",
+    "substitutionGroup": "biceps-curl-shoulder-extended",
+    "evidenceNote": "In a 12-week MRI trial in untrained adults (n=21, one arm each way), incline dumbbell curls grew the biceps slightly more than preacher curls (+22.1% vs +18.9%) but the brachialis and brachioradialis less, so total elbow-flexor growth was similar (+17.6% vs +19.2%). (Kobayashi et al. 2026, PMID 42829982)"
+  },
+  {
+    "id": "bayesian-cable-curl",
+    "name": "Bayesian Cable Curl (facing away, pulley low behind)",
+    "equipment": "cable",
+    "primaryMuscles": [
+      "biceps"
+    ],
+    "secondaryMuscles": [
+      "forearms"
+    ],
+    "movementPattern": "isolation-elbow-flexion",
+    "resistanceProfile": "stretch",
+    "lengthenedPosition": "Arm straight and pulled behind the body by the cable: biceps are stretched with the shoulder extended, and the cable is hardest near this position.",
+    "stability": "high",
+    "substitutionGroup": "biceps-curl-shoulder-extended",
+    "evidenceNote": "In a small 10-week trial in young men with no resistance training in the previous 6 months (n=15, one arm each way), Bayesian cable curls (shoulder about 50° extended) and preacher cable curls (shoulder about 50° flexed), set up with matched resistance profiles, showed no significant difference in biceps or brachialis growth (biceps about 9% vs 6–7% thicker); a trial this small can't rule out a modest difference. (Attarieh et al. 2025, PMID 40082069)"
+  },
+  {
+    "id": "dumbbell-preacher-curl",
+    "name": "Dumbbell Preacher Curl (seated, pad ~45°)",
+    "equipment": "dumbbell",
+    "primaryMuscles": [
+      "biceps"
+    ],
+    "secondaryMuscles": [
+      "forearms"
+    ],
+    "movementPattern": "isolation-elbow-flexion",
+    "resistanceProfile": "stretch",
+    "lengthenedPosition": "Elbow almost straight at the bottom of the pad: elbow flexors are at their longest and the dumbbell is hardest near here.",
+    "stability": "high",
+    "substitutionGroup": "biceps-curl-preacher",
+    "evidenceNote": "In a 12-week MRI trial in untrained adults (n=21, one arm each way), preacher dumbbell curls grew the brachialis and brachioradialis slightly more than incline curls but the biceps slightly less, so total elbow-flexor growth was similar (+19.2% vs +17.6%). (Kobayashi et al. 2026, PMID 42829982)"
+  },
+  {
+    "id": "ez-bar-preacher-curl",
+    "name": "EZ-Bar Preacher Curl (pad ~45°)",
+    "equipment": "barbell",
+    "primaryMuscles": [
+      "biceps"
+    ],
+    "secondaryMuscles": [
+      "forearms"
+    ],
+    "movementPattern": "isolation-elbow-flexion",
+    "resistanceProfile": "stretch",
+    "lengthenedPosition": "Elbows almost straight at the bottom of the pad: elbow flexors are at their longest and the bar is hardest near here.",
+    "stability": "high",
+    "substitutionGroup": "biceps-curl-preacher",
+    "evidenceNote": ""
+  },
+  {
+    "id": "machine-preacher-curl",
+    "name": "Machine Preacher Curl",
+    "equipment": "machine",
+    "primaryMuscles": [
+      "biceps"
+    ],
+    "secondaryMuscles": [
+      "forearms"
+    ],
+    "movementPattern": "isolation-elbow-flexion",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Elbows almost straight at the start: elbow flexors are at their longest. Profile depends on the machine's cam.",
+    "stability": "high",
+    "substitutionGroup": "biceps-curl-preacher",
+    "evidenceNote": ""
+  },
+  {
+    "id": "cable-preacher-curl",
+    "name": "Cable Preacher Curl (pulley low in front of the pad)",
+    "equipment": "cable",
+    "primaryMuscles": [
+      "biceps"
+    ],
+    "secondaryMuscles": [
+      "forearms"
+    ],
+    "movementPattern": "isolation-elbow-flexion",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Elbow almost straight on the pad: elbow flexors are at their longest.",
+    "stability": "high",
+    "substitutionGroup": "biceps-curl-preacher",
+    "evidenceNote": "In a small 10-week trial in young men with no resistance training in the previous 6 months (n=15, one arm each way), preacher cable curls (shoulder about 50° flexed) and Bayesian cable curls (shoulder about 50° extended), set up with matched resistance profiles, showed no significant difference in biceps or brachialis growth (brachialis about 10% vs 8% thicker); a trial this small can't rule out a modest difference. (Attarieh et al. 2025, PMID 40082069)"
+  },
+  {
+    "id": "triceps-pushdown",
+    "name": "Cable Triceps Pushdown (rope or bar, high pulley)",
+    "equipment": "cable",
+    "primaryMuscles": [
+      "triceps"
+    ],
+    "secondaryMuscles": [],
+    "movementPattern": "isolation-elbow-extension",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Elbows fully bent with upper arms at the sides: triceps are at their longest in this movement (the long head is not fully stretched with the arms down).",
+    "stability": "high",
+    "substitutionGroup": "triceps-arms-down",
+    "evidenceNote": "In a 12-week trial in untrained young adults (n=21, one arm each way), one-arm cable elbow extensions with the upper arm at the side (a pushdown-style position) grew the whole triceps less than overhead cable extensions (+13.9% vs +19.9% volume); overhead work loads the long head at a longer length. (Maeo et al. 2023, PMID 35819335)"
+  },
+  {
+    "id": "dumbbell-kickback",
+    "name": "Dumbbell Triceps Kickback",
+    "equipment": "dumbbell",
+    "primaryMuscles": [
+      "triceps"
+    ],
+    "secondaryMuscles": [],
+    "movementPattern": "isolation-elbow-extension",
+    "resistanceProfile": "shortened",
+    "lengthenedPosition": "Elbow bent with upper arm held back along the torso: triceps are at their longest in this movement; hardest at lockout.",
+    "stability": "low",
+    "substitutionGroup": "triceps-arms-down",
+    "evidenceNote": ""
+  },
+  {
+    "id": "close-grip-bench-press",
+    "name": "Close-Grip Bench Press",
+    "equipment": "barbell",
+    "primaryMuscles": [
+      "triceps"
+    ],
+    "secondaryMuscles": [
+      "chest",
+      "front delts"
+    ],
+    "movementPattern": "horizontal push",
+    "resistanceProfile": "stretch",
+    "lengthenedPosition": "Bar at the lower chest with elbows bent: triceps and chest are at their longest in this movement.",
+    "stability": "high",
+    "substitutionGroup": "triceps-press",
+    "evidenceNote": ""
+  },
+  {
+    "id": "triceps-dip",
+    "name": "Triceps Dip (upright torso, parallel bars)",
+    "equipment": "bodyweight",
+    "primaryMuscles": [
+      "triceps"
+    ],
+    "secondaryMuscles": [
+      "chest",
+      "front delts"
+    ],
+    "movementPattern": "vertical push",
+    "resistanceProfile": "stretch",
+    "lengthenedPosition": "Bottom of the dip with elbows deeply bent: triceps are at their longest in this movement.",
+    "stability": "low",
+    "substitutionGroup": "triceps-dip",
+    "evidenceNote": ""
+  },
+  {
+    "id": "machine-dip",
+    "name": "Seated Machine Dip",
+    "equipment": "machine",
+    "primaryMuscles": [
+      "triceps"
+    ],
+    "secondaryMuscles": [
+      "chest",
+      "front delts"
+    ],
+    "movementPattern": "vertical push",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Handles high with elbows deeply bent: triceps are at their longest in this movement. Where it is hardest depends on the machine.",
+    "stability": "high",
+    "substitutionGroup": "triceps-dip",
+    "evidenceNote": ""
+  },
+  {
+    "id": "diamond-push-up",
+    "name": "Diamond (Close-Hand) Push-Up",
+    "equipment": "bodyweight",
+    "primaryMuscles": [
+      "triceps"
+    ],
+    "secondaryMuscles": [
+      "chest",
+      "front delts"
+    ],
+    "movementPattern": "horizontal push",
+    "resistanceProfile": "stretch",
+    "lengthenedPosition": "Chest near the hands with elbows bent: triceps are at their longest in this movement.",
+    "stability": "low",
+    "substitutionGroup": "triceps-press",
+    "evidenceNote": ""
+  },
+  {
+    "id": "overhead-cable-triceps-extension",
+    "name": "Overhead Cable Triceps Extension (facing away, rope)",
+    "equipment": "cable",
+    "primaryMuscles": [
+      "triceps"
+    ],
+    "secondaryMuscles": [],
+    "movementPattern": "isolation-elbow-extension",
+    "resistanceProfile": "stretch",
+    "lengthenedPosition": "Elbows fully bent with arms overhead: triceps (especially the long head) are at their longest, and the cable is hardest near here.",
+    "stability": "high",
+    "substitutionGroup": "triceps-overhead",
+    "evidenceNote": "In a 12-week trial in untrained young adults (n=21, one arm each way), overhead cable elbow extensions, which stretch the long head more, grew the whole triceps about 1.4 times more than arms-at-side cable extensions (+19.9% vs +13.9%), despite lighter loads. (Maeo et al. 2023, PMID 35819335)"
+  },
+  {
+    "id": "overhead-dumbbell-triceps-extension",
+    "name": "Seated Overhead Dumbbell Triceps Extension (two hands)",
+    "equipment": "dumbbell",
+    "primaryMuscles": [
+      "triceps"
+    ],
+    "secondaryMuscles": [],
+    "movementPattern": "isolation-elbow-extension",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Dumbbell lowered behind the head with arms overhead: triceps (especially the long head) are at their longest.",
+    "stability": "high",
+    "substitutionGroup": "triceps-overhead",
+    "evidenceNote": ""
+  },
+  {
+    "id": "ez-bar-skull-crusher",
+    "name": "Lying EZ-Bar Skull Crusher (bar to forehead)",
+    "equipment": "barbell",
+    "primaryMuscles": [
+      "triceps"
+    ],
+    "secondaryMuscles": [],
+    "movementPattern": "isolation-elbow-extension",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Bar lowered toward the forehead with elbows fully bent: triceps are at their longest in this movement; angling the upper arms back toward the head lengthens the long head more.",
+    "stability": "high",
+    "substitutionGroup": "triceps-lying-extension",
+    "evidenceNote": ""
+  },
+  {
+    "id": "lying-dumbbell-triceps-extension",
+    "name": "Lying Dumbbell Triceps Extension (neutral grip, upper arms vertical)",
+    "equipment": "dumbbell",
+    "primaryMuscles": [
+      "triceps"
+    ],
+    "secondaryMuscles": [],
+    "movementPattern": "isolation-elbow-extension",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Dumbbells lowered beside the head with elbows fully bent: triceps are at their longest in this movement; the long head is less stretched than with the arms fully overhead.",
+    "stability": "high",
+    "substitutionGroup": "triceps-lying-extension",
+    "evidenceNote": ""
+  },
+  {
+    "id": "dumbbell-wrist-curl",
+    "name": "Dumbbell Wrist Curl (forearm on bench)",
+    "equipment": "dumbbell",
+    "primaryMuscles": [
+      "forearms"
+    ],
+    "secondaryMuscles": [],
+    "movementPattern": "isolation-wrist",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Wrist bent back with the dumbbell rolled toward the fingers: wrist flexors are at their longest.",
+    "stability": "high",
+    "substitutionGroup": "forearm-wrist-curl",
+    "evidenceNote": ""
+  },
+  {
+    "id": "barbell-wrist-curl",
+    "name": "Barbell Wrist Curl (forearms on bench)",
+    "equipment": "barbell",
+    "primaryMuscles": [
+      "forearms"
+    ],
+    "secondaryMuscles": [],
+    "movementPattern": "isolation-wrist",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Wrists bent back at the bottom: wrist flexors are at their longest.",
+    "stability": "high",
+    "substitutionGroup": "forearm-wrist-curl",
+    "evidenceNote": ""
+  },
+  {
+    "id": "reverse-ez-bar-curl",
+    "name": "Reverse-Grip (Overhand) EZ-Bar Curl",
+    "equipment": "barbell",
+    "primaryMuscles": [
+      "forearms",
+      "biceps"
+    ],
+    "secondaryMuscles": [],
+    "movementPattern": "isolation-elbow-flexion",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Arms straight by the sides: elbow flexors, including the brachioradialis in the forearm, are at their longest.",
+    "stability": "low",
+    "substitutionGroup": "forearm-reverse-curl",
+    "evidenceNote": ""
+  },
+  {
+    "id": "reverse-cable-curl",
+    "name": "Reverse-Grip Cable Curl (low pulley)",
+    "equipment": "cable",
+    "primaryMuscles": [
+      "forearms",
+      "biceps"
+    ],
+    "secondaryMuscles": [],
+    "movementPattern": "isolation-elbow-flexion",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Arms straight by the sides: elbow flexors, including the brachioradialis in the forearm, are at their longest.",
+    "stability": "high",
+    "substitutionGroup": "forearm-reverse-curl",
+    "evidenceNote": ""
+  },
+  {
+    "id": "barbell-back-squat",
+    "name": "Barbell Back Squat",
+    "equipment": "barbell",
+    "primaryMuscles": [
+      "quads"
+    ],
+    "secondaryMuscles": [
+      "glutes"
+    ],
+    "movementPattern": "squat",
+    "resistanceProfile": "stretch",
+    "lengthenedPosition": "Bottom of a deep squat with hips and knees fully bent: quads and glutes are at their longest (the rectus femoris part of the quads is not, because the hip is bent).",
+    "stability": "low",
+    "substitutionGroup": "quads-squat",
+    "evidenceNote": "In a 10-week trial in untrained young men (n=17), full-depth barbell back squats (about 140° knee bend) grew the glutes and adductors more than half squats (about 90°); knee-extensor volume grew similarly (+4.9% vs +4.6%), and the rectus femoris and hamstrings did not grow with either depth. (Kubo et al. 2019, PMID 31230110)"
+  },
+  {
+    "id": "front-squat",
+    "name": "Barbell Front Squat",
+    "equipment": "barbell",
+    "primaryMuscles": [
+      "quads"
+    ],
+    "secondaryMuscles": [
+      "glutes"
+    ],
+    "movementPattern": "squat",
+    "resistanceProfile": "stretch",
+    "lengthenedPosition": "Bottom of a deep squat with hips and knees fully bent: quads and glutes are at their longest (the rectus femoris part of the quads is not, because the hip is bent).",
+    "stability": "low",
+    "substitutionGroup": "quads-squat",
+    "evidenceNote": ""
+  },
+  {
+    "id": "smith-machine-squat",
+    "name": "Smith Machine Squat",
+    "equipment": "machine",
+    "primaryMuscles": [
+      "quads"
+    ],
+    "secondaryMuscles": [
+      "glutes"
+    ],
+    "movementPattern": "squat",
+    "resistanceProfile": "stretch",
+    "lengthenedPosition": "Bottom of a deep squat with hips and knees fully bent: quads and glutes are at their longest (the rectus femoris part of the quads is not, because the hip is bent).",
+    "stability": "high",
+    "substitutionGroup": "quads-squat-machine",
+    "evidenceNote": "In an 8-week trial in untrained women (n=63), Smith machine squats increased distal vastus lateralis thickness more than leg extensions did (+18.2% vs +11.2%) but increased rectus femoris thickness less, so adding a knee-extension exercise may help the rectus femoris. (Kassiano et al. 2026, PMID 41379528)"
+  },
+  {
+    "id": "hack-squat",
+    "name": "Machine Hack Squat",
+    "equipment": "machine",
+    "primaryMuscles": [
+      "quads"
+    ],
+    "secondaryMuscles": [
+      "glutes"
+    ],
+    "movementPattern": "squat",
+    "resistanceProfile": "stretch",
+    "lengthenedPosition": "Bottom of a deep squat with hips and knees fully bent: quads and glutes are at their longest (the rectus femoris part of the quads is not, because the hip is bent).",
+    "stability": "high",
+    "substitutionGroup": "quads-squat-machine",
+    "evidenceNote": ""
+  },
+  {
+    "id": "leg-press",
+    "name": "45° Leg Press",
+    "equipment": "machine",
+    "primaryMuscles": [
+      "quads"
+    ],
+    "secondaryMuscles": [
+      "glutes"
+    ],
+    "movementPattern": "squat",
+    "resistanceProfile": "stretch",
+    "lengthenedPosition": "Sled lowered with knees deeply bent toward the chest: quads and glutes are at their longest.",
+    "stability": "high",
+    "substitutionGroup": "quads-squat-machine",
+    "evidenceNote": "In an 8-week trial in resistance-trained adults (n=23, one leg each way), one-leg presses to about 100° of knee bend and to full depth (about 154°) grew the quads similarly. (Larsen et al. 2025, PMID 40113586)"
+  },
+  {
+    "id": "belt-squat",
+    "name": "Belt Squat Machine",
+    "equipment": "machine",
+    "primaryMuscles": [
+      "quads"
+    ],
+    "secondaryMuscles": [
+      "glutes"
+    ],
+    "movementPattern": "squat",
+    "resistanceProfile": "stretch",
+    "lengthenedPosition": "Bottom of a deep squat with hips and knees fully bent: quads and glutes are at their longest (the rectus femoris part of the quads is not, because the hip is bent).",
+    "stability": "high",
+    "substitutionGroup": "quads-squat-machine",
+    "evidenceNote": ""
+  },
+  {
+    "id": "goblet-squat",
+    "name": "Dumbbell Goblet Squat",
+    "equipment": "dumbbell",
+    "primaryMuscles": [
+      "quads"
+    ],
+    "secondaryMuscles": [
+      "glutes"
+    ],
+    "movementPattern": "squat",
+    "resistanceProfile": "stretch",
+    "lengthenedPosition": "Bottom of a deep squat with hips and knees fully bent: quads and glutes are at their longest (the rectus femoris part of the quads is not, because the hip is bent).",
+    "stability": "low",
+    "substitutionGroup": "quads-squat",
+    "evidenceNote": ""
+  },
+  {
+    "id": "bodyweight-squat",
+    "name": "Bodyweight Squat",
+    "equipment": "bodyweight",
+    "primaryMuscles": [
+      "quads"
+    ],
+    "secondaryMuscles": [
+      "glutes"
+    ],
+    "movementPattern": "squat",
+    "resistanceProfile": "stretch",
+    "lengthenedPosition": "Bottom of a deep squat with hips and knees fully bent: quads and glutes are at their longest (the rectus femoris part of the quads is not, because the hip is bent).",
+    "stability": "low",
+    "substitutionGroup": "quads-squat",
+    "evidenceNote": ""
+  },
+  {
+    "id": "leg-extension",
+    "name": "Leg Extension Machine (seated)",
+    "equipment": "machine",
+    "primaryMuscles": [
+      "quads"
+    ],
+    "secondaryMuscles": [],
+    "movementPattern": "isolation-knee-extension",
+    "resistanceProfile": "shortened",
+    "lengthenedPosition": "Knees fully bent at the start: quads are at their longest in this movement (sitting with the hip bent keeps the rectus femoris from being fully stretched). On most machines it is hardest near full knee extension.",
+    "stability": "high",
+    "substitutionGroup": "quads-knee-extension",
+    "evidenceNote": "In an 8-week trial in untrained women (n=63), leg extensions grew the rectus femoris more than Smith machine squats (e.g. proximal +11.4% vs +2.0%), while squats grew the distal vastus lateralis more. (Kassiano et al. 2026, PMID 41379528)"
+  },
+  {
+    "id": "sissy-squat",
+    "name": "Sissy Squat (bodyweight, holding a support)",
+    "equipment": "bodyweight",
+    "primaryMuscles": [
+      "quads"
+    ],
+    "secondaryMuscles": [],
+    "movementPattern": "isolation-knee-extension",
+    "resistanceProfile": "stretch",
+    "lengthenedPosition": "Knees far forward and fully bent with hips straight and the torso leaning back: quads, including the rectus femoris, are at their longest.",
+    "stability": "low",
+    "substitutionGroup": "quads-knee-extension-bodyweight",
+    "evidenceNote": ""
+  },
+  {
+    "id": "reverse-nordic",
+    "name": "Reverse Nordic (kneeling)",
+    "equipment": "bodyweight",
+    "primaryMuscles": [
+      "quads"
+    ],
+    "secondaryMuscles": [],
+    "movementPattern": "isolation-knee-extension",
+    "resistanceProfile": "stretch",
+    "lengthenedPosition": "Leaning back from the kneeling position with hips straight: quads, including the rectus femoris, are at their longest.",
+    "stability": "low",
+    "substitutionGroup": "quads-knee-extension-bodyweight",
+    "evidenceNote": ""
+  },
+  {
+    "id": "bulgarian-split-squat",
+    "name": "Dumbbell Bulgarian Split Squat (rear foot elevated)",
+    "equipment": "dumbbell",
+    "primaryMuscles": [
+      "quads",
+      "glutes"
+    ],
+    "secondaryMuscles": [],
+    "movementPattern": "lunge",
+    "resistanceProfile": "stretch",
+    "lengthenedPosition": "Bottom of the lunge: front-leg quads and glutes are at their longest.",
+    "stability": "low",
+    "substitutionGroup": "quads-glutes-lunge",
+    "evidenceNote": ""
+  },
+  {
+    "id": "dumbbell-walking-lunge",
+    "name": "Dumbbell Walking Lunge",
+    "equipment": "dumbbell",
+    "primaryMuscles": [
+      "quads",
+      "glutes"
+    ],
+    "secondaryMuscles": [],
+    "movementPattern": "lunge",
+    "resistanceProfile": "stretch",
+    "lengthenedPosition": "Bottom of the lunge: front-leg quads and glutes are at their longest.",
+    "stability": "low",
+    "substitutionGroup": "quads-glutes-lunge",
+    "evidenceNote": ""
+  },
+  {
+    "id": "dumbbell-reverse-lunge",
+    "name": "Dumbbell Reverse Lunge",
+    "equipment": "dumbbell",
+    "primaryMuscles": [
+      "quads",
+      "glutes"
+    ],
+    "secondaryMuscles": [],
+    "movementPattern": "lunge",
+    "resistanceProfile": "stretch",
+    "lengthenedPosition": "Bottom of the lunge: front-leg quads and glutes are at their longest.",
+    "stability": "low",
+    "substitutionGroup": "quads-glutes-lunge",
+    "evidenceNote": ""
+  },
+  {
+    "id": "barbell-split-squat",
+    "name": "Barbell Split Squat",
+    "equipment": "barbell",
+    "primaryMuscles": [
+      "quads",
+      "glutes"
+    ],
+    "secondaryMuscles": [],
+    "movementPattern": "lunge",
+    "resistanceProfile": "stretch",
+    "lengthenedPosition": "Bottom of the lunge: front-leg quads and glutes are at their longest.",
+    "stability": "low",
+    "substitutionGroup": "quads-glutes-lunge",
+    "evidenceNote": ""
+  },
+  {
+    "id": "dumbbell-step-up",
+    "name": "Dumbbell Step-Up (knee-height box)",
+    "equipment": "dumbbell",
+    "primaryMuscles": [
+      "quads",
+      "glutes"
+    ],
+    "secondaryMuscles": [],
+    "movementPattern": "lunge",
+    "resistanceProfile": "stretch",
+    "lengthenedPosition": "Foot on the box with the knee and hip deeply bent at the start: quads and glutes are at their longest.",
+    "stability": "low",
+    "substitutionGroup": "quads-glutes-lunge",
+    "evidenceNote": ""
+  },
+  {
+    "id": "barbell-romanian-deadlift",
+    "name": "Barbell Romanian Deadlift",
+    "equipment": "barbell",
+    "primaryMuscles": [
+      "hamstrings",
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "upper back",
+      "forearms"
+    ],
+    "movementPattern": "hinge",
+    "resistanceProfile": "stretch",
+    "lengthenedPosition": "Bottom of the hinge with hips pushed back and knees soft: hamstrings and glutes are at their longest.",
+    "stability": "low",
+    "substitutionGroup": "hamstrings-hinge",
+    "evidenceNote": ""
+  },
+  {
+    "id": "dumbbell-romanian-deadlift",
+    "name": "Dumbbell Romanian Deadlift",
+    "equipment": "dumbbell",
+    "primaryMuscles": [
+      "hamstrings",
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "forearms"
+    ],
+    "movementPattern": "hinge",
+    "resistanceProfile": "stretch",
+    "lengthenedPosition": "Bottom of the hinge with hips pushed back and knees soft: hamstrings and glutes are at their longest.",
+    "stability": "low",
+    "substitutionGroup": "hamstrings-hinge",
+    "evidenceNote": ""
+  },
+  {
+    "id": "stiff-leg-deadlift",
+    "name": "Barbell Stiff-Leg Deadlift",
+    "equipment": "barbell",
+    "primaryMuscles": [
+      "hamstrings",
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "upper back",
+      "forearms"
+    ],
+    "movementPattern": "hinge",
+    "resistanceProfile": "stretch",
+    "lengthenedPosition": "Bottom of the hinge with knees nearly straight: hamstrings are at their longest.",
+    "stability": "low",
+    "substitutionGroup": "hamstrings-hinge",
+    "evidenceNote": ""
+  },
+  {
+    "id": "single-leg-romanian-deadlift",
+    "name": "Dumbbell Single-Leg Romanian Deadlift",
+    "equipment": "dumbbell",
+    "primaryMuscles": [
+      "hamstrings",
+      "glutes"
+    ],
+    "secondaryMuscles": [],
+    "movementPattern": "hinge",
+    "resistanceProfile": "stretch",
+    "lengthenedPosition": "Bottom of the hinge: standing-leg hamstring and glute are at their longest.",
+    "stability": "low",
+    "substitutionGroup": "hamstrings-hinge",
+    "evidenceNote": ""
+  },
+  {
+    "id": "conventional-deadlift",
+    "name": "Barbell Conventional Deadlift",
+    "equipment": "barbell",
+    "primaryMuscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "secondaryMuscles": [
+      "quads",
+      "upper back",
+      "forearms"
+    ],
+    "movementPattern": "hinge",
+    "resistanceProfile": "stretch",
+    "lengthenedPosition": "Bar on the floor with hips and knees bent: glutes are at their longest in this movement (hamstrings less so, because the knees are bent).",
+    "stability": "low",
+    "substitutionGroup": "glutes-deadlift",
+    "evidenceNote": ""
+  },
+  {
+    "id": "trap-bar-deadlift",
+    "name": "Trap-Bar Deadlift",
+    "equipment": "barbell",
+    "primaryMuscles": [
+      "glutes",
+      "quads"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "upper back",
+      "forearms"
+    ],
+    "movementPattern": "hinge",
+    "resistanceProfile": "stretch",
+    "lengthenedPosition": "Handles at the bottom with hips and knees bent: glutes and quads are at their longest in this movement.",
+    "stability": "low",
+    "substitutionGroup": "glutes-deadlift",
+    "evidenceNote": ""
+  },
+  {
+    "id": "back-extension-45",
+    "name": "45° Back Extension (hip hinge)",
+    "equipment": "bodyweight",
+    "primaryMuscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "secondaryMuscles": [],
+    "movementPattern": "hinge",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Torso lowered toward the floor with hips bent: glutes and hamstrings are at their longest.",
+    "stability": "high",
+    "substitutionGroup": "glutes-hamstrings-back-extension",
+    "evidenceNote": ""
+  },
+  {
+    "id": "reverse-hyperextension",
+    "name": "Reverse Hyperextension Machine",
+    "equipment": "machine",
+    "primaryMuscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "secondaryMuscles": [],
+    "movementPattern": "hinge",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Legs hanging down with hips bent: glutes and hamstrings are at their longest.",
+    "stability": "high",
+    "substitutionGroup": "glutes-hamstrings-back-extension",
+    "evidenceNote": ""
+  },
+  {
+    "id": "seated-leg-curl",
+    "name": "Seated Leg Curl Machine",
+    "equipment": "machine",
+    "primaryMuscles": [
+      "hamstrings"
+    ],
+    "secondaryMuscles": [],
+    "movementPattern": "isolation-knee-flexion",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Knees straight with hips bent by the seat: hamstrings are at their longest, more than in a lying leg curl. Where it is hardest depends on the machine's cam.",
+    "stability": "high",
+    "substitutionGroup": "hamstrings-leg-curl",
+    "evidenceNote": "In a 12-week trial in untrained young adults (n=20, one leg each way), seated leg curls, which load the hamstrings at a longer length because the hips are bent, grew the whole hamstrings more than lying leg curls (+14% vs +9% volume). (Maeo et al. 2021, PMID 33009197)"
+  },
+  {
+    "id": "lying-leg-curl",
+    "name": "Lying (Prone) Leg Curl Machine",
+    "equipment": "machine",
+    "primaryMuscles": [
+      "hamstrings"
+    ],
+    "secondaryMuscles": [],
+    "movementPattern": "isolation-knee-flexion",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Knees straight at the start: hamstrings are at their longest in this movement, but less than in a seated leg curl because the hips are straight. Where it is hardest depends on the machine's cam.",
+    "stability": "high",
+    "substitutionGroup": "hamstrings-leg-curl",
+    "evidenceNote": "In a 12-week trial in untrained young adults (n=20, one leg each way), lying leg curls grew the hamstrings less than seated leg curls (+9% vs +14% volume); the seated version trains them at a longer length. (Maeo et al. 2021, PMID 33009197)"
+  },
+  {
+    "id": "nordic-hamstring-curl",
+    "name": "Nordic Hamstring Curl",
+    "equipment": "bodyweight",
+    "primaryMuscles": [
+      "hamstrings"
+    ],
+    "secondaryMuscles": [],
+    "movementPattern": "isolation-knee-flexion",
+    "resistanceProfile": "stretch",
+    "lengthenedPosition": "Body lowered toward the floor with knees nearly straight: hamstrings are at their longest and the lever is longest here.",
+    "stability": "low",
+    "substitutionGroup": "hamstrings-leg-curl-bodyweight",
+    "evidenceNote": ""
+  },
+  {
+    "id": "slider-leg-curl",
+    "name": "Slider/Ball Leg Curl (hips up)",
+    "equipment": "bodyweight",
+    "primaryMuscles": [
+      "hamstrings"
+    ],
+    "secondaryMuscles": [
+      "glutes"
+    ],
+    "movementPattern": "isolation-knee-flexion",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Legs straight out with hips lifted: hamstrings are at their longest in this movement.",
+    "stability": "low",
+    "substitutionGroup": "hamstrings-leg-curl-bodyweight",
+    "evidenceNote": ""
+  },
+  {
+    "id": "barbell-hip-thrust",
+    "name": "Barbell Hip Thrust (upper back on bench)",
+    "equipment": "barbell",
+    "primaryMuscles": [
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "quads"
+    ],
+    "movementPattern": "hip-extension",
+    "resistanceProfile": "shortened",
+    "lengthenedPosition": "Hips lowered toward the floor: glutes are at their longest in this movement; it is hardest at the top with the hips fully extended.",
+    "stability": "high",
+    "substitutionGroup": "glutes-hip-thrust",
+    "evidenceNote": "In a 9-week MRI trial in untrained young men and women (n=34; 18 hip thrust, 16 squat), barbell hip thrusts (done on a stand-alone hip-thrust bench) grew the glutes about as much as barbell back squats with the same number of sets, while the squats grew the quads and adductors more. (Plotkin et al. 2023, PMID 37877099)"
+  },
+  {
+    "id": "machine-hip-thrust",
+    "name": "Hip Thrust Machine",
+    "equipment": "machine",
+    "primaryMuscles": [
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "quads"
+    ],
+    "movementPattern": "hip-extension",
+    "resistanceProfile": "shortened",
+    "lengthenedPosition": "Hips lowered at the bottom: glutes are at their longest in this movement; hardest near full hip extension on most machines.",
+    "stability": "high",
+    "substitutionGroup": "glutes-hip-thrust",
+    "evidenceNote": ""
+  },
+  {
+    "id": "single-leg-hip-thrust",
+    "name": "Single-Leg Hip Thrust (bodyweight)",
+    "equipment": "bodyweight",
+    "primaryMuscles": [
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "hamstrings"
+    ],
+    "movementPattern": "hip-extension",
+    "resistanceProfile": "shortened",
+    "lengthenedPosition": "Hips lowered toward the floor: working-side glute is at its longest in this movement; hardest at the top.",
+    "stability": "low",
+    "substitutionGroup": "glutes-hip-thrust",
+    "evidenceNote": ""
+  },
+  {
+    "id": "hip-abduction-machine",
+    "name": "Seated Hip Abduction Machine",
+    "equipment": "machine",
+    "primaryMuscles": [
+      "glutes"
+    ],
+    "secondaryMuscles": [],
+    "movementPattern": "isolation-hip-abduction",
+    "resistanceProfile": "shortened",
+    "lengthenedPosition": "Knees together at the start: the side glutes (gluteus medius and minimus) are at their longest.",
+    "stability": "high",
+    "substitutionGroup": "glutes-hip-abduction",
+    "evidenceNote": ""
+  },
+  {
+    "id": "cable-hip-abduction",
+    "name": "Standing Cable Hip Abduction (ankle strap)",
+    "equipment": "cable",
+    "primaryMuscles": [
+      "glutes"
+    ],
+    "secondaryMuscles": [],
+    "movementPattern": "isolation-hip-abduction",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Working leg crossed slightly in front of the standing leg: side glutes are at their longest.",
+    "stability": "high",
+    "substitutionGroup": "glutes-hip-abduction",
+    "evidenceNote": ""
+  },
+  {
+    "id": "standing-calf-raise-machine",
+    "name": "Standing Calf Raise Machine",
+    "equipment": "machine",
+    "primaryMuscles": [
+      "calves"
+    ],
+    "secondaryMuscles": [],
+    "movementPattern": "isolation-plantar-flexion",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Heels dropped below the step with knees straight: calves (gastrocnemius and soleus) are at their longest.",
+    "stability": "high",
+    "substitutionGroup": "calves-straight-knee",
+    "evidenceNote": ""
+  },
+  {
+    "id": "leg-press-calf-raise",
+    "name": "Leg Press Calf Raise",
+    "equipment": "machine",
+    "primaryMuscles": [
+      "calves"
+    ],
+    "secondaryMuscles": [],
+    "movementPattern": "isolation-plantar-flexion",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Toes on the platform edge with heels pushed toward you and knees straight: calves are at their longest.",
+    "stability": "high",
+    "substitutionGroup": "calves-straight-knee",
+    "evidenceNote": "In an 8-week trial in young women (n=42, three groups), calf raises on a horizontal leg-press machine done only in the heel-down (stretched) half of the range grew the medial gastrocnemius more than full-range reps (+15.2% vs +6.7%); lateral gastrocnemius growth did not differ significantly from full range. (Kassiano et al. 2023, PMID 37015016)"
+  },
+  {
+    "id": "smith-machine-calf-raise",
+    "name": "Smith Machine Standing Calf Raise (on a step)",
+    "equipment": "machine",
+    "primaryMuscles": [
+      "calves"
+    ],
+    "secondaryMuscles": [],
+    "movementPattern": "isolation-plantar-flexion",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Heels dropped below the step with knees straight: calves are at their longest.",
+    "stability": "high",
+    "substitutionGroup": "calves-straight-knee",
+    "evidenceNote": ""
+  },
+  {
+    "id": "single-leg-dumbbell-calf-raise",
+    "name": "Single-Leg Dumbbell Calf Raise (on a step)",
+    "equipment": "dumbbell",
+    "primaryMuscles": [
+      "calves"
+    ],
+    "secondaryMuscles": [],
+    "movementPattern": "isolation-plantar-flexion",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Heel dropped below the step with knee straight: calf is at its longest.",
+    "stability": "low",
+    "substitutionGroup": "calves-straight-knee",
+    "evidenceNote": ""
+  },
+  {
+    "id": "seated-calf-raise",
+    "name": "Seated Calf Raise Machine",
+    "equipment": "machine",
+    "primaryMuscles": [
+      "calves"
+    ],
+    "secondaryMuscles": [],
+    "movementPattern": "isolation-plantar-flexion",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Heels dropped below the platform with knees bent: the soleus is at its longest; the gastrocnemius is slack because the knee is bent.",
+    "stability": "high",
+    "substitutionGroup": "calves-bent-knee",
+    "evidenceNote": ""
+  },
+  {
+    "id": "bent-knee-dumbbell-calf-raise",
+    "name": "Bent-Knee Calf Raise (dumbbell on the knee, seated on a bench)",
+    "equipment": "dumbbell",
+    "primaryMuscles": [
+      "calves"
+    ],
+    "secondaryMuscles": [],
+    "movementPattern": "isolation-plantar-flexion",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Heels dropped below a step or plate with knees bent: the soleus is at its longest; the gastrocnemius is slack because the knee is bent.",
+    "stability": "high",
+    "substitutionGroup": "calves-bent-knee",
+    "evidenceNote": ""
+  },
+  {
+    "id": "cable-crunch",
+    "name": "Kneeling Cable Crunch (rope, high pulley)",
+    "equipment": "cable",
+    "primaryMuscles": [
+      "abs"
+    ],
+    "secondaryMuscles": [],
+    "movementPattern": "core-flexion",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Torso upright and slightly extended at the top: abs are at their longest in this movement.",
+    "stability": "high",
+    "substitutionGroup": "abs-crunch",
+    "evidenceNote": ""
+  },
+  {
+    "id": "machine-crunch",
+    "name": "Ab Crunch Machine",
+    "equipment": "machine",
+    "primaryMuscles": [
+      "abs"
+    ],
+    "secondaryMuscles": [],
+    "movementPattern": "core-flexion",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Torso upright at the start: abs are at their longest in this movement. Profile depends on the machine.",
+    "stability": "high",
+    "substitutionGroup": "abs-crunch",
+    "evidenceNote": ""
+  },
+  {
+    "id": "hanging-knee-raise",
+    "name": "Hanging Knee Raise",
+    "equipment": "bodyweight",
+    "primaryMuscles": [
+      "abs"
+    ],
+    "secondaryMuscles": [],
+    "movementPattern": "core-flexion",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Hanging with legs straight down: abs are at their longest in this movement; the abs work hardest when the pelvis curls up at the top.",
+    "stability": "low",
+    "substitutionGroup": "abs-leg-raise",
+    "evidenceNote": ""
+  },
+  {
+    "id": "hanging-leg-raise",
+    "name": "Hanging Straight-Leg Raise",
+    "equipment": "bodyweight",
+    "primaryMuscles": [
+      "abs"
+    ],
+    "secondaryMuscles": [],
+    "movementPattern": "core-flexion",
+    "resistanceProfile": "mid-range",
+    "lengthenedPosition": "Hanging with legs straight down: abs are at their longest in this movement; the abs work hardest when the pelvis curls up at the top.",
+    "stability": "low",
+    "substitutionGroup": "abs-leg-raise",
+    "evidenceNote": ""
+  },
+  {
+    "id": "ab-wheel-rollout",
+    "name": "Ab Wheel Rollout (kneeling)",
+    "equipment": "bodyweight",
+    "primaryMuscles": [
+      "abs"
+    ],
+    "secondaryMuscles": [
+      "lats"
+    ],
+    "movementPattern": "core-anti-extension",
+    "resistanceProfile": "stretch",
+    "lengthenedPosition": "Arms reaching far forward with the body extended: abs are at their longest and the lever is longest here.",
+    "stability": "low",
+    "substitutionGroup": "abs-rollout",
+    "evidenceNote": ""
+  },
+  {
+    "id": "barbell-rollout",
+    "name": "Barbell Rollout (kneeling, plates on the bar)",
+    "equipment": "barbell",
+    "primaryMuscles": [
+      "abs"
+    ],
+    "secondaryMuscles": [
+      "lats"
+    ],
+    "movementPattern": "core-anti-extension",
+    "resistanceProfile": "stretch",
+    "lengthenedPosition": "Arms reaching far forward with the body extended: abs are at their longest and the lever is longest here.",
+    "stability": "low",
+    "substitutionGroup": "abs-rollout",
+    "evidenceNote": ""
+  }
+]

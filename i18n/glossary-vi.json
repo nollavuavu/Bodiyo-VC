@@ -1,0 +1,906 @@
+{
+  "source": "glossary-vi.md (draft 2, 29 Oct 2026: evidence pass + Hoang decisions 19:01/19:04 + approved-terms list 19:15)",
+  "count": 100,
+  "terms": [
+    {
+      "section": "Effort and failure",
+      "english": "RIR (reps in reserve)",
+      "vietnamese": "RIR (số rep còn dư); in sentences: \"còn dư 1–2 rep\"",
+      "keepEnglish": "Keep (abbr.) + gloss",
+      "why": "Abbreviation-first ORDER approved by Hoang (19:04); the gloss \"số rep còn dư\" is still my proposal.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Effort and failure",
+      "english": "RPE",
+      "vietnamese": "RPE (thang nỗ lực)",
+      "keepEnglish": "Keep (abbr.) + gloss",
+      "why": "Hoang's term; only appears in research copy, not the logger.",
+      "unsure": null,
+      "hoangApproved": "Yes (Hoang)"
+    },
+    {
+      "section": "Effort and failure",
+      "english": "reps in reserve (spelled out, column hint)",
+      "vietnamese": "\"số rep còn dư\"",
+      "keepEnglish": "No",
+      "why": "Plain explanation of the abbreviation; same gloss as \"RIR (số rep còn dư)\" (gloss not yet approved).",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Effort and failure",
+      "english": "failure / to failure",
+      "vietnamese": "\"ngưỡng thất bại\"; to failure = \"đến ngưỡng thất bại\" (e.g. \"tập đến ngưỡng thất bại\")",
+      "keepEnglish": "No",
+      "why": "Hoang's term. Where the English uses \"failure\" as shorthand for \"training to failure\", the Vietnamese says \"tập đến ngưỡng thất bại\".",
+      "unsure": null,
+      "hoangApproved": "Yes (Hoang)"
+    },
+    {
+      "section": "Effort and failure",
+      "english": "hard set",
+      "vietnamese": "\"set nỗ lực\" (no plural form: \"3 set nỗ lực\", \"các set nỗ lực\")",
+      "keepEnglish": "No",
+      "why": "Hoang's term. \"Hard = RIR ≤ x\" is written \"Set nỗ lực = RIR {rir} trở xuống\".",
+      "unsure": null,
+      "hoangApproved": "Yes (Hoang)"
+    },
+    {
+      "section": "Effort and failure",
+      "english": "effective reps",
+      "vietnamese": "\"rep hiệu quả\"",
+      "keepEnglish": "Yes",
+      "why": "Literal and already used in VN fitness content.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Effort and failure",
+      "english": "effort",
+      "vietnamese": "\"nỗ lực\" (\"mức nỗ lực\", \"mức nỗ lực cảm nhận\" for perceived exertion)",
+      "keepEnglish": "No",
+      "why": "Hoang's term.",
+      "unsure": null,
+      "hoangApproved": "Yes (Hoang)"
+    },
+    {
+      "section": "Effort and failure",
+      "english": "close to failure / ends hard",
+      "vietnamese": "\"cận ngưỡng thất bại\"; comparatives use \"gần … hơn\" (\"gần ngưỡng thất bại hơn\", \"càng gần ngưỡng thất bại\")",
+      "keepEnglish": "No",
+      "why": "Hoang's term; \"càng cận …\" / \"cận … hơn\" read badly, so comparatives keep \"gần\".",
+      "unsure": null,
+      "hoangApproved": "Yes (Hoang)"
+    },
+    {
+      "section": "Load, reps, sets, progression",
+      "english": "set",
+      "vietnamese": "set",
+      "keepEnglish": "Keep",
+      "why": "Universal in VN gyms (\"3 set 12 rep\"); \"hiệp\" sounds like a textbook or a boxing round.",
+      "unsure": "⚠ Confirm you prefer \"set\" over \"hiệp\" app-wide.",
+      "hoangApproved": null
+    },
+    {
+      "section": "Load, reps, sets, progression",
+      "english": "rep / reps",
+      "vietnamese": "rep",
+      "keepEnglish": "Keep",
+      "why": "Same as set; \"lần lặp\" is only used in formal writing.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Load, reps, sets, progression",
+      "english": "rep range",
+      "vietnamese": "\"khoảng rep\" (e.g. \"khoảng 6–12 rep\")",
+      "keepEnglish": "No",
+      "why": "Short and clear.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Load, reps, sets, progression",
+      "english": "weight / load",
+      "vietnamese": "\"mức tạ\", \"tạ\"",
+      "keepEnglish": "No",
+      "why": "What lifters actually say (\"lên tạ\", \"giữ tạ\").",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Load, reps, sets, progression",
+      "english": "1RM",
+      "vietnamese": "1RM (mức tạ tối đa cho 1 rep)",
+      "keepEnglish": "Keep (abbr.) + gloss",
+      "why": "Abbreviation-first ORDER approved by Hoang (19:04); the gloss is still my proposal. Mostly in research copy.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Load, reps, sets, progression",
+      "english": "volume (sets)",
+      "vietnamese": "\"khối lượng tạ\" (meaning number of hard sets); \"total volume\" = \"tổng khối lượng tạ\"",
+      "keepEnglish": "No",
+      "why": "Hoang's term; app must still say *what* it counts (\"số set nỗ lực\").",
+      "unsure": null,
+      "hoangApproved": "Yes (Hoang)"
+    },
+    {
+      "section": "Load, reps, sets, progression",
+      "english": "total load lifted / tonnage",
+      "vietnamese": "\"tổng khối lượng nâng\"",
+      "keepEnglish": "No",
+      "why": "Hoang's term; kept distinct from volume (\"khối lượng tạ\").",
+      "unsure": null,
+      "hoangApproved": "Yes (Hoang)"
+    },
+    {
+      "section": "Load, reps, sets, progression",
+      "english": "progressive overload",
+      "vietnamese": "\"quá tải lũy tiến\"",
+      "keepEnglish": "No",
+      "why": "Hoang's term. Verb uses \"progress\" are phrased \"duy trì / áp dụng quá tải lũy tiến\"; \"có / không có quá tải lũy tiến\" for progressed vs constant load.",
+      "unsure": null,
+      "hoangApproved": "Yes (Hoang)"
+    },
+    {
+      "section": "Load, reps, sets, progression",
+      "english": "double progression",
+      "vietnamese": "\"lũy tiến kép\", glossed \"lũy tiến kép (tăng rep trước, rồi tăng tạ)\" on first use",
+      "keepEnglish": "No",
+      "why": "Hoang's term.",
+      "unsure": null,
+      "hoangApproved": "Yes (Hoang)"
+    },
+    {
+      "section": "Load, reps, sets, progression",
+      "english": "load step / weight step",
+      "vietnamese": "\"bước tăng tạ\"",
+      "keepEnglish": "No",
+      "why": "Plain.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Load, reps, sets, progression",
+      "english": "Hold (suggestion) / Next (suggestion)",
+      "vietnamese": "\"Giữ nguyên\" / \"Lần tới\"",
+      "keepEnglish": "No",
+      "why": "Matches the suggestion card.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Load, reps, sets, progression",
+      "english": "prescription (sets × reps · RIR · rest)",
+      "vietnamese": "\"Thông số của bạn\" (section label); never \"đơn/chỉ định\"",
+      "keepEnglish": "No",
+      "why": "\"Prescription\" sounds medical in Vietnamese.",
+      "unsure": "⚠",
+      "hoangApproved": null
+    },
+    {
+      "section": "Load, reps, sets, progression",
+      "english": "bodyweight (load)",
+      "vietnamese": "\"trọng lượng cơ thể\"; in tight cells: \"Không tạ\"",
+      "keepEnglish": "No",
+      "why": "\"Bodyweight × 10\" → \"Không tạ × 10\" fits the cell.",
+      "unsure": "⚠ \"tạ người\" is common slang, check.",
+      "hoangApproved": null
+    },
+    {
+      "section": "Rest, timing, frequency",
+      "english": "rest / rest between sets",
+      "vietnamese": "\"nghỉ\", \"nghỉ giữa các set\"",
+      "keepEnglish": "No",
+      "why": "Everyday.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Rest, timing, frequency",
+      "english": "rest timer",
+      "vietnamese": "\"đồng hồ nghỉ\"",
+      "keepEnglish": "No",
+      "why": "Short, clear; \"bộ đếm giờ nghỉ\" is longer.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Rest, timing, frequency",
+      "english": "frequency (per muscle)",
+      "vietnamese": "\"tần suất\" → in UI \"số buổi mỗi tuần cho mỗi nhóm cơ\"",
+      "keepEnglish": "No",
+      "why": "\"Tần suất\" alone is abstract; spell it out where space allows.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Rest, timing, frequency",
+      "english": "session / workout",
+      "vietnamese": "\"buổi tập\"",
+      "keepEnglish": "No",
+      "why": "One word for both avoids confusion.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Rest, timing, frequency",
+      "english": "deload / deload week",
+      "vietnamese": "\"tuần deload (tuần giảm tải)\"",
+      "keepEnglish": "Keep + gloss",
+      "why": "Many VN lifters say \"deload\"; gloss makes it clear it's an easy week, not stopping.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Rest, timing, frequency",
+      "english": "diminishing returns",
+      "vietnamese": "\"lợi ích giảm dần\"",
+      "keepEnglish": "No",
+      "why": "Plain; only in Why? copy.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Rest, timing, frequency",
+      "english": "dose-response (more sets help, each adds a bit less)",
+      "vietnamese": "\"càng nhiều set càng có lợi, nhưng mỗi set thêm có lợi ít hơn\"",
+      "keepEnglish": "No",
+      "why": "Explain, don't name.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Programming and splits",
+      "english": "split (training split)",
+      "vietnamese": "\"lịch tập\"; \"split\" kept in names",
+      "keepEnglish": "Yes, first use – \"lịch tập (split)\"",
+      "why": "VN lifters say both; \"lịch tập\" is what a beginner understands.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Programming and splits",
+      "english": "plan",
+      "vietnamese": "\"kế hoạch\" / \"lịch tập của bạn\"",
+      "keepEnglish": "No",
+      "why": "\"Plan\" tab = \"Kế hoạch\".",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Programming and splits",
+      "english": "Full Body",
+      "vietnamese": "\"Toàn thân (Full Body)\"",
+      "keepEnglish": "Yes",
+      "why": "Both forms are used.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Programming and splits",
+      "english": "Upper / Lower",
+      "vietnamese": "\"Thân trên / Thân dưới\"",
+      "keepEnglish": "Yes",
+      "why": "Literal and natural.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Programming and splits",
+      "english": "Push / Pull / Legs (PPL)",
+      "vietnamese": "\"PPL (Đẩy / Kéo / Chân)\"",
+      "keepEnglish": "Keep (abbr.) + gloss",
+      "why": "Abbreviation-first ORDER approved by Hoang (19:04); the gloss is still my proposal. \"PPL\" is widely known.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Programming and splits",
+      "english": "Hybrid (UL + PPL)",
+      "vietnamese": "\"UL + PPL (Kết hợp)\"",
+      "keepEnglish": "Keep (abbr.) + gloss",
+      "why": "Rewritten for the abbreviation-first rule (was \"Kết hợp (UL + PPL)\").",
+      "unsure": "⚠ \"UL + PPL (Kết hợp)\" vs \"Kết hợp UL + PPL\" (no brackets) – which reads better as a split name?",
+      "hoangApproved": null
+    },
+    {
+      "section": "Programming and splits",
+      "english": "Bro split",
+      "vietnamese": "\"Bro split – mỗi ngày một nhóm cơ\"",
+      "keepEnglish": "Keep + gloss",
+      "why": "Known slang in VN gyms.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Programming and splits",
+      "english": "superset",
+      "vietnamese": "superset – \"tập 2 bài liền nhau, không nghỉ giữa\"",
+      "keepEnglish": "Keep + gloss",
+      "why": "Established loanword; no VN equivalent in common use.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Programming and splits",
+      "english": "compound exercise",
+      "vietnamese": "\"bài đa khớp (compound)\"",
+      "keepEnglish": "Yes",
+      "why": "Established VN term.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Programming and splits",
+      "english": "isolation exercise",
+      "vietnamese": "\"bài đơn khớp (isolation)\"",
+      "keepEnglish": "Yes",
+      "why": "Established VN term.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Programming and splits",
+      "english": "custom exercise",
+      "vietnamese": "\"bài tập\" (\"Tạo bài tập\", \"Bài tập mới\", \"Xóa bài tập\"); the \"Custom\" tag stays \"Tự tạo\"",
+      "keepEnglish": "No",
+      "why": "Hoang's term as he wrote it. Some sentences lose the \"custom\" meaning without a qualifier (custom.intro, you.resetBody, library.customCount, evidence title \"Cách đánh giá bài tập\").",
+      "unsure": "⚠ Ambiguous with \"exercise\" (also \"bài tập\"); see the report list.",
+      "hoangApproved": "Yes (Hoang)"
+    },
+    {
+      "section": "Programming and splits",
+      "english": "community splits",
+      "vietnamese": "\"lịch tập cộng đồng\"",
+      "keepEnglish": "No",
+      "why": "Plain.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Programming and splits",
+      "english": "sample data",
+      "vietnamese": "\"dữ liệu mẫu\"",
+      "keepEnglish": "No",
+      "why": "Plain.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Programming and splits",
+      "english": "swap (exercise) / best match",
+      "vietnamese": "\"đổi bài\" / \"phù hợp nhất\"",
+      "keepEnglish": "No",
+      "why": "Plain.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Programming and splits",
+      "english": "coaching notes",
+      "vietnamese": "\"lời khuyên\"",
+      "keepEnglish": "No",
+      "why": "Friendlier than \"ghi chú huấn luyện\".",
+      "unsure": "⚠",
+      "hoangApproved": null
+    },
+    {
+      "section": "Programming and splits",
+      "english": "cues",
+      "vietnamese": "\"lưu ý kỹ thuật\"",
+      "keepEnglish": "No",
+      "why": "\"Cue\" has no everyday VN equivalent.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Muscle length and resistance profile",
+      "english": "mechanical tension",
+      "vietnamese": "\"sức căng cơ học\"; plain \"sức căng\" for \"tension\"",
+      "keepEnglish": "Yes – \"sức căng cơ học (mechanical tension)\" on first use in Why?",
+      "why": "Hoang's term.",
+      "unsure": null,
+      "hoangApproved": "Yes (Hoang)"
+    },
+    {
+      "section": "Muscle length and resistance profile",
+      "english": "lengthened position / stretch position",
+      "vietnamese": "\"vị trí giãn cơ\" (\"cơ dài nhất\")",
+      "keepEnglish": "Yes, first use in Why?",
+      "why": "\"Giãn cơ\" is everyday; avoids \"vị trí kéo dài\".",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Muscle length and resistance profile",
+      "english": "shortened position / squeeze",
+      "vietnamese": "\"vị trí co cơ\" / \"đoạn siết cơ\"",
+      "keepEnglish": "No",
+      "why": "\"Siết cơ\" is common gym talk for the squeeze.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Muscle length and resistance profile",
+      "english": "lengthened partials",
+      "vietnamese": "\"rep nửa biên độ giãn\" (\"bắp chân nửa biên độ giãn\" etc.)",
+      "keepEnglish": "No",
+      "why": "Hoang's term.",
+      "unsure": null,
+      "hoangApproved": "Yes (Hoang)"
+    },
+    {
+      "section": "Muscle length and resistance profile",
+      "english": "full range of motion (ROM)",
+      "vietnamese": "\"ROM (biên độ) đầy đủ\"; later \"ROM đầy đủ\" / \"hết biên độ\"",
+      "keepEnglish": "Keep (abbr.) + gloss",
+      "why": "Abbreviation-first ORDER approved by Hoang (19:04); the gloss \"biên độ\" is still my proposal.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Muscle length and resistance profile",
+      "english": "resistance profile",
+      "vietnamese": "\"sơ yếu kháng lực\"",
+      "keepEnglish": "Yes, in Why? only",
+      "why": "Hoang's decision (19:01); the three labels \"Nặng nhất ở …\" still describe where the exercise is hardest.",
+      "unsure": null,
+      "hoangApproved": "Yes (Hoang)"
+    },
+    {
+      "section": "Muscle length and resistance profile",
+      "english": "Hardest near the stretch / in the middle / near the squeeze",
+      "vietnamese": "\"Nặng nhất ở đoạn giãn cơ\" / \"Nặng nhất ở giữa biên độ\" / \"Nặng nhất ở đoạn siết cơ\"",
+      "keepEnglish": "No",
+      "why": "Mirrors the three English labels exactly.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Muscle length and resistance profile",
+      "english": "range of motion",
+      "vietnamese": "\"biên độ chuyển động\"",
+      "keepEnglish": "No",
+      "why": "Established.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Muscle length and resistance profile",
+      "english": "negative / eccentric (lowering phase)",
+      "vietnamese": "\"pha hạ tạ (negative)\"",
+      "keepEnglish": "Yes",
+      "why": "\"Negative\" is used in VN gyms; \"ly tâm\" is academic.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Muscle length and resistance profile",
+      "english": "dead hang",
+      "vietnamese": "\"treo thả lỏng\"",
+      "keepEnglish": "No",
+      "why": "Descriptive.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Muscle length and resistance profile",
+      "english": "hinge (movement)",
+      "vietnamese": "\"gập hông\"",
+      "keepEnglish": "No",
+      "why": "Plain.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Muscles (app's 14 + extras)",
+      "english": "primary muscle (agonist)",
+      "vietnamese": "\"cơ chủ vận\"",
+      "keepEnglish": "No",
+      "why": "Hoang's term (\"Cơ chủ vận\" label, \"Lọc theo cơ chủ vận\").",
+      "unsure": null,
+      "hoangApproved": "Yes (Hoang)"
+    },
+    {
+      "section": "Muscles (app's 14 + extras)",
+      "english": "secondary (helper) muscle",
+      "vietnamese": "\"cơ hỗ trợ\"",
+      "keepEnglish": "No",
+      "why": "Standard; \"½ set\" stays.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Muscles (app's 14 + extras)",
+      "english": "Chest",
+      "vietnamese": "Ngực",
+      "keepEnglish": "No",
+      "why": "Standard.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Muscles (app's 14 + extras)",
+      "english": "Front delts / Side delts / Rear delts",
+      "vietnamese": "Vai trước / Vai giữa / Vai sau",
+      "keepEnglish": "No",
+      "why": "Standard VN gym names.",
+      "unsure": "⚠ \"vai giữa\" vs \"vai bên\"",
+      "hoangApproved": null
+    },
+    {
+      "section": "Muscles (app's 14 + extras)",
+      "english": "Lats",
+      "vietnamese": "Lưng xô",
+      "keepEnglish": "No",
+      "why": "Standard gym term.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Muscles (app's 14 + extras)",
+      "english": "Upper back",
+      "vietnamese": "Lưng trên",
+      "keepEnglish": "No",
+      "why": "Plain.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Muscles (app's 14 + extras)",
+      "english": "Spinal erectors",
+      "vietnamese": "Cơ dựng sống (lưng dưới)",
+      "keepEnglish": "No",
+      "why": "Anatomical + plain gloss.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Muscles (app's 14 + extras)",
+      "english": "Biceps / Triceps",
+      "vietnamese": "Tay trước / Tay sau",
+      "keepEnglish": "No",
+      "why": "What VN lifters say (\"bắp tay trước/sau\" also fine).",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Muscles (app's 14 + extras)",
+      "english": "Forearms",
+      "vietnamese": "Cẳng tay",
+      "keepEnglish": "No",
+      "why": "Standard.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Muscles (app's 14 + extras)",
+      "english": "Quads / Hamstrings",
+      "vietnamese": "Đùi trước / Đùi sau",
+      "keepEnglish": "No",
+      "why": "Standard.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Muscles (app's 14 + extras)",
+      "english": "Glutes",
+      "vietnamese": "Mông",
+      "keepEnglish": "No",
+      "why": "Standard.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Muscles (app's 14 + extras)",
+      "english": "Adductors",
+      "vietnamese": "Đùi trong",
+      "keepEnglish": "No",
+      "why": "Plain (\"cơ khép\" is anatomical).",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Muscles (app's 14 + extras)",
+      "english": "Calves",
+      "vietnamese": "Bắp chân",
+      "keepEnglish": "No",
+      "why": "Standard.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Muscles (app's 14 + extras)",
+      "english": "Abs",
+      "vietnamese": "Cơ bụng (muscle label and sentences)",
+      "keepEnglish": "No",
+      "why": "Hoang's term. \"Cơ bụng chân\" (gastrocnemius), \"Gập bụng\", \"Gồng bụng\" are separate words and unchanged.",
+      "unsure": null,
+      "hoangApproved": "Yes (Hoang)"
+    },
+    {
+      "section": "Equipment and app UI words",
+      "english": "barbell / dumbbell",
+      "vietnamese": "tạ đòn / tạ đơn",
+      "keepEnglish": "No",
+      "why": "Standard.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Equipment and app UI words",
+      "english": "cable",
+      "vietnamese": "cáp (no \"puly\"); pulley height is written \"cáp đặt thấp / cáp đặt cao / cáp đặt ngang ngực\"",
+      "keepEnglish": "No",
+      "why": "Hoang's term. Exercise names now say \"cáp\" twice in places, e.g. \"Dang tay cáp, cáp đặt thấp, cáp vắt trước người\".",
+      "unsure": null,
+      "hoangApproved": "Yes (Hoang)"
+    },
+    {
+      "section": "Equipment and app UI words",
+      "english": "machine / Smith machine",
+      "vietnamese": "máy / máy Smith",
+      "keepEnglish": "No",
+      "why": "Standard.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Equipment and app UI words",
+      "english": "EZ bar",
+      "vietnamese": "đòn EZ",
+      "keepEnglish": "No",
+      "why": "Standard.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Equipment and app UI words",
+      "english": "bench / pad",
+      "vietnamese": "ghế / đệm",
+      "keepEnglish": "No",
+      "why": "Standard.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Equipment and app UI words",
+      "english": "Full gym / Dumbbells / Bodyweight (equipment setup)",
+      "vietnamese": "Phòng gym đầy đủ / Tạ đơn / Không dụng cụ (tạ người)",
+      "keepEnglish": "No",
+      "why": "Describes the setup, not the load.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Equipment and app UI words",
+      "english": "Why?",
+      "vietnamese": "Tại sao?",
+      "keepEnglish": "No",
+      "why": "Short chip; \"Vì sao?\" also fine.",
+      "unsure": "⚠ \"Tại sao?\" vs \"Vì sao?\"",
+      "hoangApproved": null
+    },
+    {
+      "section": "Equipment and app UI words",
+      "english": "evidence strength",
+      "vietnamese": "\"mức độ bằng chứng\"",
+      "keepEnglish": "No",
+      "why": "Plain.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Equipment and app UI words",
+      "english": "research note",
+      "vietnamese": "\"ghi chú nghiên cứu\"",
+      "keepEnglish": "No",
+      "why": "Plain.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "Equipment and app UI words",
+      "english": "tick (a set)",
+      "vietnamese": "\"đánh dấu xong\"",
+      "keepEnglish": "No",
+      "why": "Matches the checkmark.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "New in evidence pass (Why? sheets and citation details)",
+      "english": "muscle growth / hypertrophy",
+      "vietnamese": "\"tăng cơ\"; \"phát triển\" for a single muscle (\"cơ đùi trước phát triển\")",
+      "keepEnglish": "No",
+      "why": "Everyday words; avoids the academic \"phì đại cơ\". New in evidence pass.",
+      "unsure": "⚠ \"tăng cơ\" vs \"phát triển cơ\"",
+      "hoangApproved": null
+    },
+    {
+      "section": "New in evidence pass (Why? sheets and citation details)",
+      "english": "evidence grades Strong / Moderate / Limited / Weak / Theoretical",
+      "vietnamese": "\"Mạnh\" / \"Trung bình\" / \"Hạn chế\" / \"Yếu\" / \"Lý thuyết\"",
+      "keepEnglish": "No",
+      "why": "Short labels that match the English grades one to one. New in evidence pass.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "New in evidence pass (Why? sheets and citation details)",
+      "english": "meta-analysis / systematic review / narrative review",
+      "vietnamese": "\"phân tích tổng hợp\" / \"tổng quan hệ thống\" / \"bài tổng quan tường thuật\"",
+      "keepEnglish": "No",
+      "why": "Standard Vietnamese research terms. New in evidence pass.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "New in evidence pass (Why? sheets and citation details)",
+      "english": "meta-regression / network meta-analysis",
+      "vietnamese": "\"phân tích hồi quy tổng hợp\" / \"phân tích tổng hợp mạng lưới\"",
+      "keepEnglish": "No",
+      "why": "Follows the meta-analysis term. New in evidence pass.",
+      "unsure": "⚠",
+      "hoangApproved": null
+    },
+    {
+      "section": "New in evidence pass (Why? sheets and citation details)",
+      "english": "trial / randomised trial / crossover / within-subject",
+      "vietnamese": "\"thử nghiệm\" / \"thử nghiệm ngẫu nhiên\" / \"thiết kế bắt chéo\" / \"so sánh trên cùng người\"",
+      "keepEnglish": "No",
+      "why": "Plain; \"so sánh trên cùng người\" explains one-arm/one-leg designs. New in evidence pass.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "New in evidence pass (Why? sheets and citation details)",
+      "english": "trained / untrained (participants)",
+      "vietnamese": "\"người đã có kinh nghiệm tập\" / \"người chưa tập\"",
+      "keepEnglish": "No",
+      "why": "Plain, not \"đã qua huấn luyện\". New in evidence pass.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "New in evidence pass (Why? sheets and citation details)",
+      "english": "muscle thickness",
+      "vietnamese": "\"độ dày cơ\"",
+      "keepEnglish": "No",
+      "why": "Literal and clear. New in evidence pass.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "New in evidence pass (Why? sheets and citation details)",
+      "english": "CSA (cross-sectional area)",
+      "vietnamese": "\"CSA (tiết diện cơ)\" on first use, then \"tiết diện cơ\"",
+      "keepEnglish": "Keep (abbr.) + gloss",
+      "why": "Abbreviation-first rule. New in evidence pass.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "New in evidence pass (Why? sheets and citation details)",
+      "english": "lean mass / fat-free mass",
+      "vietnamese": "\"khối nạc\" / \"khối không mỡ\"",
+      "keepEnglish": "No",
+      "why": "Standard body-composition terms. New in evidence pass.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "New in evidence pass (Why? sheets and citation details)",
+      "english": "volume load",
+      "vietnamese": "\"tổng khối lượng nâng\" (proposal)",
+      "keepEnglish": "No",
+      "why": "Close to Hoang's tonnage term as he asked; volume load (sets × reps × load) is the same quantity as tonnage, so one term. New in evidence pass.",
+      "unsure": "⚠ Proposal: same words as tonnage; alternative \"tổng khối lượng nâng (volume load)\" on first use.",
+      "hoangApproved": null
+    },
+    {
+      "section": "New in evidence pass (Why? sheets and citation details)",
+      "english": "velocity loss / bar velocity",
+      "vietnamese": "\"mức giảm tốc độ\" / \"tốc độ đòn\"",
+      "keepEnglish": "No",
+      "why": "Descriptive. New in evidence pass.",
+      "unsure": "⚠",
+      "hoangApproved": null
+    },
+    {
+      "section": "New in evidence pass (Why? sheets and citation details)",
+      "english": "autoregulation / autoregulated",
+      "vietnamese": "\"tự điều chỉnh (mức tạ)\"",
+      "keepEnglish": "No",
+      "why": "Describes what happens: load set by how the day feels. New in evidence pass.",
+      "unsure": "⚠",
+      "hoangApproved": null
+    },
+    {
+      "section": "New in evidence pass (Why? sheets and citation details)",
+      "english": "resistance curve",
+      "vietnamese": "\"đường kháng lực\"",
+      "keepEnglish": "No",
+      "why": "Matches \"sơ yếu kháng lực\". New in evidence pass.",
+      "unsure": "⚠",
+      "hoangApproved": null
+    },
+    {
+      "section": "New in evidence pass (Why? sheets and citation details)",
+      "english": "partial ROM / initial (lengthened) ROM",
+      "vietnamese": "\"ROM một phần\" / \"ROM một phần ở đoạn đầu (đoạn giãn)\"",
+      "keepEnglish": "Keep (abbr.)",
+      "why": "Abbreviation-first rule. New in evidence pass.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "New in evidence pass (Why? sheets and citation details)",
+      "english": "eccentric / isometric",
+      "vietnamese": "\"pha hạ tạ (eccentric)\" / \"tĩnh\" (e.g. \"lực tĩnh\")",
+      "keepEnglish": "Yes, first use",
+      "why": "Keeps the gym word \"pha hạ tạ\"; \"ly tâm\" is academic. New in evidence pass.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "New in evidence pass (Why? sheets and citation details)",
+      "english": "vastus lateralis / rectus femoris / vastus intermedius",
+      "vietnamese": "\"cơ đùi ngoài (vastus lateralis)\" / \"cơ thẳng đùi (rectus femoris)\" / \"cơ đùi giữa (vastus intermedius)\"",
+      "keepEnglish": "Yes, first use",
+      "why": "Plain name + Latin on first use. New in evidence pass.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "New in evidence pass (Why? sheets and citation details)",
+      "english": "gastrocnemius / soleus / gluteus maximus",
+      "vietnamese": "\"cơ bụng chân\" / \"cơ dép\" / \"cơ mông lớn\"",
+      "keepEnglish": "No",
+      "why": "Standard anatomy names. New in evidence pass.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "New in evidence pass (Why? sheets and citation details)",
+      "english": "elbow flexors / knee extensors",
+      "vietnamese": "\"cơ gập khuỷu\" / \"cơ duỗi gối\"",
+      "keepEnglish": "No",
+      "why": "Literal and clear. New in evidence pass.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "New in evidence pass (Why? sheets and citation details)",
+      "english": "proximal / distal (region)",
+      "vietnamese": "\"phần gần\" / \"phần xa\"",
+      "keepEnglish": "No",
+      "why": "Standard anatomy wording. New in evidence pass.",
+      "unsure": "⚠",
+      "hoangApproved": null
+    },
+    {
+      "section": "New in evidence pass (Why? sheets and citation details)",
+      "english": "not significant / effect size",
+      "vietnamese": "\"không có ý nghĩa (thống kê)\" / \"hệ số ảnh hưởng\"",
+      "keepEnglish": "No",
+      "why": "Standard Vietnamese statistics terms. New in evidence pass.",
+      "unsure": null,
+      "hoangApproved": null
+    },
+    {
+      "section": "New in evidence pass (Why? sheets and citation details)",
+      "english": "online ahead of print",
+      "vietnamese": "\"Đăng trực tuyến trước khi in.\"",
+      "keepEnglish": "No",
+      "why": "Standard. New in evidence pass.",
+      "unsure": null,
+      "hoangApproved": null
+    }
+  ]
+}
